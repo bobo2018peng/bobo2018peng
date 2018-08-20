@@ -1,0 +1,58 @@
+<table border=0 cellpadding=0 cellspacing=5 width="100%">
+<tr><td class=title><span>客户端API调用示例</span></td></tr>
+<tr>
+	<td><p>您可以用eWebEditor提供的客户端API，对编辑器执行高级操作。更多API，请参见开发手册。</p></td>
+</tr>
+<tr>
+	<td><hr size=1 color="#eeeeee"></td>
+</tr>
+<tr>
+	<td>
+	
+	<table border=0 cellpadding=0 cellspacing=3>
+	<form method="post" name="myform" action="retrieve.asp">
+	<tr>
+		<td>
+			<INPUT type="hidden" name="content1" value="&lt;P&gt;这是&lt;STRONG&gt;测试文字内容&lt;/STRONG&gt;。 您正在使用 &lt;A href=&quot;http://www.ewebeditor.net/&quot;&gt;eWebEditor&lt;/A&gt;.&lt;/P&gt;&lt;P&gt;&lt;IMG src=&quot;/images/logo.gif&quot; border=0&gt;&nbsp;- 在线HTML编辑器，HTML在线编辑好帮手&lt;/P&gt;&lt;P&gt;&lt;TABLE style=&quot;WIDTH: 500px; BORDER-COLLAPSE: collapse&quot; borderColor=#999999 cellSpacing=2 cellPadding=3 bgColor=#ffffff border=1&gt;&lt;TBODY&gt;&lt;TR&gt;&lt;TD&gt;&amp;nbsp;&lt;/TD&gt;&lt;TD&gt;&amp;nbsp;&lt;/TD&gt;&lt;/TR&gt;&lt;TR&gt;&lt;TD&gt;&amp;nbsp;&lt;/TD&gt;&lt;TD&gt;&amp;nbsp;&lt;/TD&gt;&lt;/TR&gt;&lt;/TBODY&gt;&lt;/TABLE&gt;&lt;/P&gt;&lt;P&gt;&nbsp;&lt;/P&gt;">
+<iframe id="eWebEditor1" src="ewebeditor.htm?id=content1&style=standard600&skin=office2003" frameborder="0" scrolling="no" width="580" height="350"></iframe>
+		</td>
+	</tr>
+	<tr>
+		<td>
+			<TEXTAREA cols=50 rows=5 id=myTextArea style="width:600px"><INPUT type="hidden" name="content1" value="测试">
+<iframe id="eWebEditor1" src="ewebeditor.htm?id=content1&style=standard600&skin=office2003" frameborder="0" scrolling="no" width="580" height="350"></iframe>
+</TEXTAREA>
+		</td>
+	</tr>
+	<TR>
+		<TD align=right>
+
+		<INPUT type=button value="取值(HTML)" onclick="myTextArea.value=eWebEditor1.getHTML()" class=btn> 
+		<INPUT type=button value="取值(纯文本)" onclick="myTextArea.value=eWebEditor1.getText()" class=btn> 
+		<INPUT type=button value="赋值" onclick="eWebEditor1.setHTML('<b>Hello My World!</b>')" class=btn>
+		<INPUT type=button value="当前位置插入" onclick="eWebEditor1.insertHTML('This is insertHTML function!')" class=btn>
+		<INPUT type=button value="尾部追加" onclick="eWebEditor1.appendHTML('This is appendHTML function!')" class=btn>
+		<br>
+		<INPUT type=button value="代码状态" onclick="eWebEditor1.setMode('CODE')" class=btn>
+		<INPUT type=button value="设计状态" onclick="eWebEditor1.setMode('EDIT')" class=btn>
+		<INPUT type=button value="文本状态" onclick="eWebEditor1.setMode('TEXT')" class=btn>
+		<INPUT type=button value="预览状态" onclick="eWebEditor1.setMode('VIEW')" class=btn>
+		<br>
+		<INPUT type=button value="英文字数" onclick="alert(eWebEditor1.getCount(0))" class=btn>
+		<INPUT type=button value="中文字数" onclick="alert(eWebEditor1.getCount(1))" class=btn>
+		<INPUT type=button value="中英文字数(中文加1)" onclick="alert(eWebEditor1.getCount(2))" class=btn>
+		<INPUT type=button value="中英文字数(中文加2)" onclick="alert(eWebEditor1.getCount(3))" class=btn>
+
+		</TD>
+	</TR>
+	<tr>
+		<td><hr size=1 color="#eeeeee"></td>
+	</tr>
+	<tr>
+		<td>
+			<INPUT type=submit value="提交" class=btn onclick="content.value=eWebEditor1.getHTML()"> 
+			<INPUT type=reset value="重填" class=btn> 
+		</td>
+	</tr>
+	</form>
+	</table>
