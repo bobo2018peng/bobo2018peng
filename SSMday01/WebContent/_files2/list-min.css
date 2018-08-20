@@ -1,0 +1,4026 @@
+article {
+	DISPLAY: block
+}
+aside {
+	DISPLAY: block
+}
+details {
+	DISPLAY: block
+}
+figcaption {
+	DISPLAY: block
+}
+figure {
+	DISPLAY: block
+}
+footer {
+	DISPLAY: block
+}
+header {
+	DISPLAY: block
+}
+hgroup {
+	DISPLAY: block
+}
+nav {
+	DISPLAY: block
+}
+section {
+	DISPLAY: block
+}
+audio {
+	ZOOM: 1; DISPLAY: inline
+}
+canvas {
+	ZOOM: 1; DISPLAY: inline
+}
+video {
+	ZOOM: 1; DISPLAY: inline
+}
+UNKNOWN {
+	DISPLAY: none
+}
+[hidden] {
+	DISPLAY: none
+}
+HTML {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LEGEND {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND-COLOR: #fff
+}
+BODY {
+	FONT: 400 12px/1.5 Simsun,Arial; COLOR: #333
+}
+TEXTAREA {
+	FONT: 400 12px/1.5 Simsun,Arial; COLOR: #333
+}
+A {
+	COLOR: #333; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0657b2; TEXT-DECORATION: underline
+}
+EM {
+	FONT-STYLE: normal
+}
+I {
+	FONT-STYLE: normal
+}
+H1 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H2 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H3 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H4 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H5 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H6 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+STRONG {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+LABEL {
+	VERTICAL-ALIGN: middle
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; VERTICAL-ALIGN: middle; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+BUTTON {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; VERTICAL-ALIGN: middle; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+TABLE {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+TH {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+TD {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+FIELDSET {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+LEGEND {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+PRE {
+	WHITE-SPACE: pre-wrap
+}
+.layout {
+	MARGIN: 0px auto; WIDTH: 980px
+}
+.iblock {
+	ZOOM: 1; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.clearall {
+	ZOOM: 1
+}
+.clearall:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.pipe {
+	PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #d5d5d5; PADDING-TOP: 0px
+}
+.vm {
+	VERTICAL-ALIGN: middle
+}
+.fl {
+	FLOAT: left
+}
+.fr {
+	FLOAT: right
+}
+.tl {
+	TEXT-ALIGN: left
+}
+.tr {
+	TEXT-ALIGN: right
+}
+.tc {
+	TEXT-ALIGN: center
+}
+.mt10 {
+	MARGIN-TOP: 10px !important
+}
+.mb10 {
+	MARGIN-BOTTOM: 10px
+}
+.close {
+	Z-INDEX: 9; POSITION: absolute; WIDTH: 15px; BACKGROUND: url(../../forum/default/images/icon_common.png) no-repeat 4px 4px; HEIGHT: 0px; OVERFLOW: hidden; TOP: 4px; CURSOR: pointer; RIGHT: 10px; PADDING-TOP: 15px
+}
+.close:hover {
+	BACKGROUND-POSITION: 4px -32px
+}
+.fix-ie6 {
+	Z-INDEX: -1; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; WIDTH: 999px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 999px; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: 0px; LEFT: 0px; _filter: Alpha(opacity=0)
+}
+.color1 {
+	COLOR: #334f67
+}
+.color2 {
+	COLOR: #8ca226
+}
+.color3 {
+	COLOR: #fc6d02
+}
+.color6 {
+	COLOR: #666
+}
+.color9 {
+	COLOR: #999
+}
+.placeholder {
+	COLOR: #999 !important
+}
+:unknown {
+	COLOR: #999 !important
+}
+:unknown {
+	COLOR: #999 !important
+}
+.yahei {
+	FONT: 700 16px/1.5 "Microsoft YaHei"
+}
+.arial {
+	FONT-FAMILY: Arial
+}
+.f12 {
+	FONT-SIZE: 12px
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.f16 {
+	FONT-SIZE: 16px
+}
+.fb {
+	FONT-WEIGHT: 700
+}
+.link0 A {
+	COLOR: #0657b2
+}
+.link0 A:visited {
+	COLOR: #0657b2
+}
+.link0 A:hover {
+	COLOR: #fc6d02
+}
+.link1 A {
+	COLOR: #334f67
+}
+.link1 A:visited {
+	COLOR: #334f67
+}
+.link1 A:hover {
+	COLOR: #334f67
+}
+.link2 A {
+	COLOR: #8ca226
+}
+.link2 A:visited {
+	COLOR: #8ca226
+}
+.link2 A:hover {
+	COLOR: #8ca226
+}
+.link3 A {
+	COLOR: #fc6d02
+}
+.link3 A:visited {
+	COLOR: #fc6d02
+}
+.link3 A:hover {
+	COLOR: #0657b2
+}
+.link6 A {
+	COLOR: #666
+}
+.link6 A:visited {
+	COLOR: #666
+}
+.link6 A:hover {
+	COLOR: #0657b2
+}
+.link9 A {
+	COLOR: #999
+}
+.link9 A:visited {
+	COLOR: #999
+}
+.link9 A:hover {
+	COLOR: #0657b2
+}
+.txt {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #333; FONT-SIZE: 12px; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px; border-radius: 3px
+}
+.txtarea {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #333; FONT-SIZE: 12px; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px; border-radius: 3px
+}
+.txt {
+	HEIGHT: 14px
+}
+.txt-large {
+	FONT-SIZE: 14px
+}
+.txt-middle {
+	FONT-SIZE: 14px
+}
+.txt-large {
+	LINE-HEIGHT: 22px; HEIGHT: 22px
+}
+.txt-middle {
+	LINE-HEIGHT: 18px; HEIGHT: 18px
+}
+.txt:hover {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.txt:focus {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.txtarea:hover {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.txtarea:focus {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.error {
+	BORDER-BOTTOM-COLOR: #ffabab; BORDER-TOP-COLOR: #ffabab; BORDER-RIGHT-COLOR: #ffabab; BORDER-LEFT-COLOR: #ffabab; box-shadow: 0 0 5px #FFABAB
+}
+.error:hover {
+	BORDER-BOTTOM-COLOR: #ffabab; BORDER-TOP-COLOR: #ffabab; BORDER-RIGHT-COLOR: #ffabab; BORDER-LEFT-COLOR: #ffabab; box-shadow: 0 0 5px #FFABAB
+}
+.error:focus {
+	BORDER-BOTTOM-COLOR: #ffabab; BORDER-TOP-COLOR: #ffabab; BORDER-RIGHT-COLOR: #ffabab; BORDER-LEFT-COLOR: #ffabab; box-shadow: 0 0 5px #FFABAB
+}
+.checkbox {
+	WIDTH: 13px; HEIGHT: 13px
+}
+.radio {
+	WIDTH: 13px; HEIGHT: 13px
+}
+#announce {
+	BORDER-BOTTOM: #e7cb5a 1px solid; POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 30px; BACKGROUND: #fff2a7; HEIGHT: 29px; COLOR: #ff4800; FONT-WEIGHT: 700
+}
+.ad-close {
+	Z-INDEX: 1; OUTLINE-STYLE: none; WIDTH: 43px; BACKGROUND: url(../../forum/default/images/img_ad/float_ad_closed.gif) no-repeat 0px 0px; HEIGHT: 15px
+}
+.ad-embed-mask {
+	POSITION: absolute; FILTER: alpha(opacity=0); BACKGROUND-COLOR: #fff; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px; opacity: 0
+}
+.ad-adjust-width {
+	DISPLAY: none
+}
+.head-ad {
+	LINE-HEIGHT: 0; MARGIN: 0px auto; WIDTH: 980px; ZOOM: 1
+}
+.float-ad-wrap .float-ad {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 100px; HEIGHT: 315px; OVERFLOW: hidden; TOP: 0px; _position: absolute
+}
+.float-ad-wrap .float-ad-left {
+	LEFT: 0px
+}
+.float-ad-wrap .float-ad-right {
+	RIGHT: 0px
+}
+.float-ad-wrap .float-ad-bottom {
+	BOTTOM: 0px; HEIGHT: 300px; TOP: auto; PADDING-TOP: 15px
+}
+.float-ad .float-ad-close {
+	POSITION: absolute; BOTTOM: 0px
+}
+.float-ad-bottom .float-ad-close {
+	BOTTOM: auto; TOP: 0px
+}
+.float-ad-left .float-ad-close {
+	LEFT: 0px
+}
+.float-ad-right .float-ad-close {
+	RIGHT: 0px
+}
+.float-ad .ad-embed-mask {
+	WIDTH: 100px; HEIGHT: 300px
+}
+.pop-ad {
+	Z-INDEX: 999; POSITION: fixed; MARGIN-TOP: -175px; WIDTH: 500px; HEIGHT: 350px; MARGIN-LEFT: -250px; OVERFLOW: hidden; TOP: 50%; LEFT: 50%; _position: absolute
+}
+.pop-ad .pop-ad-close {
+	POSITION: absolute; TOP: 5px; RIGHT: 5px
+}
+.pop-ad .pop-ad-content {
+	POSITION: relative
+}
+.pop-ad .ad-embed-mask {
+	WIDTH: 500px; HEIGHT: 350px
+}
+.error_txt {
+	BORDER-BOTTOM: #ffabab 1px solid; BORDER-LEFT: #ffabab 1px solid; BORDER-TOP: #ffabab 1px solid; BORDER-RIGHT: #ffabab 1px solid
+}
+.error_txt:hover {
+	BORDER-BOTTOM: #ffabab 1px solid; BORDER-LEFT: #ffabab 1px solid; BORDER-TOP: #ffabab 1px solid; BORDER-RIGHT: #ffabab 1px solid
+}
+.corner-ad {
+	Z-INDEX: 999; POSITION: fixed; BOTTOM: 0px; RIGHT: 0px; _position: absolute
+}
+.corner-ad .corner-ad-thumbnail {
+	OUTLINE-STYLE: none; WIDTH: 100px; HEIGHT: 100px
+}
+.corner-ad .corner-ad-main {
+	OUTLINE-STYLE: none; WIDTH: 300px; HEIGHT: 300px
+}
+.corner-ad .corner-ad-thumbnail .ad-embed-mask {
+	WIDTH: 100px; HEIGHT: 100px
+}
+.projection-ad {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; DISPLAY: none
+}
+.projection-ad .projection-ad-close {
+	Z-INDEX: 1; POSITION: absolute; OUTLINE-STYLE: none; WIDTH: 19px; BACKGROUND: url(../../forum/default/images/img_ad/dk_ad_closed.gif) no-repeat 0px 0px; HEIGHT: 19px; TOP: 10px; RIGHT: 10px
+}
+.projection-ad .projection-ad-replay {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 19px; OUTLINE-STYLE: none; WIDTH: 52px; BACKGROUND: url(../../forum/default/images/img_ad/bn_play.gif) no-repeat 0px 0px; HEIGHT: 19px; TOP: -10px; RIGHT: -60px
+}
+.projection-ad .projection-ad-content {
+	POSITION: relative; DISPLAY: none; MARGIN-BOTTOM: 10px; HEIGHT: 400px; OVERFLOW: hidden; _zoom: 1
+}
+.projection-ad .projection-ad-content .ad-embed-mask {
+	WIDTH: 980px; HEIGHT: 400px
+}
+.post-ad {
+	POSITION: relative; WIDTH: 100px; FLOAT: right; HEIGHT: 300px; MARGIN-LEFT: 10px; OVERFLOW: hidden; _display: inline
+}
+.post-ad .ad-embed-mask {
+	WIDTH: 100px; HEIGHT: 300px
+}
+.ad650-60 {
+	WIDTH: 650px; MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad100-300 {
+	WIDTH: 100px; FLOAT: right; HEIGHT: 300px; MARGIN-LEFT: 10px; OVERFLOW: hidden
+}
+.reply-ad {
+	WIDTH: 100px; FLOAT: right; HEIGHT: 240px; OVERFLOW: hidden; MARGIN-RIGHT: 15px; _display: inline
+}
+.ad {
+	POSITION: relative; MARGIN-BOTTOM: 10px; OVERFLOW: hidden
+}
+.ad-980x90 {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-980x60 {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-650x60 {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-980x90 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 90px
+}
+.ad-980x60 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 60px
+}
+.ad-740x60 {
+	WIDTH: 740px; HEIGHT: 60px
+}
+.ad-230x60 {
+	WIDTH: 230px; HEIGHT: 60px
+}
+.ad-650x60 {
+	WIDTH: 650px; MARGIN-BOTTOM: 10px; HEIGHT: 60px; MARGIN-LEFT: 5px
+}
+.ad-980x90 .ad-embed-mask {
+	WIDTH: 980px
+}
+.ad-980x60 .ad-embed-mask {
+	WIDTH: 980px
+}
+.ad-980x90 .ad-embed-mask {
+	HEIGHT: 90px
+}
+.ad-980x60 .ad-embed-mask {
+	HEIGHT: 60px
+}
+.ad-650x60 .ad-embed-mask {
+	HEIGHT: 60px
+}
+.ad-170x60 {
+	WIDTH: 680px; OVERFLOW: hidden
+}
+.ad-170x60 LI {
+	WIDTH: 170px; FLOAT: left; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-170x60 .ad-embed-mask {
+	WIDTH: 170px; HEIGHT: 60px
+}
+.ad-190x60 {
+	LINE-HEIGHT: 0; MARGIN: auto; WIDTH: 985px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.ad-190x60 LI {
+	POSITION: relative; PADDING-BOTTOM: 10px; MARGIN: 0px 7px 0px 0px; WIDTH: 190px; ZOOM: 1; FLOAT: left; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-190x60 LI.adv-320-60 {
+	WIDTH: 320px; MARGIN-RIGHT: 10px
+}
+.ad-190x60 LI.adv-410-60 {
+	WIDTH: 410px; MARGIN-RIGHT: 10px
+}
+.ad-190x60 LI.adv-230-60 {
+	WIDTH: 230px; MARGIN-RIGHT: 0px
+}
+.ad-190x60 .ad-embed-mask {
+	WIDTH: 190px; HEIGHT: 60px
+}
+.ad-230x180 {
+	WIDTH: 230px; HEIGHT: 180px
+}
+.ad-230x180 .ad-embed-mask {
+	WIDTH: 230px; HEIGHT: 180px
+}
+.ad-680x90 {
+	MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden; _zoom: 1
+}
+.ad-680x90 LI {
+	POSITION: relative; PADDING-BOTTOM: 10px; WIDTH: 140px; MARGIN-BOTTOM: 0px; FLOAT: left; HEIGHT: 90px; OVERFLOW: hidden
+}
+.ad-680x90 .ad-main {
+	MARGIN: 0px 10px 10px; WIDTH: 680px; FLOAT: left; HEIGHT: 90px; OVERFLOW: hidden
+}
+.ad-680x90 .ad-main .ad-embed-mask {
+	WIDTH: 680px; HEIGHT: 90px
+}
+.ad-230x60 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-740x60 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-230x60 {
+	WIDTH: 230px
+}
+.ad-740x60 {
+	WIDTH: 740px
+}
+.ad-980x40 {
+	Z-INDEX: 10; POSITION: relative; HEIGHT: 40px; OVERFLOW: hidden
+}
+.ad-320x90 {
+	MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-320x90 .ad-center {
+	MARGIN: 0px 10px
+}
+.ad-320x90 .ad-cycle {
+	MARGIN-TOP: 10px; WIDTH: 320px; FLOAT: left; HEIGHT: 90px; OVERFLOW: hidden
+}
+.go-top {
+	Z-INDEX: 80; POSITION: fixed; TEXT-ALIGN: center; BOTTOM: 300px; RIGHT: 15px; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.1); _position: absolute
+}
+.go-top A {
+	BORDER-BOTTOM: #d9e6bb 1px solid; BORDER-LEFT: #d9e6bb 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: #f7fbec; PADDING-LEFT: 5px; WIDTH: 18px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid; PADDING-TOP: 5px
+}
+.go-top A:visited {
+	BORDER-BOTTOM: #d9e6bb 1px solid; BORDER-LEFT: #d9e6bb 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: #f7fbec; PADDING-LEFT: 5px; WIDTH: 18px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid; PADDING-TOP: 5px
+}
+.go-top A:hover {
+	BORDER-BOTTOM-COLOR: #8ca226; BACKGROUND-COLOR: #8ca226; BORDER-TOP-COLOR: #8ca226; COLOR: #fff; BORDER-RIGHT-COLOR: #8ca226; BORDER-LEFT-COLOR: #8ca226; TEXT-DECORATION: none
+}
+.go-top .icon {
+	WIDTH: 16px; DISPLAY: block; BACKGROUND: url(../../forum/default/images/common.png) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.go-top .close-go-top {
+	DISPLAY: none; border-radius: 5px 5px 0 0
+}
+.go-top .close-go-top:visited {
+	DISPLAY: none; border-radius: 5px 5px 0 0
+}
+.close-go-top .icon {
+	BACKGROUND-POSITION: -37px -56px
+}
+.close-go-top:hover .icon {
+	BACKGROUND-POSITION: -57px -56px
+}
+.go-top .customer-service {
+	BORDER-BOTTOM-STYLE: none; border-radius: 5px 5px 0 0
+}
+.go-top .customer-service:visited {
+	BORDER-BOTTOM-STYLE: none; border-radius: 5px 5px 0 0
+}
+.customer-service .icon {
+	MARGIN: 0px 0px 2px 2px; BACKGROUND-POSITION: 0px -59px
+}
+.customer-service:hover .icon {
+	BACKGROUND-POSITION: -20px -59px
+}
+.go-top .back-to-top {
+	border-radius: 0 0 5px 5px
+}
+.go-top .back-to-top:visited {
+	border-radius: 0 0 5px 5px
+}
+.back-to-top .arrow {
+	BORDER-BOTTOM: #8ca226 6px solid; BORDER-LEFT: #f7fbec 6px solid; MARGIN: 2px; WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; OVERFLOW: hidden; BORDER-RIGHT: #f7fbec 6px solid
+}
+.back-to-top:hover .arrow {
+	BORDER-BOTTOM: #f7fbec 6px solid; BORDER-LEFT: #8ca226 6px solid; BORDER-RIGHT: #8ca226 6px solid
+}
+.go-top-hover .close-go-top {
+	DISPLAY: block
+}
+.go-top-hover .close-go-top:visited {
+	DISPLAY: block
+}
+.go-top-hover .customer-service {
+	BORDER-TOP-STYLE: none; border-radius: 0
+}
+.go-top-hover .customer-service:visited {
+	BORDER-TOP-STYLE: none; border-radius: 0
+}
+.at {
+	LINE-HEIGHT: 18px; PADDING-LEFT: 15px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -380px 3px; COLOR: #83a013; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; TEXT-DECORATION: none
+}
+.at:hover {
+	LINE-HEIGHT: 18px; PADDING-LEFT: 15px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -380px 3px; COLOR: #83a013; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; TEXT-DECORATION: none
+}
+.at:visited {
+	COLOR: #83a013
+}
+#header {
+	Z-INDEX: 11; POSITION: relative; BACKGROUND: #efefef; HEIGHT: 25px; box-shadow: 0 2px 2px rgba(0,0,0,0.1); -webkit-text-size-adjust: none
+}
+.brown#header {
+	BACKGROUND: #42382e
+}
+.brown .header-city DT A {
+	COLOR: #fff
+}
+.brown .header-city DT A:visited {
+	COLOR: #fff
+}
+.brown .header-floor DT A {
+	COLOR: #fff
+}
+.brown .header-floor DT A:visited {
+	COLOR: #fff
+}
+.brown .header-home DT {
+	COLOR: #fff
+}
+.brown#header .header-link {
+	COLOR: #fff
+}
+.brown#header .header-link:visited {
+	COLOR: #fff
+}
+.brown .header-logined .user-name {
+	COLOR: #fff
+}
+.brown .user-msg DT {
+	COLOR: #fff
+}
+.brown .user-nav DT {
+	COLOR: #fff
+}
+.header-login {
+	COLOR: #fff
+}
+.brown .header-home DT A {
+	COLOR: #fff
+}
+.brown .header-home DT A:visited {
+	COLOR: #fff
+}
+.brown .user-name A {
+	COLOR: #fff
+}
+.brown .user-name A:visited {
+	COLOR: #fff
+}
+.brown#header .header-link:hover {
+	COLOR: #fff
+}
+.brown .header-login {
+	COLOR: #fff
+}
+.brown .header-login A {
+	COLOR: #fff
+}
+.brown .header-login A:visited {
+	COLOR: #fff
+}
+.header-hd {
+	Z-INDEX: 1000; POSITION: relative; WIDTH: 220px; ZOOM: 1; FLOAT: left
+}
+.header-city DD {
+	DISPLAY: none
+}
+.header-logined {
+	DISPLAY: none
+}
+.header-floor DD {
+	DISPLAY: none
+}
+.user-msg DD {
+	DISPLAY: none
+}
+.user-switch DD {
+	DISPLAY: none
+}
+.user-nav-on DD .user-switch DD {
+	DISPLAY: none
+}
+.user-nav DD {
+	DISPLAY: none
+}
+.user-switch DD {
+	DISPLAY: none
+}
+.header-bd .header-home DD {
+	DISPLAY: none
+}
+.header-city-on DD {
+	DISPLAY: block
+}
+.header-floor-on DD {
+	DISPLAY: block
+}
+.user-msg-on DD {
+	DISPLAY: block
+}
+.user-nav-on DD {
+	DISPLAY: block
+}
+.user-nav-on DD .user-switch-on DD {
+	DISPLAY: block
+}
+.header-bd .header-home-on DD {
+	DISPLAY: block
+}
+.header-city {
+	Z-INDEX: 11; POSITION: relative; WIDTH: 140px; ZOOM: 1; FLOAT: left
+}
+.header-city .header-logo {
+	Z-INDEX: 2; POSITION: relative; LINE-HEIGHT: 25px; PADDING-LEFT: 1px; WIDTH: 135px; FLOAT: left; HEIGHT: 25px; TOP: 1px
+}
+.header-logo .logo {
+	PADDING-LEFT: 55px; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -350px -15px; FLOAT: left; HEIGHT: 25px
+}
+.header-logo .triangle {
+	WIDTH: 16px; BACKGROUND-POSITION: 0px -419px; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.brown .logo {
+	BACKGROUND-POSITION: -350px -54px
+}
+.brown .triangle {
+	BACKGROUND: 0px -612px
+}
+.header-city-on .header-logo {
+	BORDER-BOTTOM: #cdcdcd 1px; BORDER-LEFT: #cdcdcd 1px solid; LINE-HEIGHT: 23px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 0px; HEIGHT: 24px; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-city-on .logo {
+	BACKGROUND-POSITION: -350px -36px; HEIGHT: 24px
+}
+.brown .header-city-on .logo {
+	COLOR: #666
+}
+.brown .header-city-on .logo:visited {
+	COLOR: #666
+}
+.header-city-on .triangle {
+	BACKGROUND-POSITION: 0px -459px; HEIGHT: 24px
+}
+.header-city-on .header-city-cont {
+	POSITION: absolute; OVERFLOW: visible; TOP: 25px; LEFT: 0px; box-shadow: 0 2px 3px #DDD; _overflow: hidden
+}
+.header-city .header-cities {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 8px; PADDING-LEFT: 8px; WIDTH: 240px; PADDING-RIGHT: 8px; BACKGROUND: #fff; OVERFLOW: hidden; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 8px
+}
+.header-cities DT {
+	FONT-WEIGHT: 700
+}
+.header-cities DD {
+	OVERFLOW: hidden; _zoom: 1
+}
+.header-city DD A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FLOAT: left; COLOR: #333; WORD-BREAK: keep-all; PADDING-TOP: 2px
+}
+.header-hd .header-city DD A:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none; border-radius: 2px
+}
+.header-floor A {
+	COLOR: #666
+}
+.header-floor A:visited {
+	COLOR: #666
+}
+.header-home A {
+	COLOR: #666
+}
+.header-home A:visited {
+	COLOR: #666
+}
+.user-msg DD A {
+	COLOR: #666
+}
+.user-msg DD A:visited {
+	COLOR: #666
+}
+.user-nav DD A {
+	COLOR: #666
+}
+.user-nav DD A:visited {
+	COLOR: #666
+}
+.user-name A {
+	COLOR: #666
+}
+.user-name A:visited {
+	COLOR: #666
+}
+.header-city DD A:visited {
+	COLOR: #666
+}
+.header-login A {
+	COLOR: #666
+}
+.header-login A:visited {
+	COLOR: #666
+}
+.header-login {
+	COLOR: #666
+}
+.header-bd {
+	FLOAT: left; MARGIN-RIGHT: 20px
+}
+.header-floor {
+	FLOAT: left
+}
+.header-home {
+	FLOAT: left
+}
+.header-bd .header-floor DT {
+	Z-INDEX: 2; POSITION: relative; LINE-HEIGHT: 25px; TEXT-INDENT: 7px; PADDING-LEFT: 2px; PADDING-RIGHT: 15px; BACKGROUND-POSITION: right -419px; FLOAT: left; HEIGHT: 25px; FONT-SIZE: 12px; TOP: 1px
+}
+.header-bd .header-home DT {
+	Z-INDEX: 2; POSITION: relative; LINE-HEIGHT: 25px; TEXT-INDENT: 7px; PADDING-LEFT: 2px; PADDING-RIGHT: 15px; BACKGROUND-POSITION: right -419px; FLOAT: left; HEIGHT: 25px; FONT-SIZE: 12px; TOP: 1px
+}
+.header-bd .header-floor-on DT {
+	BORDER-BOTTOM: #cdcdcd 1px; BORDER-LEFT: #cdcdcd 1px solid; LINE-HEIGHT: 23px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 1px; PADDING-RIGHT: 14px; BACKGROUND-POSITION: right -459px; HEIGHT: 24px; COLOR: #333; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-bd .header-home-on DT {
+	BORDER-BOTTOM: #cdcdcd 1px; BORDER-LEFT: #cdcdcd 1px solid; LINE-HEIGHT: 23px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 1px; PADDING-RIGHT: 14px; BACKGROUND-POSITION: right -459px; HEIGHT: 24px; COLOR: #333; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-floor {
+	POSITION: relative
+}
+.header-home {
+	POSITION: relative
+}
+.header-floor-on DD {
+	POSITION: absolute; OVERFLOW: visible; TOP: 25px; LEFT: 0px; box-shadow: 0 2px 3px #ddd; _overflow: hidden
+}
+.header-floor-on UL {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 475px; PADDING-RIGHT: 0px; BACKGROUND: #fff; OVERFLOW: hidden; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 10px
+}
+.header-floor-on LI {
+	BORDER-LEFT: #d7d7d7 1px solid; PADDING-BOTTOM: 4px; PADDING-LEFT: 5px; WIDTH: 108px; PADDING-RIGHT: 5px; FLOAT: left; MARGIN-LEFT: -1px; PADDING-TOP: 4px
+}
+.header-floor-on LI A {
+	LINE-HEIGHT: 20px; TEXT-INDENT: 10px; WIDTH: 108px; DISPLAY: block; HEIGHT: 20px; FONT-SIZE: 14px; OVERFLOW: hidden
+}
+.header-floor-on LI A:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none; border-radius: 10px; box-shadow: 0 3px 3px #666 inset
+}
+.header-home-on DD {
+	POSITION: absolute; OVERFLOW: visible; TOP: 36px; LEFT: 0px; box-shadow: 0 2px 3px #ddd; _overflow: hidden
+}
+.header-home-on UL {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; WIDTH: 138px; BACKGROUND: #fff; BORDER-TOP: #cdcdcd 1px; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-hd DT A {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.header-hd DT A:visited {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.header-hd DT A:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.header-bd DT A {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.header-bd DT A:visited {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.header-bd DT A:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.brown#header .header-floor-on DT A {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.brown#header .header-floor-on DT A:visited {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.brown#header .header-floor-on DT A:hover {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.brown#header .header-home-on DT A {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.brown#header .header-home-on DT A:visited {
+	COLOR: #666; TEXT-DECORATION: none
+}
+.brown#header .header-home-on DT {
+	COLOR: #666; TEXT-DECORATION: none
+}
+#header .header-link {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 27px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; FLOAT: left; HEIGHT: 25px; COLOR: #666; MARGIN-LEFT: 5px; FONT-SIZE: 12px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#header .header-link:visited {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 27px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; FLOAT: left; HEIGHT: 25px; COLOR: #666; MARGIN-LEFT: 5px; FONT-SIZE: 12px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+#header .header-link:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+#header .header-bd .header-link-on {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+#header .header-bd .header-link-on:visited {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+.brown#header .header-link:hover {
+	BACKGROUND-COLOR: #e9952e
+}
+.brown#header .header-bd .header-link-on {
+	BACKGROUND-COLOR: #e9952e
+}
+.brown#header .header-bd .header-link-on:visited {
+	BACKGROUND-COLOR: #e9952e
+}
+.header-search {
+	POSITION: relative; WIDTH: 190px; FLOAT: left; PADDING-TOP: 1px
+}
+.header-search INPUT {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 15px; PADDING-LEFT: 7px; WIDTH: 145px; PADDING-RIGHT: 7px; FLOAT: left; HEIGHT: 15px; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px; PADDING-TOP: 3px; box-shadow: 2px 2px 2px #ebebeb inset; border-top-left-radius: 2px; border-bottom-left-radius: 2px
+}
+.header-search .search-button {
+	Z-INDEX: 11; BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; WIDTH: 28px; BACKGROUND: #e6e6e6; FLOAT: left; HEIGHT: 21px; OVERFLOW: hidden; BORDER-TOP: #cdcdcd 1px solid; CURSOR: pointer; BORDER-RIGHT: #cdcdcd 1px solid; border-top-right-radius: 2px; border-bottom-right-radius: 2px
+}
+.header-search .search-button I {
+	WIDTH: 28px; DISPLAY: block; BACKGROUND-POSITION: 5px -293px; HEIGHT: 0px; PADDING-TOP: 21px
+}
+.header-search .search-button-on {
+	BACKGROUND: #ededed
+}
+.header-search .search-suggest {
+	BORDER-BOTTOM: #cdcdcd 1px solid; POSITION: absolute; BORDER-LEFT: #cdcdcd 1px solid; PADDING-BOTTOM: 1px; PADDING-LEFT: 1px; WIDTH: 186px; PADDING-RIGHT: 1px; DISPLAY: none; BACKGROUND: #fff; BORDER-TOP: #cdcdcd 1px solid; TOP: 23px; BORDER-RIGHT: #cdcdcd 1px solid; PADDING-TOP: 1px; LEFT: 0px
+}
+.search-suggest A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; WIDTH: 176px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #efefef; HEIGHT: 26px; COLOR: #0657b2; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.search-suggest A:visited {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 26px; PADDING-LEFT: 5px; WIDTH: 176px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #efefef; HEIGHT: 26px; COLOR: #0657b2; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.search-suggest A STRONG {
+	COLOR: #fc6d02; FONT-WEIGHT: 400
+}
+.search-suggest A:visited STRONG {
+	COLOR: #fc6d02; FONT-WEIGHT: 400
+}
+.search-suggest A:hover {
+	COLOR: #0657b2; TEXT-DECORATION: none
+}
+.search-suggest DD {
+	DISPLAY: none; OVERFLOW: hidden; _zoom: 1
+}
+.search-suggest DD UL {
+	MARGIN: -1px 0px 5px
+}
+.search-suggest DD A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 166px; PADDING-RIGHT: 10px; BACKGROUND: #fff; COLOR: #666; BORDER-TOP: #ddd 1px dotted; PADDING-TOP: 0px
+}
+.search-suggest DD A:visited {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; WIDTH: 166px; PADDING-RIGHT: 10px; BACKGROUND: #fff; COLOR: #666; BORDER-TOP: #ddd 1px dotted; PADDING-TOP: 0px
+}
+.search-suggest DD A:hover {
+	BACKGROUND: #f5f5f5
+}
+.search-suggest DD#J_searchLabel A {
+	COLOR: #333; FONT-SIZE: 14px
+}
+.search-suggest DD#J_searchLabel A:visited {
+	COLOR: #333; FONT-SIZE: 14px
+}
+.search-suggest DD#J_searchLabel A I {
+	WIDTH: 20px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../forum/default/images/headnav_icon.png) no-repeat 4px -992px; HEIGHT: 16px; VERTICAL-ALIGN: middle; _margin-top: 5px; _height: 20px
+}
+.header-login {
+	POSITION: relative; WIDTH: 240px; FLOAT: right
+}
+.header-logined {
+	POSITION: relative; WIDTH: 240px; FLOAT: right
+}
+.header-login {
+	TEXT-ALIGN: right; LINE-HEIGHT: 25px; HEIGHT: 25px
+}
+.header-login A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 5px
+}
+.user-name A {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 5px
+}
+.header-login A:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+.user-name A:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+.brown .header-login A:hover {
+	BACKGROUND: #e9952e
+}
+.brown .user-name A:hover {
+	BACKGROUND: #e9952e
+}
+.header-logined .user-name {
+	FLOAT: right; MARGIN-RIGHT: 20px
+}
+.header-logined .user-msg {
+	FLOAT: right; MARGIN-RIGHT: 10px
+}
+.header-logined .user-name {
+	TEXT-ALIGN: right; LINE-HEIGHT: 27px; HEIGHT: 25px; OVERFLOW: hidden
+}
+.header-logined .user-msg {
+	POSITION: relative
+}
+.header-logined .user-msg .user-msg-count {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 16px; WIDTH: 31px; BACKGROUND: url(../../forum/default/images/infos.png) no-repeat; HEIGHT: 16px; COLOR: #fff; TOP: 3px; FONT-WEIGHT: bold; LEFT: -33px
+}
+.header-logined .user-msg DT {
+	Z-INDEX: 2; POSITION: relative; LINE-HEIGHT: 25px; PADDING-LEFT: 2px; WIDTH: 42px; BACKGROUND-POSITION: right -419px; HEIGHT: 25px; COLOR: #666; TOP: 1px; CURSOR: pointer
+}
+.brown .user-msg DT {
+	COLOR: #fff
+}
+.header-logined .user-msg-on DT {
+	BORDER-BOTTOM: #cdcdcd 1px; BORDER-LEFT: #cdcdcd 1px solid; LINE-HEIGHT: 23px; TEXT-INDENT: 5px; PADDING-LEFT: 0px; WIDTH: 46px; BACKGROUND: #fff right -459px; HEIGHT: 24px; COLOR: #666; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-logined .user-nav-on DT {
+	BORDER-BOTTOM: #cdcdcd 1px; BORDER-LEFT: #cdcdcd 1px solid; LINE-HEIGHT: 23px; TEXT-INDENT: 5px; PADDING-LEFT: 0px; WIDTH: 46px; BACKGROUND: #fff right -459px; HEIGHT: 24px; COLOR: #666; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-logined .user-msg-on DD {
+	POSITION: absolute; OVERFLOW: visible; TOP: 25px; RIGHT: 0px; box-shadow: 0 2px 3px #ddd; _overflow: hidden
+}
+.header-logined .user-msg-on UL {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; WIDTH: 120px; BACKGROUND: #fff; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.header-logined .user-msg A {
+	LINE-HEIGHT: 34px; TEXT-INDENT: 32px; DISPLAY: block; HEIGHT: 34px; FONT-SIZE: 12px
+}
+.header-logined .user-msg EM {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT: 400 10px/34px Arial; BACKGROUND: #ff9400; COLOR: #fff; PADDING-TOP: 0px; border-radius: 8px
+}
+.header-logined .user-nav {
+	POSITION: absolute; RIGHT: 0px
+}
+.header-logined .user-nav DT {
+	Z-INDEX: 2; POSITION: relative; WIDTH: 20px; BACKGROUND-POSITION: 0px -419px; HEIGHT: 25px; TOP: 1px; CURSOR: pointer
+}
+.header-logined .user-nav-on DT {
+	TEXT-INDENT: 1px; PADDING-LEFT: 0px; BACKGROUND-POSITION: 0px -459px; HEIGHT: 24px
+}
+.user-nav-on DD {
+	POSITION: absolute; RIGHT: 0px; box-shadow: 0 2px 3px #ddd
+}
+.user-nav-on UL {
+	BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; WIDTH: 138px; BACKGROUND: #fff; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid
+}
+.user-nav-ul LI {
+	FLOAT: left
+}
+.user-nav-on DD A {
+	LINE-HEIGHT: 29px; TEXT-INDENT: 30px; WIDTH: 138px; DISPLAY: block; HEIGHT: 29px; COLOR: #666; FONT-SIZE: 12px
+}
+.header-home-on DD A {
+	LINE-HEIGHT: 29px; TEXT-INDENT: 30px; WIDTH: 138px; DISPLAY: block; HEIGHT: 29px; COLOR: #666; FONT-SIZE: 12px
+}
+.user-nav-on DD A:hover {
+	BACKGROUND-COLOR: #ededed; COLOR: #666; TEXT-DECORATION: none
+}
+.user-msg-on DD A:hover {
+	BACKGROUND-COLOR: #ededed; COLOR: #666; TEXT-DECORATION: none
+}
+.header-home-on DD A:hover {
+	BACKGROUND-COLOR: #ededed; COLOR: #666; TEXT-DECORATION: none
+}
+.user-nav-on .user-switch {
+	BORDER-BOTTOM: #fff 1px solid; POSITION: relative; BORDER-LEFT: #fff 0px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 0px
+}
+.user-nav-on .user-switch DT {
+	Z-INDEX: 2; BORDER-BOTTOM: 0px; POSITION: relative; BORDER-LEFT: 0px; LINE-HEIGHT: 27px; TEXT-INDENT: 30px; WIDTH: 137px; DISPLAY: block; HEIGHT: 27px; FONT-SIZE: 12px; BORDER-TOP: 0px; BORDER-RIGHT: 0px; border-radius: 0
+}
+.user-nav-ul {
+	BACKGROUND: #fff
+}
+.user-nav-on .user-switch-on {
+	BORDER-BOTTOM-COLOR: #cdcdcd; BACKGROUND-COLOR: #ededed; BORDER-TOP-COLOR: #cdcdcd; BORDER-RIGHT-COLOR: #cdcdcd; BORDER-LEFT-COLOR: #cdcdcd
+}
+.user-nav-on .user-switch-on DT {
+	BORDER-LEFT: #ededed 1px solid; BACKGROUND-COLOR: #ededed; LEFT: -1px
+}
+.user-nav-on .user-switch .triangle {
+	POSITION: relative; DISPLAY: block; BACKGROUND-POSITION: 120px -489px; CURSOR: pointer; border-radius: 0
+}
+.user-nav-on .user-switch-on DD {
+	POSITION: absolute; WIDTH: 140px; OVERFLOW: hidden; TOP: -1px; LEFT: -140px; _top: 0
+}
+.user-nav-on .user-switch-on UL {
+	Z-INDEX: 1; BORDER-BOTTOM: #cdcdcd 1px solid; BORDER-LEFT: #cdcdcd 1px solid; ZOOM: 1; BACKGROUND: #ededed; BORDER-TOP: #cdcdcd 1px solid; BORDER-RIGHT: #cdcdcd 1px solid; box-shadow: none
+}
+.user-nav-on .user-switch-on A {
+	LINE-HEIGHT: 24px; TEXT-INDENT: 10px; DISPLAY: block; FLOAT: none; HEIGHT: 24px; FONT-SIZE: 12px
+}
+.user-nav-on .user-switch-on A:hover {
+	BACKGROUND: #fff; COLOR: #333; TEXT-DECORATION: none
+}
+.iframe-fix {
+	POSITION: relative; WIDTH: 263px; OVERFLOW: hidden
+}
+.header-icon-home {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-thread {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-count {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-photo {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-blog {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-follow {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-fans {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-userInfo {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-logout {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.user-nav-on .user-switch DT {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-msg {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-remind {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-at {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-floor DT {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-logined .user-nav DT {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-logined .user-msg DT {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-logined .user-nav-on DT {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-city .triangle {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.user-nav-on .user-switch .triangle {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.search-button I {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-bd .header-home DT {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-special {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-event {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-new {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-cityMsg {
+	BACKGROUND-IMAGE: url(../../forum/default/images/headnav_icon.png); BACKGROUND-REPEAT: no-repeat
+}
+.header-icon-home {
+	BACKGROUND-POSITION: 8px -2px
+}
+.header-icon-thread {
+	BACKGROUND-POSITION: 8px -33px
+}
+.header-icon-count {
+	BACKGROUND-POSITION: 8px -65px
+}
+.header-icon-photo {
+	BACKGROUND-POSITION: 8px -96px
+}
+.header-icon-follow {
+	BACKGROUND-POSITION: 8px -162px
+}
+.header-icon-fans {
+	BACKGROUND-POSITION: 8px -192px
+}
+.header-icon-userInfo {
+	BACKGROUND-POSITION: 8px -917px
+}
+.header-icon-logout {
+	BACKGROUND-POSITION: 8px -258px
+}
+.header-icon-special {
+	BACKGROUND-POSITION: 8px -740px
+}
+.header-icon-event {
+	BACKGROUND-POSITION: 8px -775px
+}
+.header-icon-new {
+	BACKGROUND-POSITION: 8px -807px
+}
+.header-icon-cityMsg {
+	BACKGROUND-POSITION: 8px -844px; CURSOR: default
+}
+.user-msg-on DD .header-icon-cityMsg:hover {
+	BACKGROUND-COLOR: #fff
+}
+.user-nav-on .user-switch DT {
+	BACKGROUND-POSITION: 8px -225px
+}
+.header-icon-msg {
+	BACKGROUND-POSITION: 8px -312px
+}
+.header-icon-remind {
+	BACKGROUND-POSITION: 8px -345px
+}
+.header-icon-at {
+	BACKGROUND-POSITION: 8px -376px
+}
+.brown .header-floor DT {
+	BACKGROUND-POSITION: right -612px
+}
+.brown .header-floor-on DT {
+	BACKGROUND-POSITION: right -458px
+}
+.brown .user-msg DT {
+	BACKGROUND-POSITION: right -612px
+}
+.brown .user-msg-on DT {
+	BACKGROUND-POSITION: right -458px
+}
+.brown .header-home DT {
+	BACKGROUND-POSITION: right -612px
+}
+.brown .header-home-on DT {
+	BACKGROUND-POSITION: right -458px
+}
+.brown .user-nav DT {
+	BACKGROUND-POSITION: 0px -612px
+}
+.brown .user-nav-on DT {
+	BACKGROUND-POSITION: 0px -458px
+}
+.brown .header-logo {
+	BACKGROUND-POSITION: right -607px
+}
+.brown .user-nav-on .user-switch DT {
+	BACKGROUND-POSITION: 8px -225px
+}
+.city-msg-more {
+	BORDER-TOP: #d0d0d0 1px solid
+}
+.city-msg-more P {
+	BACKGROUND: url(../../forum/default/images/headnav_icon.png) #ededed no-repeat 55px -886px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: #fff 1px solid; CURSOR: pointer; PADDING-TOP: 14px
+}
+.city-msg-load {
+	BORDER-TOP-STYLE: none
+}
+.city-msg-load P {
+	BORDER-TOP-STYLE: none; BACKGROUND: url(../../forum/default/images/btn_loading.gif) #fff no-repeat center 0px; PADDING-TOP: 20px
+}
+.footer {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; LINE-HEIGHT: 20px; MARGIN: 20px auto 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #f3f3f3; CLEAR: both; BORDER-TOP: #dbdbdb 1px solid; PADDING-TOP: 0px
+}
+.footer P {
+	MARGIN-BOTTOM: 10px
+}
+.foot-logo IMG {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.footer DIV.footer-bar {
+	MARGIN-BOTTOM: 8px; BACKGROUND: #f3f3f3; HEIGHT: 8px; OVERFLOW: hidden
+}
+.footer-link {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 980px
+}
+.footer-link DIV {
+	TEXT-ALIGN: left
+}
+.footer-link DIV A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: inline-block; PADDING-TOP: 0px; border-radius: 3px
+}
+.footer-link DIV A:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+.foot-home {
+	MARGIN-RIGHT: 15px
+}
+.foot-home IMG {
+	MARGIN: 5px 0px 0px 65px
+}
+.footer .pipe {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 0px
+}
+.submit-btn {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.submit-btn SPAN {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.reply-btn {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.reply-btn SPAN {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.option-btn {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.option-btn SPAN {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.confirm-btn {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.confirm-btn SPAN {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.options-btn {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.options-btn SPAN {
+	BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat
+}
+.confirm-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.options-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.submit-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.reply-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.option-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.confirm-btn:hover {
+	TEXT-DECORATION: none
+}
+.options-btn:hover {
+	TEXT-DECORATION: none
+}
+.confirm-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.options-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.submit-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.reply-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.option-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.confirm-btn {
+	BACKGROUND-POSITION: 0px -420px
+}
+.confirm-btn SPAN {
+	BACKGROUND-POSITION: right -445px; COLOR: #fff
+}
+.confirm-btn:hover {
+	BACKGROUND-POSITION: 0px -470px
+}
+.confirm-btn:hover SPAN {
+	BACKGROUND-POSITION: right -495px
+}
+.options-btn {
+	BACKGROUND-POSITION: 0px -520px
+}
+.options-btn SPAN {
+	BACKGROUND-POSITION: right -545px; COLOR: #334f67
+}
+.options-btn:hover {
+	BACKGROUND-POSITION: 0px -570px
+}
+.options-btn:hover SPAN {
+	BACKGROUND-POSITION: right -595px
+}
+.disabled-small SPAN {
+	BACKGROUND-POSITION: right -705px; COLOR: #666; CURSOR: default
+}
+.disabled-small:hover SPAN {
+	BACKGROUND-POSITION: right -705px; COLOR: #666; CURSOR: default
+}
+.disabled-small .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.disabled-small:hover .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.disabled-small {
+	BACKGROUND-POSITION: 0px -680px
+}
+.disabled-small:hover {
+	BACKGROUND-POSITION: 0px -680px
+}
+.submit-btn {
+	HEIGHT: 30px
+}
+.reply-btn {
+	HEIGHT: 30px
+}
+.option-btn {
+	HEIGHT: 30px
+}
+.submit-btn:hover {
+	TEXT-DECORATION: none
+}
+.reply-btn:hover {
+	TEXT-DECORATION: none
+}
+.option-btn:hover {
+	TEXT-DECORATION: none
+}
+.submit-btn SPAN {
+	FONT: 700 14px/30px "Simsun"; HEIGHT: 30px
+}
+.reply-btn SPAN {
+	FONT: 700 14px/30px "Simsun"; HEIGHT: 30px
+}
+.option-btn SPAN {
+	FONT: 700 14px/30px "Simsun"; HEIGHT: 30px
+}
+.submit-btn SPAN {
+	BACKGROUND-POSITION: right -30px; COLOR: #fff
+}
+.submit-btn:hover {
+	BACKGROUND-POSITION: 0px -90px
+}
+.submit-btn:hover SPAN {
+	BACKGROUND-POSITION: right -120px
+}
+.option-btn {
+	BACKGROUND-POSITION: 0px -300px
+}
+.option-btn SPAN {
+	BACKGROUND-POSITION: right -330px; COLOR: #334f67
+}
+.option-btn:hover {
+	BACKGROUND-POSITION: 0px -360px
+}
+.option-btn:hover SPAN {
+	BACKGROUND-POSITION: right -390px
+}
+.newthread .submit-btn SPAN {
+	PADDING-RIGHT: 30px; BACKGROUND-POSITION: right -60px
+}
+.newthread .submit-btn:hover SPAN {
+	BACKGROUND-POSITION: right -150px
+}
+.reply-btn {
+	BACKGROUND-POSITION: 0px -180px
+}
+.reply-btn:hover {
+	BACKGROUND-POSITION: 0px -240px
+}
+.reply-btn SPAN {
+	BACKGROUND-POSITION: right -210px; COLOR: #654302
+}
+.reply-btn:hover SPAN {
+	BACKGROUND-POSITION: right -270px
+}
+.disabled-big {
+	BACKGROUND-POSITION: 0px -620px
+}
+.disabled-big:hover {
+	BACKGROUND-POSITION: 0px -620px
+}
+.disabled-big SPAN {
+	BACKGROUND-POSITION: right -650px; COLOR: #666; CURSOR: default
+}
+.disabled-big:hover SPAN {
+	BACKGROUND-POSITION: right -650px; COLOR: #666; CURSOR: default
+}
+.disabled-big .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 7px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.disabled-big:hover .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 7px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.option-btn-s {
+	LINE-HEIGHT: 17px; PADDING-LEFT: 3px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat 0px -730px; HEIGHT: 16px; COLOR: #333; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.option-btn-s:visited {
+	LINE-HEIGHT: 17px; PADDING-LEFT: 3px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat 0px -730px; HEIGHT: 16px; COLOR: #333; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.option-btn-s SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 8px; ZOOM: 1; BACKGROUND: url(../../forum/default/images/bg_btn.png) no-repeat right -746px; FLOAT: left; CURSOR: pointer; PADDING-TOP: 0px
+}
+.option-btn-s:hover {
+	COLOR: #333; TEXT-DECORATION: none
+}
+.page-mod .page-prev {
+	BACKGROUND: url(../../forum/default/images/bg_pages.png) no-repeat
+}
+.page-mod .page-next {
+	BACKGROUND: url(../../forum/default/images/bg_pages.png) no-repeat
+}
+.page-mod .page-last {
+	BACKGROUND: url(../../forum/default/images/bg_pages.png) no-repeat
+}
+.page-mod BUTTON {
+	BACKGROUND: url(../../forum/default/images/bg_pages.png) no-repeat
+}
+.view-ctrl .return {
+	BACKGROUND: url(../../forum/default/images/bg_pages.png) no-repeat
+}
+.page-mod {
+	LINE-HEIGHT: 19px; MARGIN-TOP: 10px; FONT-FAMILY: "Arial"
+}
+.view-ctrl .return {
+	LINE-HEIGHT: 19px; MARGIN-TOP: 10px; FONT-FAMILY: "Arial"
+}
+.page-mod A {
+	BORDER-BOTTOM: #e3e4dd 1px solid; BORDER-LEFT: #e3e4dd 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 19px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FLOAT: left; HEIGHT: 19px; COLOR: #8f8f8f; FONT-SIZE: 14px; OVERFLOW: hidden; BORDER-TOP: #e3e4dd 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #e3e4dd 1px solid; PADDING-TOP: 0px
+}
+.page-mod STRONG {
+	BORDER-BOTTOM: #e3e4dd 1px solid; BORDER-LEFT: #e3e4dd 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 19px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FLOAT: left; HEIGHT: 19px; COLOR: #8f8f8f; FONT-SIZE: 14px; OVERFLOW: hidden; BORDER-TOP: #e3e4dd 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #e3e4dd 1px solid; PADDING-TOP: 0px
+}
+.view-ctrl .return {
+	BORDER-BOTTOM: #e3e4dd 1px solid; BORDER-LEFT: #e3e4dd 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 19px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FLOAT: left; HEIGHT: 19px; COLOR: #8f8f8f; FONT-SIZE: 14px; OVERFLOW: hidden; BORDER-TOP: #e3e4dd 1px solid; MARGIN-RIGHT: 2px; BORDER-RIGHT: #e3e4dd 1px solid; PADDING-TOP: 0px
+}
+.page-mod A:visited {
+	COLOR: #8f8f8f
+}
+.view-ctrl .return:visited {
+	COLOR: #8f8f8f
+}
+.page-mod STRONG {
+	BORDER-BOTTOM-COLOR: #839b1b; BACKGROUND-COLOR: #839b1b; BORDER-TOP-COLOR: #839b1b; COLOR: #fff; BORDER-RIGHT-COLOR: #839b1b; BORDER-LEFT-COLOR: #839b1b; FONT-WEIGHT: 400; TEXT-DECORATION: none
+}
+.page-mod A:hover {
+	BORDER-BOTTOM-COLOR: #839b1b; BACKGROUND-COLOR: #839b1b; BORDER-TOP-COLOR: #839b1b; COLOR: #fff; BORDER-RIGHT-COLOR: #839b1b; BORDER-LEFT-COLOR: #839b1b; FONT-WEIGHT: 400; TEXT-DECORATION: none
+}
+.view-ctrl .return:hover {
+	BORDER-BOTTOM-COLOR: #839b1b; BACKGROUND-COLOR: #839b1b; BORDER-TOP-COLOR: #839b1b; COLOR: #fff; BORDER-RIGHT-COLOR: #839b1b; BORDER-LEFT-COLOR: #839b1b; FONT-WEIGHT: 400; TEXT-DECORATION: none
+}
+.page-mod .page-prev {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fff; TEXT-INDENT: -999px; PADDING-LEFT: 0px; WIDTH: 19px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.page-mod .page-last {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fff; TEXT-INDENT: -999px; PADDING-LEFT: 0px; WIDTH: 19px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.page-mod .page-next {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 7px; PADDING-RIGHT: 14px; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+.view-ctrl .return {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 14px; WIDTH: auto; PADDING-RIGHT: 7px; FLOAT: right; FONT-SIZE: 12px; PADDING-TOP: 0px
+}
+.page-mod .page-prev {
+	BACKGROUND-POSITION: 7px -26px
+}
+.view-ctrl .return {
+	BACKGROUND-POSITION: 7px -26px
+}
+.page-mod .page-prev:hover {
+	BACKGROUND-POSITION: -21px -51px
+}
+.view-ctrl .return:hover {
+	BACKGROUND-POSITION: -21px -51px
+}
+.page-mod .page-last {
+	BACKGROUND-POSITION: 6px -58px
+}
+.page-mod .page-last:hover {
+	BACKGROUND-POSITION: -18px -83px
+}
+.page-mod .page-next {
+	BACKGROUND-POSITION: 47px 6px
+}
+.page-mod .page-next:hover {
+	BACKGROUND-POSITION: 19px -19px
+}
+.page-mod .disabled {
+	BACKGROUND-COLOR: #d0d0d0; COLOR: #f1f1f1; CURSOR: default
+}
+.page-mod .page-go {
+	LINE-HEIGHT: 21px; PADDING-LEFT: 3px; FLOAT: left; HEIGHT: 21px; FONT-SIZE: 12px; OVERFLOW: hidden
+}
+.page-mod .page-go EM {
+	LINE-HEIGHT: 21px; FLOAT: left; HEIGHT: 21px; COLOR: #5a5a5a
+}
+.page-mod .txt {
+	MARGIN: 0px 5px; WIDTH: 35px; FLOAT: left; HEIGHT: 13px
+}
+.page-mod BUTTON {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 35px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px -129px; FLOAT: left; HEIGHT: 21px; COLOR: #5a5a5a; MARGIN-LEFT: 5px; FONT-SIZE: 12px; CURSOR: pointer; PADDING-TOP: 0px
+}
+.tips-mod STRONG {
+	BACKGROUND: url(../../forum/default/images/bg_common.png) no-repeat; _background: url(../../forum/default/images/bg_common_ie6.png) no-repeat
+}
+.tips-mod I {
+	BACKGROUND: url(../../forum/default/images/bg_common.png) no-repeat; _background: url(../../forum/default/images/bg_common_ie6.png) no-repeat
+}
+.tips-mod {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod STRONG {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod I {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod EM {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod {
+	Z-INDEX: 100; POSITION: fixed; TEXT-ALIGN: center; WIDTH: 100%; FONT: 700 14px/58px "Simsun"; TOP: 40%; LEFT: 0px
+}
+.tips-mod STRONG {
+	POSITION: relative; MARGIN: 0px auto; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px -260px
+}
+.tips-mod EM {
+	PADDING-LEFT: 45px; BACKGROUND: url(../../forum/default/images/icon_common.png) no-repeat 0px -60px; COLOR: #334f67
+}
+.tips-mod .tips-warn {
+	BACKGROUND-POSITION: 0px -604px; COLOR: #c0880f
+}
+.tips-mod .tips-error {
+	BACKGROUND-POSITION: 0px -604px; COLOR: #c0880f
+}
+.tips-mod I {
+	POSITION: absolute; TEXT-INDENT: -999px; WIDTH: 20px; BACKGROUND-POSITION: 0px -202px; OVERFLOW: hidden; TOP: 0px; LEFT: -20px
+}
+.tips-mod .tips-rs {
+	BACKGROUND-POSITION: -20px -202px; RIGHT: -20px; LEFT: auto
+}
+.tips-mod .fix-ie6 {
+	HEIGHT: 60px
+}
+.tips-mod .close {
+	TOP: 7px; RIGHT: 7px
+}
+.win-table TH {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.win-table TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.win-table TH {
+	TEXT-ALIGN: right; WIDTH: 80px; VERTICAL-ALIGN: top; FONT-WEIGHT: normal
+}
+.win-table TEXTAREA {
+	WIDTH: 240px; HEIGHT: 60px
+}
+.win-table LABEL {
+	MARGIN-RIGHT: 5px
+}
+.win-table LABEL INPUT {
+	VERTICAL-ALIGN: -2px
+}
+.win-data {
+	OVERFLOW: hidden; _zoom: 1
+}
+.win-data LI {
+	LINE-HEIGHT: 20px; WIDTH: 110px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden
+}
+.win-data-long LI {
+	WIDTH: 150px
+}
+.win {
+	Z-INDEX: 99; POSITION: relative
+}
+.win-mod {
+	Z-INDEX: 1002; POSITION: absolute; WIDTH: 350px; OVERFLOW: hidden
+}
+.win-hd {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#33333333',endColorstr='#33333333'); ZOOM: 1
+}
+.win-bd {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#33333333',endColorstr='#33333333'); ZOOM: 1
+}
+.win-hd {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 7px; border-top-left-radius: 4px; border-top-right-radius: 4px
+}
+.win-hd H3 {
+	TEXT-INDENT: 10px; FONT: 700 14px/31px "Simsun"; BACKGROUND: url(../../forum/default/images/repeat_common.gif) repeat-x; HEIGHT: 31px; COLOR: #334f67; CURSOR: move
+}
+.win-hd .close {
+	POSITION: absolute; TOP: 15px; RIGHT: 15px
+}
+.win-bd {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 0px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px
+}
+.win-cont {
+	BACKGROUND-COLOR: #fff; OVERFLOW: hidden
+}
+.win-btn {
+	BACKGROUND-COLOR: #fff; OVERFLOW: hidden
+}
+.win-cont {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.win-form LI {
+	LINE-HEIGHT: 23px; HEIGHT: 22px
+}
+.win-form .lab {
+	TEXT-ALIGN: right; WIDTH: 70px; FLOAT: left; HEIGHT: 22px; FONT-WEIGHT: normal
+}
+.win-alert {
+	POSITION: relative; PADDING-LEFT: 68px; HEIGHT: 46px
+}
+.win-alert .smiley {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.win-alert .msg {
+	DISPLAY: inline-block; COLOR: #334f67; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.win-alert .tip {
+	FONT: 100 12px/30px "Simsun"
+}
+.win-btn {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px
+}
+.win-btn A {
+	MARGIN-RIGHT: 10px
+}
+.win-tip {
+	COLOR: #fc6d02
+}
+.win-mask {
+	Z-INDEX: 1001; POSITION: absolute; FILTER: alpha(opacity=50); BACKGROUND-COLOR: #333; TOP: 0px; LEFT: 0px; opacity: .5
+}
+#win-login .login-name {
+	MARGIN-BOTTOM: 15px
+}
+#win-login .login-pass {
+	MARGIN-BOTTOM: 10px
+}
+#win-login .login-auto {
+	PADDING-LEFT: 70px
+}
+#win-login .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-login .txt {
+	WIDTH: 140px; HEIGHT: 18px
+}
+#win-login .login-btn {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; PADDING-TOP: 8px
+}
+#win-login .login-shortcut {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; PADDING-TOP: 8px
+}
+#win-login .login-btn {
+	HEIGHT: 28px
+}
+.login-shortcut SPAN {
+	LINE-HEIGHT: 30px; heiht: 30px
+}
+.login-shortcut .account-qq {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-sina {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-taobao {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-qihoo {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-sina {
+	BACKGROUND-POSITION: -140px 0px
+}
+.login-shortcut .account-taobao {
+	BACKGROUND-POSITION: -180px 0px
+}
+.login-shortcut .account-qihoo {
+	BACKGROUND-POSITION: -220px 0px
+}
+.login-related {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; HEIGHT: 24px; PADDING-TOP: 8px
+}
+.login-related .account-qq {
+	LINE-HEIGHT: 24px; PADDING-LEFT: 25px; DISPLAY: inline-block; BACKGROUND: url(../../forum/default/images/view_icon.png) no-repeat 5px -250px; HEIGHT: 24px
+}
+.login-related .account-sina {
+	LINE-HEIGHT: 24px; PADDING-LEFT: 25px; DISPLAY: inline-block; BACKGROUND: url(../../forum/default/images/view_icon.png) no-repeat 5px -250px; HEIGHT: 24px
+}
+.login-related .account-qq {
+	BACKGROUND-POSITION: 5px -1654px
+}
+#win-report .report-name {
+	MARGIN-BOTTOM: 10px
+}
+#win-report .report-reason {
+	HEIGHT: 88px
+}
+#win-report TEXTAREA {
+	WIDTH: 200px; HEIGHT: 80px
+}
+#win-report .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-sms .sms-user {
+	MARGIN-BOTTOM: 10px
+}
+#win-sms .sms-title {
+	MARGIN-BOTTOM: 15px
+}
+#win-sms .sms-content {
+	MARGIN-BOTTOM: 15px
+}
+#win-sms .sms-content {
+	HEIGHT: 120px
+}
+#win-sms .textarea {
+	WIDTH: 377px; HEIGHT: 112px
+}
+#win-sms .sms-login .txt {
+	WIDTH: 80px; FLOAT: left
+}
+#win-sms .lab-pass {
+	WIDTH: 45px
+}
+#win-sms .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-rate {
+	WIDTH: 420px
+}
+#win-rate .rate-prestige {
+	MARGIN-BOTTOM: 10px
+}
+#win-rate .rate-gold {
+	MARGIN-BOTTOM: 10px
+}
+#win-rate .rate-reason {
+	MARGIN-BOTTOM: 10px
+}
+#win-rate .rate-prestige {
+	POSITION: relative; LINE-HEIGHT: 34px; HEIGHT: 34px
+}
+.prestigeList {
+	FLOAT: left
+}
+.prestigeList UL {
+	FLOAT: left
+}
+.prestigeList UL {
+	WIDTH: 120px; OVERFLOW: hidden
+}
+.prestigeList LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 16px; MARGIN-BOTTOM: 2px; HEIGHT: 16px; VERTICAL-ALIGN: middle
+}
+.prestigeList LI A {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; WIDTH: 17px; BACKGROUND: url(../../forum/default/images/bg_btn.png) repeat-x 0px -391px; FLOAT: left; HEIGHT: 14px; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #dbdbdb 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.prestigeList LI SPAN {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; WIDTH: 17px; BACKGROUND: url(../../forum/default/images/bg_btn.png) repeat-x 0px -391px; FLOAT: left; HEIGHT: 14px; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #dbdbdb 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.prestigeList LI A:hover {
+	BORDER-BOTTOM-COLOR: #8ba159; BORDER-TOP-COLOR: #8ba159; BACKGROUND-POSITION: 0px -446px; COLOR: #fff; BORDER-RIGHT-COLOR: #8ba159; BORDER-LEFT-COLOR: #8ba159; TEXT-DECORATION: none
+}
+.prestigeList LI SPAN {
+	COLOR: #ddd; CURSOR: pointer
+}
+#win-rate .ratePrestige {
+	WIDTH: 25px
+}
+#win-rate .rateGold {
+	WIDTH: 30px
+}
+#win-rate .rate-reason {
+	HEIGHT: 70px
+}
+#win-rate #rateReason {
+	WIDTH: 270px; HEIGHT: 62px
+}
+#win-rate .select-reason {
+	HEIGHT: 65px; OVERFLOW: hidden
+}
+#win-rate #selectReason {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; WIDTH: 250px; FLOAT: left; HEIGHT: 63px; OVERFLOW: hidden; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid
+}
+#win-rate #selectReason LI {
+	LINE-HEIGHT: 21px; TEXT-INDENT: 3px; HEIGHT: 21px; COLOR: #666; CURSOR: pointer
+}
+#win-rate #selectReason .hover {
+	BACKGROUND: #8ca226; COLOR: #fff
+}
+#win-rate .rate-sms {
+	MARGIN-TOP: 5px; PADDING-LEFT: 70px; COLOR: #666
+}
+#win-rate .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-rate .rate-prestige .popo-mod {
+	POSITION: absolute; LINE-HEIGHT: 18px; TOP: -5px; RIGHT: 0px
+}
+#win-favorite {
+	WIDTH: 275px
+}
+#win-favorite .msg {
+	MARGIN-TOP: 5px
+}
+#win-favorite .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-forward {
+	WIDTH: 400px; OVERFLOW: hidden
+}
+#forward-cont {
+	WIDTH: 366px; OVERFLOW: hidden
+}
+#forward-cont LI {
+	MARGIN-BOTTOM: 15px; HEIGHT: auto
+}
+#forward-cont P {
+	MARGIN-BOTTOM: 5px
+}
+#forward-cont .txt {
+	WIDTH: 358px
+}
+#forward-cont TEXTAREA {
+	HEIGHT: 50px
+}
+#forward-cont LABEL INPUT {
+	VERTICAL-ALIGN: -2px
+}
+#forward-cont .select-photo {
+	WIDTH: 376px; OVERFLOW: hidden; _zoom: 1
+}
+#forward-cont .select-photo A {
+	BORDER-BOTTOM: #e8e8e8 1px solid; POSITION: relative; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 80px; DISPLAY: block; FLOAT: left; HEIGHT: 80px; OVERFLOW: hidden; BORDER-TOP: #e8e8e8 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#forward-cont .select-photo A:hover {
+	BORDER-BOTTOM-COLOR: #9dae51; BORDER-TOP-COLOR: #9dae51; BORDER-RIGHT-COLOR: #9dae51; BORDER-LEFT-COLOR: #9dae51
+}
+#forward-cont .select-photo .selected EM {
+	POSITION: absolute; WIDTH: 15px; BOTTOM: 1px; DISPLAY: block; BACKGROUND: url(../../forum/default/images/icon_common.png) no-repeat 0px -580px; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 15px; LEFT: 1px
+}
+#win-attention {
+	WIDTH: 610px; OVERFLOW: hidden
+}
+#win-attention .win-hd {
+	WIDTH: 610px
+}
+#follow-group P {
+	PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #eff7f8; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 15px; PADDING-TOP: 10px
+}
+#win-weather {
+	WIDTH: 514px
+}
+#win-login .win-btn {
+	DISPLAY: none
+}
+.board-record-mod {
+	MARGIN: 0px 20px
+}
+.board-record-mod .board-record-item {
+	WIDTH: 470px; ZOOM: 1; MARGIN-BOTTOM: 10px; HEIGHT: auto; OVERFLOW: hidden
+}
+.board-record-mod .board-record-item-preview {
+	POSITION: relative
+}
+.board-record-mod .board-record-item LABEL {
+	FLOAT: left; HEIGHT: 26px
+}
+.board-record-mod .board-record-item .pm_num {
+	Z-INDEX: 2; POSITION: absolute; DISPLAY: block; HEIGHT: 20px; FONT-SIZE: 11px; TOP: 5px; RIGHT: 33px
+}
+.board-record-mod .board-record-pic {
+	POSITION: relative; WIDTH: 400px; ZOOM: 1; HEIGHT: 120px; OVERFLOW: hidden
+}
+.board-record-mod .board-record-pic .board-pic-item {
+	POSITION: relative; WIDTH: 120px; FLOAT: left; HEIGHT: 120px; OVERFLOW: hidden; CURSOR: pointer; MARGIN-RIGHT: 5px
+}
+.board-record-pic .board-pic-item IMG {
+	WIDTH: 120px; HEIGHT: 120px
+}
+.board-record-pic .board-pic-item .selected {
+	BORDER-BOTTOM: #7f9c14 2px solid; POSITION: absolute; BORDER-LEFT: #7f9c14 2px solid; WIDTH: 116px; DISPLAY: block; HEIGHT: 116px; BORDER-TOP: #7f9c14 2px solid; TOP: 0px; BORDER-RIGHT: #7f9c14 2px solid; LEFT: 0px
+}
+.board-record-pic .board-pic-item .selected I {
+	POSITION: absolute; TEXT-INDENT: 39px; WIDTH: 39px; BOTTOM: 0px; BACKGROUND: url(../../forum/default/images/common.png) no-repeat -100px -39px; HEIGHT: 39px; RIGHT: 0px
+}
+.board-record-slide {
+	POSITION: relative; MARGIN: 0px 15px; WIDTH: 375px; DISPLAY: inline; FLOAT: left; HEIGHT: 120px; OVERFLOW: hidden
+}
+.board-record-slide UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.board-record-slide-left {
+	WIDTH: 10px; FLOAT: left; HEIGHT: 120px
+}
+.board-record-slide-right {
+	WIDTH: 10px; FLOAT: left; HEIGHT: 120px
+}
+.board-record-slide-left {
+	MARGIN-LEFT: -405px
+}
+.board-record-slide-right {
+	MARGIN-LEFT: -15px
+}
+.board-record-slide-left .icon {
+	MARGIN-TOP: 40px; WIDTH: 10px; DISPLAY: block; BACKGROUND: url(../../forum/default/images/common.png) no-repeat; HEIGHT: 31px
+}
+.board-record-slide-right .icon {
+	MARGIN-TOP: 40px; WIDTH: 10px; DISPLAY: block; BACKGROUND: url(../../forum/default/images/common.png) no-repeat; HEIGHT: 31px
+}
+.board-record-slide-left .icon {
+	BACKGROUND-POSITION: -160px -39px
+}
+.board-record-slide-right .icon {
+	BACKGROUND-POSITION: -200px -39px
+}
+.board-record-slide-left-disable .icon {
+	BACKGROUND-POSITION: -180px -39px
+}
+.board-record-slide-right-disable .icon {
+	BACKGROUND-POSITION: -220px -39px
+}
+.board-record-mod .board-record-types {
+	POSITION: relative; WIDTH: 398px; ZOOM: 1; OVERFLOW: hidden
+}
+.board-record-types .board-tab-cont {
+	FLOAT: left
+}
+.board-record-mod .board-record-types .board-name-input {
+	WIDTH: 188px; CLEAR: both
+}
+.board-record-mod .board-record-tags {
+	MIN-HEIGHT: 54px; WIDTH: 398px; MARGIN-BOTTOM: 25px; _height: 54px
+}
+.board-record-mod .board-record-tags A {
+	BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-LEFT: #f3f3f3 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 2px 2px 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FONT: 400 12px/23px "SimSun"; WHITE-SPACE: nowrap; BACKGROUND: #f3f3f3; FLOAT: left; HEIGHT: 23px; COLOR: #999; BORDER-TOP: #f3f3f3 1px solid; CURSOR: pointer; BORDER-RIGHT: #f3f3f3 1px solid; PADDING-TOP: 0px
+}
+.board-record-mod .board-record-tags A:hover {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934; TEXT-DECORATION: none
+}
+.board-record-mod .board-record-tags A.cur {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934
+}
+.board-record-mod .board-record-item .board-subject-input {
+	WIDTH: 390px
+}
+.board-record-mod .board-record-item .board-summary-input {
+	WIDTH: 390px; HEIGHT: 65px; resize: none
+}
+.board-record-mod .board-record-item .board-record-url {
+	MARGIN: 0px 5px 0px 42px; WIDTH: 315px; _margin: 0 5px 0 45px
+}
+.board-record-mod .board-record-loading {
+	TEXT-ALIGN: center; FONT: 400 16px/22px "Microsoft YaHei","SimHei"; BACKGROUND: url(../../forum/default/images/loading.gif) #fff no-repeat center center; HEIGHT: 200px; PADDING-TOP: 70px
+}
+.board-record-mod .board-record-item .switch-tab {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; VERTICAL-ALIGN: middle
+}
+.board-record-mod .board-record-item .switch-tab:visited {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; VERTICAL-ALIGN: middle
+}
+.board-record-mod .board-record-item .switch-tab:hover {
+	TEXT-DECORATION: none
+}
+.create-tags {
+	WIDTH: 420px; HEIGHT: 45px; MARGIN-LEFT: 20px
+}
+.create-tags .new-tags {
+	MARGIN-TOP: 7px; WIDTH: 200px; FLOAT: left; _margin-top: 4px
+}
+.create-tags .tags-tip {
+	WIDTH: 218px; FLOAT: left
+}
+.pic-record-mod {
+	MARGIN: 0px 20px; _margin: 0 5px
+}
+.pic-record-mod .pic-record-item {
+	WIDTH: 485px; ZOOM: 1; MARGIN-BOTTOM: 10px; HEIGHT: auto; OVERFLOW: hidden
+}
+.pic-record-mod .pic-record-item LABEL {
+	FLOAT: left; HEIGHT: 26px
+}
+.pic-record-mod .pic-record-item .pm_num {
+	Z-INDEX: 2; POSITION: absolute; DISPLAY: block; HEIGHT: 20px; FONT-SIZE: 11px; TOP: 5px; RIGHT: 20px
+}
+.pic-record-mod .pic-record-types {
+	POSITION: relative; WIDTH: 398px; ZOOM: 1; OVERFLOW: hidden
+}
+.pic-record-types .pic-tab-cont {
+	FLOAT: left
+}
+.pic-record-mod .pic-record-tags {
+	MIN-HEIGHT: 54px; WIDTH: 378px; MARGIN-BOTTOM: 25px; _height: 54px
+}
+.pic-record-mod .pic-record-tags A {
+	BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-LEFT: #f3f3f3 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 2px 2px 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FONT: 400 12px/23px "SimSun"; WHITE-SPACE: nowrap; BACKGROUND: #f3f3f3; FLOAT: left; HEIGHT: 23px; COLOR: #999; BORDER-TOP: #f3f3f3 1px solid; CURSOR: pointer; BORDER-RIGHT: #f3f3f3 1px solid; PADDING-TOP: 0px
+}
+.pic-record-mod .pic-record-tags A:hover {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934; TEXT-DECORATION: none
+}
+.pic-record-mod .pic-record-tags A.cur {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934
+}
+.pic-record-mod .pic-record-tags SPAN {
+	POSITION: relative; FONT: 400 12px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 10px; CURSOR: pointer
+}
+.pic-record-mod .pic-record-tags SPAN .show-more {
+	POSITION: absolute; BORDER-LEFT: #fff 4px solid; VERTICAL-ALIGN: middle; BORDER-TOP: #1a5aaa 4px solid; TOP: 7px; BORDER-RIGHT: #fff 4px solid; LEFT: 50px; _left: 59px
+}
+.pic-record-mod .tag-link {
+	MARGIN-LEFT: 28px
+}
+.pic-record-mod .pic-record-item .pic-subject-input {
+	WIDTH: 392px
+}
+.pic-record-mod .pic-record-item .board-name-input {
+	WIDTH: 180px
+}
+.pic-record-mod .pic-record-item .pic-summary-input {
+	WIDTH: 392px; HEIGHT: 65px; MARGIN-LEFT: 70px; resize: none; _margin-left: 73px
+}
+.pic-record-mod .pic-record-item .add-desc {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 70px
+}
+.pic-record-mod .pic-record-item .add-desc:visited {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 70px
+}
+.pic-record-mod .pic-record-item .add-desc:hover {
+	TEXT-DECORATION: none
+}
+.pic-record-mod .pic-record-item .back-select {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 10px
+}
+.pic-record-mod .pic-record-item .back-select:visited {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 10px
+}
+.pic-record-mod .pic-record-item .back-select:hover {
+	TEXT-DECORATION: none
+}
+.pic-record-mod .pic-record-loading {
+	TEXT-ALIGN: center; FONT: 400 16px/22px "Microsoft YaHei","SimHei"; BACKGROUND: url(../../forum/default/images/loading.gif) #fff no-repeat center center; HEIGHT: 200px; PADDING-TOP: 70px
+}
+.board-tags-carousel {
+	POSITION: absolute; WIDTH: 20px; BOTTOM: 0px; RIGHT: 0px
+}
+.tags-carousel-prev {
+	WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden
+}
+.tags-carousel-next {
+	WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden
+}
+.tags-carousel-prev {
+	BORDER-BOTTOM: #fff 6px solid; FLOAT: left; BORDER-TOP: #fff 6px solid; BORDER-RIGHT: #333 6px solid
+}
+.tags-carousel-next {
+	BORDER-BOTTOM: #fff 6px solid; BORDER-LEFT: #333 6px solid; FLOAT: right; BORDER-TOP: #fff 6px solid
+}
+.tags-carousel-prev-disable {
+	BORDER-RIGHT: #aaa 6px solid
+}
+.tags-carousel-next-disable {
+	BORDER-LEFT: #aaa 6px solid
+}
+.tab-mod {
+	BACKGROUND: #fff
+}
+.tab-mod .tab-hd {
+	BORDER-BOTTOM: #585858 1px solid; MARGIN: 0px 20px 10px; PADDING-LEFT: 4px
+}
+.tab-mod .tab-hd UL {
+	FONT-SIZE: 0px
+}
+.tab-mod .tab-hd LI {
+	BORDER-BOTTOM: #585858 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #adadad 1px solid; PADDING-BOTTOM: 4px; LINE-HEIGHT: 14px; PADDING-LEFT: 20px; BOTTOM: -1px; PADDING-RIGHT: 20px; BACKGROUND: #b2b2b2; HEIGHT: 14px; COLOR: #fff; FONT-SIZE: 14px; BORDER-TOP: #adadad 1px solid; MARGIN-RIGHT: 1px; BORDER-RIGHT: #adadad 1px solid; PADDING-TOP: 4px
+}
+.tab-hd LI A {
+	COLOR: #fff
+}
+.tab-hd LI A:visited {
+	COLOR: #fff
+}
+.tab-hd LI A:hover {
+	COLOR: #fff
+}
+.tab-mod .tab-hd LI.selected {
+	BORDER-BOTTOM: #5c5c5c 1px; BORDER-LEFT: #5c5c5c 1px solid; BOTTOM: 0px; BACKGROUND: #666; HEIGHT: 16px; BORDER-TOP: #5c5c5c 1px solid; CURSOR: default; FONT-WEIGHT: 700; BORDER-RIGHT: #5c5c5c 1px solid
+}
+#nav {
+	LINE-HEIGHT: 36px; HEIGHT: 36px; COLOR: #666; FONT-SIZE: 14px
+}
+#nav I {
+	COLOR: #999
+}
+#nav EM {
+	COLOR: #333
+}
+.drop-menu {
+	Z-INDEX: 8; POSITION: relative
+}
+.drop-menu DT {
+	MARGIN-TOP: -1px; PADDING-RIGHT: 15px; BACKGROUND: url(../../forum/default/images/icon_common.png) no-repeat right -528px
+}
+.drop-menu DD {
+	BORDER-BOTTOM: #b5ce85 1px solid; POSITION: absolute; BORDER-LEFT: #b5ce85 1px solid; WIDTH: 100px; DISPLAY: none; BACKGROUND: #fff; FONT-SIZE: 12px; OVERFLOW: hidden; BORDER-TOP: #b5ce85 1px solid; TOP: 28px; BORDER-RIGHT: #b5ce85 1px solid; LEFT: -2px
+}
+.drop-menu DD A {
+	LINE-HEIGHT: 23px; TEXT-INDENT: 4px; DISPLAY: block; HEIGHT: 23px; COLOR: #334f67; OVERFLOW: hidden
+}
+.drop-menu DD A:visited {
+	LINE-HEIGHT: 23px; TEXT-INDENT: 4px; DISPLAY: block; HEIGHT: 23px; COLOR: #334f67; OVERFLOW: hidden
+}
+.drop-menu DD A:hover {
+	BACKGROUND: #b5ce85; COLOR: #fff; TEXT-DECORATION: none
+}
+.popo-mod .popo-aw {
+	BACKGROUND: url(../../forum/default/images/icon_common.png) no-repeat
+}
+.popo-mod {
+	POSITION: absolute; WIDTH: 250px; BACKGROUND: #fffce9; COLOR: #666
+}
+.popo-rim {
+	MARGIN: 0px 1px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: #edddab 1px solid
+}
+.popo-bd {
+	BORDER-BOTTOM: #edddab 0px solid; POSITION: relative; BORDER-LEFT: #edddab 1px solid; PADDING-BOTTOM: 6px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BORDER-TOP: #edddab 0px solid; BORDER-RIGHT: #edddab 1px solid; PADDING-TOP: 6px; _height: 18px
+}
+.popo-mod .popo-aw {
+	POSITION: absolute; WIDTH: 11px; BOTTOM: -6px; BACKGROUND-POSITION: 0px -288px; HEIGHT: 7px; OVERFLOW: hidden; LEFT: 36px
+}
+.popo-up .popo-aw {
+	BACKGROUND-POSITION: 0px -252px; TOP: -5px; RIGHT: 36px; LEFT: auto
+}
+.popo-left .popo-aw {
+	WIDTH: 6px; HEIGHT: 10px; OVERFLOW: hidden; TOP: 15px
+}
+.popo-right .popo-aw {
+	WIDTH: 6px; HEIGHT: 10px; OVERFLOW: hidden; TOP: 15px
+}
+.popo-left .popo-aw {
+	BACKGROUND-POSITION: 0px -324px; LEFT: -5px
+}
+.popo-right .popo-aw {
+	BACKGROUND-POSITION: 0px -360px; RIGHT: -5px; LEFT: auto
+}
+.popo-mod .close {
+	RIGHT: 5px
+}
+.popo-tip {
+	WIDTH: 135px; BACKGROUND: #eff7f8
+}
+.popo-tip .popo-rim {
+	BORDER-BOTTOM-COLOR: #d6edf3; BORDER-TOP-COLOR: #d6edf3; BORDER-RIGHT-COLOR: #d6edf3; BORDER-LEFT-COLOR: #d6edf3
+}
+.popo-tip .popo-bd {
+	BORDER-BOTTOM-COLOR: #d6edf3; BORDER-TOP-COLOR: #d6edf3; BORDER-RIGHT-COLOR: #d6edf3; BORDER-LEFT-COLOR: #d6edf3
+}
+.popo-tip .popo-bd {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 2px
+}
+.popo-tip .popo-aw {
+	BACKGROUND-POSITION: 0px -1228px
+}
+.popo-tip-up .popo-aw {
+	BACKGROUND-POSITION: 0px -1263px; TOP: -5px; RIGHT: 36px; LEFT: auto
+}
+.popo-tip-left .popo-aw {
+	WIDTH: 6px; HEIGHT: 10px; OVERFLOW: hidden; TOP: 15px
+}
+.popo-tip-right .popo-aw {
+	WIDTH: 6px; HEIGHT: 10px; OVERFLOW: hidden; TOP: 15px
+}
+.popo-tip-left .popo-aw {
+	BACKGROUND-POSITION: 0px -1263px; LEFT: -5px
+}
+.popo-tip-right .popo-aw {
+	BACKGROUND-POSITION: 0px -1193px; RIGHT: -5px; LEFT: auto
+}
+.relationship-mod {
+	BORDER-BOTTOM: #e3e3e3 1px solid; BORDER-LEFT: #e3e3e3 1px solid; MARGIN: 0px auto; WIDTH: 980px; BACKGROUND: #fff; HEIGHT: 58px; BORDER-TOP: #e3e3e3 1px solid; BORDER-RIGHT: #e3e3e3 1px solid
+}
+.relationship-mod .relationship-mod-icon {
+	WIDTH: 85px; VERTICAL-ALIGN: middle
+}
+.relationship-mod .relationship-mod-icon SPAN {
+	WIDTH: 100%; DISPLAY: inline-block; BACKGROUND: url(../../forum/default/images/bg_common.png) no-repeat 0px -416px; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 58px; _background: url(../../forum/default/images/bg_common_ie6.png) 0 -416px no-repeat
+}
+.relationship-mod .relationship-mod-link {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; FONT: 14px/22px "Simsun"; PADDING-TOP: 10px
+}
+.relationship-mod .relationship-mod-link A {
+	WHITE-SPACE: nowrap; FLOAT: left; MARGIN-RIGHT: 10px
+}
+.friend-link .relationship-mod-icon SPAN {
+	BACKGROUND-POSITION: 0px -760px
+}
+.shanghai-ip {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 262px; BOTTOM: 0px; BACKGROUND: url(../../forum/default/images/ship_bg.gif) no-repeat; HEIGHT: 172px; RIGHT: 0px; _position: absolute
+}
+.shanghai-ip A {
+	POSITION: relative; MARGIN: 25px 8px 8px; PADDING-LEFT: 110px; WIDTH: 136px; DISPLAY: inline-block; HEIGHT: 140px
+}
+.shanghai-ip A:hover {
+	TEXT-DECORATION: none
+}
+.shanghai-ip IMG {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.shanghai-ip STRONG {
+	LINE-HEIGHT: 20px; WIDTH: 136px; DISPLAY: block; HEIGHT: 24px; OVERFLOW: hidden
+}
+.shanghai-ip SPAN.ship-info {
+	LINE-HEIGHT: 20px; WIDTH: 136px; DISPLAY: block; HEIGHT: 80px; OVERFLOW: hidden
+}
+.shanghai-ip A SPAN {
+	COLOR: #324f64
+}
+.shanghai-ip A:visited SPAN {
+	COLOR: #324f64
+}
+.shanghai-ip A:hover SPAN {
+	COLOR: #0657b2
+}
+.shanghai-ip SPAN.ship-more {
+	POSITION: absolute; PADDING-LEFT: 20px; BOTTOM: 5px; BACKGROUND: url(../../forum/default/images/ship_bg.gif) no-repeat 0px -181px; RIGHT: 5px
+}
+#ship-close {
+	POSITION: absolute; WIDTH: 15px; DISPLAY: block; HEIGHT: 15px; TOP: 6px; CURSOR: pointer; RIGHT: 5px
+}
+.news-pop-wrapper {
+	Z-INDEX: 100; POSITION: fixed; DISPLAY: none; HEIGHT: 0px; OVERFLOW: hidden; _position: absolute; _zoom: 1
+}
+.news-pop-wrapper .news-pop-mod {
+	BORDER-BOTTOM: #d2e0ab 0px; BORDER-LEFT: #d2e0ab 1px solid; PADDING-BOTTOM: 20px; LINE-HEIGHT: 22px; BACKGROUND-COLOR: #ebf2d7; PADDING-LEFT: 10px; WIDTH: 455px; PADDING-RIGHT: 10px; HEIGHT: 120px; OVERFLOW: hidden; BORDER-TOP: #d2e0ab 1px solid; BORDER-RIGHT: #d2e0ab 1px solid; PADDING-TOP: 15px; border-radius: 6px 6px 0 0; _zoom: 1
+}
+.news-pop-mod .news-pop-hd {
+	MARGIN-BOTTOM: 6px; HEIGHT: 26px; OVERFLOW: hidden
+}
+.news-pop-mod .news-pop-hd STRONG {
+	FONT: 400 18px/26px "Microsoft YaHei",Simsun; COLOR: #8ca226
+}
+.news-pop-mod .news-pop-bd {
+	WIDTH: 350px; FLOAT: left; COLOR: #666; FONT-SIZE: 14px
+}
+.news-pop-mod .news-pop-ft {
+	TEXT-ALIGN: center; WIDTH: 100px; FLOAT: right
+}
+.news-pop-mod .news-pop-ft .un-pop {
+	DISPLAY: block; COLOR: #666; PADDING-TOP: 8px
+}
+.news-pop-mod .news-pop-ft .un-pop:visited {
+	COLOR: #666
+}
+.news-pop-mod .news-pop-ft .news-pop-close {
+	POSITION: absolute; FONT: 400 24px/1.5 Arial; COLOR: #94a935; TOP: 0px; RIGHT: 8px
+}
+.news-pop-mod .news-pop-ft .news-pop-close:visited {
+	COLOR: #94a935
+}
+.news-pop-mod .news-pop-ft .news-pop-close:hover {
+	TEXT-DECORATION: none
+}
+.btn:unknown {
+	PADDING-BOTTOM: 0px; BORDER-RIGHT-WIDTH: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; PADDING-TOP: 0px
+}
+.btn:first-child {
+	MARGIN-LEFT: 0px
+}
+.btn {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #abbf42; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; ZOOM: 1; DISPLAY: inline; BACKGROUND-REPEAT: repeat-x; FONT: 400 14px/22px "Microsoft YaHei",Tahoma,Simsun,Arial; MARGIN-BOTTOM: 0px; COLOR: #fff; MARGIN-LEFT: 0.3em; VERTICAL-ALIGN: middle; OVERFLOW: visible; CURSOR: pointer; PADDING-TOP: 4px; border-radius: 4px; box-shadow: inset 0 1px 0 rgba(255,255,255,0.2),0 1px 2px rgba(0,0,0,0.15); -webkit-appearance: none
+}
+.btn:visited {
+	COLOR: #fff
+}
+.btn:active {
+	OUTLINE-WIDTH: 0px; box-shadow: inset 0 2px 4px rgba(0,0,0,0.15),0 1px 2px rgba(0,0,0,0.05)
+}
+.btn:hover {
+	BACKGROUND-COLOR: #8ea423; COLOR: #fff; TEXT-DECORATION: none
+}
+.btn:active {
+	BACKGROUND-COLOR: #8ea423; COLOR: #fff; TEXT-DECORATION: none
+}
+.btn-reply {
+	BACKGROUND-COLOR: #d69600; BACKGROUND-REPEAT: repeat-x
+}
+.btn-reply:hover {
+	BACKGROUND-COLOR: #b68000
+}
+.btn-reply:active {
+	BACKGROUND-COLOR: #b68000
+}
+.btn-option {
+	BACKGROUND-COLOR: #939393; BACKGROUND-REPEAT: repeat-x
+}
+.btn-option:hover {
+	BACKGROUND-COLOR: #7d7d7d
+}
+.btn-option:active {
+	BACKGROUND-COLOR: #7d7d7d
+}
+.btn-light {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BORDER-LEFT: #e2e2e2 1px solid; PADDING-BOTTOM: 4px; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #f0f0f0; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-REPEAT: repeat-x; COLOR: #333; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid; PADDING-TOP: 4px
+}
+.btn-light:visited {
+	COLOR: #333
+}
+.btn-light:hover {
+	BORDER-BOTTOM-COLOR: #d2df9e; BACKGROUND-COLOR: #e3ebcf; BORDER-TOP-COLOR: #d2df9e; COLOR: #7f9c14; BORDER-RIGHT-COLOR: #d2df9e; BORDER-LEFT-COLOR: #d2df9e
+}
+.btn-light:active {
+	BORDER-BOTTOM-COLOR: #d2df9e; BACKGROUND-COLOR: #e3ebcf; BORDER-TOP-COLOR: #d2df9e; COLOR: #7f9c14; BORDER-RIGHT-COLOR: #d2df9e; BORDER-LEFT-COLOR: #d2df9e
+}
+.btn-light:active {
+	box-shadow: inset 0 2px 4px rgba(0,0,0,0.1),0 1px 2px rgba(0,0,0,0.05)
+}
+.btn-preview {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BORDER-LEFT: #e2e2e2 1px solid; PADDING-BOTTOM: 4px; LINE-HEIGHT: 20px; BACKGROUND-COLOR: #f0f0f0; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; BACKGROUND-REPEAT: repeat-x; COLOR: #7f9c14; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid; PADDING-TOP: 4px
+}
+.btn-preview:visited {
+	COLOR: #7f9c14
+}
+.btn-preview:hover {
+	BORDER-BOTTOM-COLOR: #abbf42; BACKGROUND-COLOR: #abbf42; BORDER-TOP-COLOR: #abbf42; COLOR: #fff; BORDER-RIGHT-COLOR: #abbf42; BORDER-LEFT-COLOR: #abbf42
+}
+.btn-preview:active {
+	BORDER-BOTTOM-COLOR: #abbf42; BACKGROUND-COLOR: #abbf42; BORDER-TOP-COLOR: #abbf42; COLOR: #fff; BORDER-RIGHT-COLOR: #abbf42; BORDER-LEFT-COLOR: #abbf42
+}
+.disabled.btn {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM: #bebebe 1px solid; BORDER-LEFT: #bebebe 1px solid; BACKGROUND-COLOR: #d0d0d0; COLOR: #f1f1f1; BORDER-TOP: #bebebe 1px solid; BORDER-RIGHT: #bebebe 1px solid; box-shadow: none
+}
+.disabled.btn SPAN {
+	_background-image: none
+}
+.disabled.btn:hover {
+	BACKGROUND-COLOR: #d0d0d0; CURSOR: default; box-shadow: none
+}
+.disabled.btn:active {
+	BACKGROUND-COLOR: #d0d0d0; CURSOR: default; box-shadow: none
+}
+.mini.btn {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 16px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 12px; PADDING-TOP: 2px; border-radius: 2px
+}
+.mini.btn-light {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 1px
+}
+.mini.disabled {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 1px
+}
+.small.btn {
+	PADDING-BOTTOM: 2px; LINE-HEIGHT: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT-SIZE: 12px; PADDING-TOP: 2px; border-radius: 3px
+}
+.small.btn-light {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 2px
+}
+.small.disabled {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 2px
+}
+.large.btn {
+	PADDING-BOTTOM: 7px; LINE-HEIGHT: 26px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; FONT-SIZE: 18px; PADDING-TOP: 7px; border-radius: 5px
+}
+.large.btn-light {
+	PADDING-BOTTOM: 6px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; PADDING-TOP: 6px
+}
+.large.disabled {
+	PADDING-BOTTOM: 6px; PADDING-LEFT: 30px; PADDING-RIGHT: 30px; PADDING-TOP: 6px
+}
+.board-unsubscribe {
+	HEIGHT: 20px; OVERFLOW: hidden
+}
+.board-subscribe {
+	HEIGHT: 20px; OVERFLOW: hidden
+}
+.board-unsubscribe I {
+	MARGIN-TOP: 1px; WIDTH: 16px; ZOOM: 1; BACKGROUND: url(../../forum/default/images//common.png) no-repeat; FLOAT: left; HEIGHT: 16px
+}
+.board-subscribe I {
+	MARGIN-TOP: 1px; WIDTH: 16px; ZOOM: 1; BACKGROUND: url(../../forum/default/images//common.png) no-repeat; FLOAT: left; HEIGHT: 16px
+}
+.board-unsubscribe I {
+	BACKGROUND-POSITION: 0px -16px
+}
+.board-subscribe I {
+	BACKGROUND-POSITION: -20px -16px
+}
+#main-wrap {
+	WIDTH: 770px; MARGIN-BOTTOM: 10px; FLOAT: right
+}
+#side-wrap {
+	BORDER-BOTTOM: #ececec 1px solid; BORDER-LEFT: #ececec 1px solid; BACKGROUND-COLOR: #f4f4f4; WIDTH: 200px; MARGIN-BOTTOM: 10px; FLOAT: left; BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid; _overflow: hidden
+}
+.quick-mod {
+	Z-INDEX: 2; POSITION: relative; PADDING-BOTTOM: 15px; PADDING-LEFT: 15px; WIDTH: 740px; PADDING-RIGHT: 15px; BACKGROUND: #f7f7f7; PADDING-TOP: 15px
+}
+.quick-hd {
+	POSITION: relative; LINE-HEIGHT: 20px; WIDTH: 100%; OVERFLOW: hidden
+}
+.quick-hd H3 {
+	FLOAT: left; FONT-SIZE: 14px; MARGIN-RIGHT: 10px
+}
+.quick-opt {
+	PADDING-RIGHT: 18px; BACKGROUND: url(images/list_icon.png) no-repeat 27px -33px; FLOAT: right; HEIGHT: 20px; COLOR: #666; MARGIN-LEFT: 10px; CURSOR: pointer
+}
+.quick-opt:visited {
+	PADDING-RIGHT: 18px; BACKGROUND: url(images/list_icon.png) no-repeat 27px -33px; FLOAT: right; HEIGHT: 20px; COLOR: #666; MARGIN-LEFT: 10px; CURSOR: pointer
+}
+.quick-opt A:hover {
+	COLOR: #0657b2
+}
+.quick-open {
+	BACKGROUND-POSITION: 27px -69px
+}
+.quick-type {
+	FLOAT: right
+}
+.quick-bd {
+	POSITION: relative; BACKGROUND-COLOR: #fff; MARGIN-TOP: 10px; WIDTH: 100%; BORDER-TOP: #b6cd87 1px solid; PADDING-TOP: 10px
+}
+.quick-bd LI {
+	PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px
+}
+.quick-bd .quick-arrow {
+	POSITION: absolute; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0; PADDING-LEFT: 0px; WIDTH: 13px; PADDING-RIGHT: 0px; BACKGROUND: url(images/list_icon.png) no-repeat -37px -792px; HEIGHT: 7px; OVERFLOW: hidden; TOP: -7px; PADDING-TOP: 0px; LEFT: 45px
+}
+.quick-bd EM {
+	TEXT-ALIGN: right; WIDTH: 70px; FLOAT: left
+}
+.quick-title {
+	WIDTH: 614px
+}
+#quick-content {
+	WIDTH: 614px; HEIGHT: 40px
+}
+.focus#quick-content {
+	BORDER-BOTTOM-COLOR: #9ebf5e; BORDER-TOP-COLOR: #9ebf5e; HEIGHT: 60px; BORDER-RIGHT-COLOR: #9ebf5e; BORDER-LEFT-COLOR: #9ebf5e
+}
+.quick-bd .quick-app {
+	DISPLAY: none
+}
+.quick-bd .quick-secode {
+	DISPLAY: none
+}
+.quick-app-submit {
+	POSITION: absolute; BOTTOM: 5px; RIGHT: 45px
+}
+.quick-app-item .app-btn {
+	BACKGROUND: url(images/list_icon.png) no-repeat
+}
+.quick-app-item .quick-app-smily {
+	BACKGROUND-POSITION: 0px -106px
+}
+.quick-app-item .quick-app-img {
+	BACKGROUND-POSITION: 0px -142px
+}
+.quick-app-item .quick-app-video {
+	BACKGROUND-POSITION: 0px -178px
+}
+.quick-app-item .quick-app-tag {
+	BACKGROUND-POSITION: 0px -214px
+}
+.quick-app-item .quick-app-ta {
+	BACKGROUND-POSITION: 0px -249px
+}
+.quick-item {
+	FLOAT: left
+}
+.quick-item A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 27px; PADDING-RIGHT: 10px; BACKGROUND: url(images/list_icon.png) no-repeat; COLOR: #334f67; PADDING-TOP: 0px
+}
+.quick-item STRONG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 27px; PADDING-RIGHT: 10px; BACKGROUND: url(images/list_icon.png) no-repeat; COLOR: #334f67; PADDING-TOP: 0px
+}
+.quick-item .quick-share STRONG {
+	BACKGROUND-POSITION: 5px -801px
+}
+.quick-item .quick-topic {
+	BACKGROUND-POSITION: 5px -837px
+}
+.quick-item .quick-act {
+	BACKGROUND-POSITION: 5px -873px
+}
+.quick-item .quick-vote {
+	BACKGROUND-POSITION: 5px -910px
+}
+.quick-opt {
+	FLOAT: right
+}
+.quick-bd {
+	POSITION: relative
+}
+.list-board {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; WIDTH: 180px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.list-board .list-board-hd {
+	ZOOM: 1; DISPLAY: block; MARGIN-BOTTOM: 10px; OVERFLOW: hidden
+}
+.list-board-hd .board-img {
+	WIDTH: 61px; FLOAT: left; HEIGHT: 61px; OVERFLOW: hidden
+}
+.list-board-hd .board-img IMG {
+	BORDER-BOTTOM: #dfdfdf 1px solid; BORDER-LEFT: #dfdfdf 1px solid; WIDTH: 60px; HEIGHT: 60px; BORDER-TOP: #dfdfdf 1px solid; BORDER-RIGHT: #dfdfdf 1px solid; border-radius: 4px
+}
+.list-board-hd DD {
+	PADDING-LEFT: 6px; DISPLAY: block; OVERFLOW: hidden
+}
+.list-board-hd DD H1 {
+	MARGIN: 2px 0px 5px; FONT: 400 16px/1.5 "Microsoft YaHei",SimHei; HEIGHT: 24px; OVERFLOW: hidden
+}
+.board-info {
+	BORDER-BOTTOM: #ddd 1px solid; POSITION: relative; BORDER-LEFT: #ddd 1px solid; MARGIN-BOTTOM: 10px; BACKGROUND: #fff; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; border-radius: 4px
+}
+.board-info P {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.board-info .board-moderator {
+	BACKGROUND: #f4f4f4; OVERFLOW: hidden
+}
+.board-info .no-moderator {
+	FONT-WEIGHT: 400
+}
+.board-info .arrow I {
+	POSITION: absolute; FONT: 700 14px/20px Simsun; COLOR: #fff; TOP: -9px; LEFT: 25px; _top: -8px
+}
+.board-info .arrow .arrow-top {
+	COLOR: #ddd; TOP: -10px; _top: -9px
+}
+.board-count {
+	MARGIN-BOTTOM: 10px; BACKGROUND: url(images/list_bg.png) no-repeat 0px -499px; HEIGHT: 40px
+}
+.board-count LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 16px; MARGIN: 5px 0px; WIDTH: 90px; FLOAT: left
+}
+.board-count EM {
+	DISPLAY: block; FONT: 400 14px Arial; COLOR: #334f67
+}
+.board-count A {
+	COLOR: #334f67
+}
+.board-count A:visited {
+	COLOR: #334f67
+}
+.list-tab .list-tab-hd {
+	BACKGROUND: url(images/list_bg.png) no-repeat
+}
+.list-tab .list-tab-hd .current {
+	BACKGROUND: url(images/list_bg.png) no-repeat
+}
+.list-tab .list-tab-hd STRONG {
+	BACKGROUND: url(images/list_bg.png) no-repeat
+}
+.list-tab {
+	CLEAR: both
+}
+.list-tab .list-tab-hd {
+	BORDER-BOTTOM: #b5ce85 2px solid; BORDER-LEFT: #f3f3f3 1px solid; PADDING-BOTTOM: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 7px; PADDING-RIGHT: 5px; BACKGROUND-REPEAT: repeat-x; HEIGHT: 26px; BORDER-TOP: #f3f3f3 1px solid; BORDER-RIGHT: #f3f3f3 1px solid; PADDING-TOP: 4px
+}
+.list-tab .list-tab-hd-fixed {
+	Z-INDEX: 5; POSITION: fixed; MARGIN-TOP: 0px; WIDTH: 756px; TOP: 0px; box-shadow: 0 0 3px rgba(0,0,0,.2)
+}
+.list-tab .list-tab-nav {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; BACKGROUND: #f4f4f4; HEIGHT: 24px; PADDING-TOP: 7px
+}
+.list-tab-hd .popo-mod-all-thread {
+	WIDTH: 210px; DISPLAY: none; TOP: 30px; LEFT: -20px
+}
+.list-tab-nav .popo-mod-all-thread {
+	WIDTH: 210px; DISPLAY: none; TOP: 30px; LEFT: -20px
+}
+.list-tab-hd-fixed .popo-mod-all-thread {
+	DISPLAY: block
+}
+.popo-mod-all-thread .popo-bd {
+	LINE-HEIGHT: 1.5; COLOR: #c0880f; FONT-SIZE: 12px
+}
+.popo-mod-all-thread .popo-aw {
+	LEFT: 45px
+}
+.list-tab-hd-fixed .list-tab-new IMG {
+	DISPLAY: none
+}
+.list-tab .list-tab-hd-fixed .current {
+	BACKGROUND: #b5ce85
+}
+.list-tab-hd-fixed .current STRONG {
+	BACKGROUND: #b5ce85
+}
+.list-tab-hd-fixed .current STRONG {
+	COLOR: #fff
+}
+.list-tab .list-tab-hd UL {
+	POSITION: absolute; LINE-HEIGHT: 28px; HEIGHT: 28px
+}
+.list-tab .list-tab-hd LI {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 18px; PADDING-RIGHT: 18px; FLOAT: left; HEIGHT: 28px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.list-tab .list-tab-hd .current {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px -30px; PADDING-TOP: 0px
+}
+.list-tab .list-tab-hd STRONG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 18px; BACKGROUND-POSITION: right -58px; FLOAT: left; HEIGHT: 28px; PADDING-TOP: 0px
+}
+.list-tab .list-tab-bd {
+	WIDTH: 770px; CLEAR: both; OVERFLOW: hidden
+}
+.list-tab .list-tab-nav .thread-type {
+	POSITION: absolute; LINE-HEIGHT: 24px; HEIGHT: 24px
+}
+.list-tab-nav .thread-type .type-name {
+	POSITION: relative; PADDING-BOTTOM: 4px; LINE-HEIGHT: 16px; PADDING-LEFT: 12px; PADDING-RIGHT: 12px; FLOAT: left; HEIGHT: 16px; FONT-SIZE: 14px; MARGIN-RIGHT: 2px; PADDING-TOP: 4px; border-radius: 3px
+}
+.list-tab-nav .thread-type .type-name I {
+	POSITION: absolute; BOTTOM: -8px; DISPLAY: none; COLOR: #829f13; LEFT: 40%; _bottom: -10px
+}
+.list-tab-nav .thread-type .current.type-name I {
+	DISPLAY: block; _display: inline
+}
+.list-tab-nav .thread-type .current.type-name {
+	BACKGROUND-COLOR: #829f13; BACKGROUND-REPEAT: repeat-x; COLOR: #fff; TEXT-DECORATION: none
+}
+.list-tab-nav .thread-type .type-name:hover {
+	BACKGROUND-COLOR: #829f13; BACKGROUND-REPEAT: repeat-x; COLOR: #fff; TEXT-DECORATION: none
+}
+.list-tab .list-hot-board {
+	BORDER-BOTTOM: #f2f2f2 1px solid; PADDING-BOTTOM: 8px; LINE-HEIGHT: 24px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; ZOOM: 1; WHITE-SPACE: nowrap; MARGIN-BOTTOM: 5px; BACKGROUND: url(images/hot_board_bg.png) #fff repeat-x; HEIGHT: 24px; COLOR: #999; OVERFLOW: hidden; PADDING-TOP: 8px
+}
+.list-tab .list-tab-hd-fixed.list-hot-board {
+	TOP: 38px
+}
+.list-tab .list-hot-board .board-name {
+	BORDER-BOTTOM: #dde5b5 1px solid; BORDER-LEFT: #dde5b5 1px solid; PADDING-BOTTOM: 4px; LINE-HEIGHT: 12px; MARGIN: 0px 0px 15px 4px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 12px; COLOR: #8ca226; BORDER-TOP: #dde5b5 1px solid; BORDER-RIGHT: #dde5b5 1px solid; PADDING-TOP: 4px; border-radius: 10px
+}
+.list-tab .list-hot-board .board-name:hover {
+	BORDER-BOTTOM-COLOR: #8ca226; BORDER-TOP-COLOR: #8ca226; BACKGROUND: #8ca226; COLOR: #fff; BORDER-RIGHT-COLOR: #8ca226; BORDER-LEFT-COLOR: #8ca226; TEXT-DECORATION: none
+}
+.list-sort {
+	BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; BACKGROUND: url(images/list_bg.png) repeat-x 0px -547px; OVERFLOW: hidden; PADDING-TOP: 9px; _width: 763px
+}
+.list-sort I.color9 {
+	FLOAT: left
+}
+.list-sort .list-sort-items {
+	OVERFLOW: hidden; _zoom: 1
+}
+.list-sort .list-sort-items H2 {
+	LINE-HEIGHT: 16px; MARGIN: 0px 15px 5px 0px; FLOAT: left; FONT-WEIGHT: 400
+}
+.list-sort .list-sort-items EM {
+	LINE-HEIGHT: 16px; MARGIN: 0px 15px 5px 0px; FLOAT: left; FONT-WEIGHT: 400
+}
+.list-sort A {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 2px
+}
+.list-sort STRONG {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; PADDING-TOP: 2px
+}
+.list-sort A {
+	WHITE-SPACE: nowrap
+}
+.list-sort SPAN {
+	WHITE-SPACE: nowrap
+}
+.list-sort STRONG {
+	WHITE-SPACE: nowrap
+}
+.list-sort A:hover {
+	BACKGROUND: #7e9712; COLOR: #fff; TEXT-DECORATION: none
+}
+.list-sort STRONG {
+	BACKGROUND: #7e9712; COLOR: #fff; TEXT-DECORATION: none
+}
+#main-wrap .page-mod {
+	MARGIN: 10px 0px; FLOAT: right
+}
+.quickpost-mod {
+	FONT-FAMILY: "microsoft yahei"; FONT-SIZE: 16px; OVERFLOW: hidden; _zoom: 1
+}
+.quickpost-mod LI {
+	FLOAT: left
+}
+.quickpost-mod LI A {
+	OUTLINE-STYLE: none; PADDING-LEFT: 20px; DISPLAY: inline-block; BACKGROUND: url(images/list_bg.png) #fff no-repeat 0px -625px
+}
+.quickpost-mod LI A EM {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 30px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; DISPLAY: inline-block; BACKGROUND: url(images/list_bg.png) #fff no-repeat 100% -625px; HEIGHT: 52px; COLOR: #666; PADDING-TOP: 18px
+}
+.quickpost-mod LI A:visited {
+	COLOR: #666
+}
+.quickpost-mod LI A:hover {
+	COLOR: #666
+}
+.quickpost-mod LI A:hover {
+	BACKGROUND-POSITION: 0px -700px; TEXT-DECORATION: none
+}
+.quickpost-mod LI A:hover EM {
+	BACKGROUND-POSITION: 100% -700px; TEXT-DECORATION: none
+}
+.quickpost-mod LI A IMG {
+	FLOAT: left; MARGIN-RIGHT: 5px
+}
+.post-reward-tips {
+	WIDTH: 210px; BACKGROUND: url(images/list_bg.png) no-repeat 0px -776px; HEIGHT: 36px
+}
+.list-filter-mod {
+	BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(images/list_bg.png) #fff repeat-x 0px -430px; HEIGHT: 27px; OVERFLOW: hidden; PADDING-TOP: 8px
+}
+.list-filter-mod EM {
+	COLOR: #999
+}
+.list-filter-mod A {
+	PADDING-BOTTOM: 1px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; MARGIN-RIGHT: 10px; PADDING-TOP: 2px
+}
+.list-filter-mod A.on {
+	BACKGROUND-COLOR: #839b1b; COLOR: #fff; FONT-WEIGHT: 700
+}
+.list-filter-mod .on:visited {
+	BACKGROUND-COLOR: #839b1b; COLOR: #fff; FONT-WEIGHT: 700
+}
+.list-search {
+	FLOAT: right
+}
+.list-search INPUT {
+	WIDTH: 160px; FLOAT: left; HEIGHT: 14px; OVERFLOW: hidden
+}
+.list-search A {
+	BORDER-BOTTOM: #7f9c14 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #7f9c14 1px solid; LINE-HEIGHT: 20px; WIDTH: 56px; BACKGROUND: url(images/list_bg.png) repeat-x 0px -121px; FLOAT: left; HEIGHT: 20px; COLOR: #fff; MARGIN-LEFT: -1px; OVERFLOW: hidden; BORDER-TOP: #7f9c14 1px solid; BORDER-RIGHT: #7f9c14 1px solid
+}
+.list-search A:visited {
+	BORDER-BOTTOM: #7f9c14 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #7f9c14 1px solid; LINE-HEIGHT: 20px; WIDTH: 56px; BACKGROUND: url(images/list_bg.png) repeat-x 0px -121px; FLOAT: left; HEIGHT: 20px; COLOR: #fff; MARGIN-LEFT: -1px; OVERFLOW: hidden; BORDER-TOP: #7f9c14 1px solid; BORDER-RIGHT: #7f9c14 1px solid
+}
+.list-search A:hover {
+	BACKGROUND-POSITION: 0px -141px; COLOR: #fff; TEXT-DECORATION: none
+}
+.list-data {
+	WIDTH: 100%
+}
+.list-data .gray TH {
+	BACKGROUND-COLOR: #f7f7f7
+}
+.list-data .gray TD {
+	BACKGROUND-COLOR: #f7f7f7
+}
+.list-data .opt {
+	TEXT-ALIGN: center; WIDTH: 20px
+}
+.list-data .icon {
+	TEXT-ALIGN: center; WIDTH: 4%
+}
+.list-data .author {
+	WIDTH: 90px
+}
+.list-data .num {
+	WIDTH: 90px
+}
+.list-data .lastpost {
+	WIDTH: 100px
+}
+.list-data TH {
+	TEXT-ALIGN: left; FONT-WEIGHT: 400
+}
+.list-data THEAD TH {
+	BORDER-BOTTOM: #dedede 1px solid; HEIGHT: 25px; COLOR: #666
+}
+.data-orderby {
+	PADDING-LEFT: 10px
+}
+.data-orderby .select-mod DD {
+	WIDTH: 95px
+}
+.list-data TBODY TH {
+	BORDER-BOTTOM: #ededed 1px dashed; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.list-data TBODY TD {
+	BORDER-BOTTOM: #ededed 1px dashed; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.list-data TBODY TR.pink TH {
+	BORDER-BOTTOM: #f6dfdf 1px dashed; BACKGROUND-COLOR: #fff3f3
+}
+.list-data TBODY TR.pink TD {
+	BORDER-BOTTOM: #f6dfdf 1px dashed; BACKGROUND-COLOR: #fff3f3
+}
+TR.pink .num EM {
+	COLOR: #0657b2
+}
+.title {
+	FONT-SIZE: 14px
+}
+.title A {
+	COLOR: #0657b2
+}
+.title A:visited {
+	COLOR: #0657b2
+}
+.title A:hover {
+	COLOR: #fc6d02
+}
+.subject {
+	POSITION: relative; PADDING-RIGHT: 20px
+}
+.subject .thumbnail {
+	BORDER-BOTTOM: #d9e6bb 1px solid; POSITION: absolute; BORDER-LEFT: #d9e6bb 1px solid; BOTTOM: 22px; DISPLAY: none; BORDER-TOP: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid; LEFT: 0px
+}
+.numeral {
+	FONT: 11px "Arial"; COLOR: #999
+}
+.numeral A {
+	COLOR: #999
+}
+.numeral A:visited {
+	COLOR: #999
+}
+.numeral A:hover {
+	COLOR: #0657b2
+}
+.author A {
+	COLOR: #666
+}
+.author A:visited {
+	COLOR: #666
+}
+.lastpost EM A {
+	COLOR: #666
+}
+.lastpost EM A:visited {
+	COLOR: #666
+}
+.author A:hover {
+	COLOR: #666
+}
+.lastpost EM A:hover {
+	COLOR: #666
+}
+.num EM {
+	DISPLAY: block
+}
+.lastpost EM {
+	DISPLAY: block
+}
+.num A {
+	COLOR: #0657b2
+}
+.num A:visited {
+	COLOR: #0657b2
+}
+.num A:hover {
+	COLOR: #fc6d02
+}
+.thread-pages A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; PADDING-TOP: 0px
+}
+.thread-pages A:hover {
+	BACKGROUND-COLOR: #839b1b; COLOR: #fff; TEXT-DECORATION: none
+}
+.thread-icon {
+	POSITION: absolute; TOP: 0px; RIGHT: 0px
+}
+.thread-icon SPAN {
+	WIDTH: 18px; DISPLAY: inline; BACKGROUND: url(images/list_icon.png) no-repeat 0px 0px; FLOAT: right; HEIGHT: 0px; OVERFLOW: hidden; MARGIN-RIGHT: 4px; PADDING-TOP: 20px
+}
+.thread-icon .thread-lock {
+	WIDTH: 16px; BACKGROUND-POSITION: 0px -285px
+}
+.thread-icon .thread-business {
+	WIDTH: 18px; BACKGROUND-POSITION: 1px -471px
+}
+.adm-option TD {
+	PADDING-BOTTOM: 8px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #eff7f8; PADDING-TOP: 8px
+}
+.adm-option A {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 17px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #f8f8f8; HEIGHT: 17px; COLOR: #334f67; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px
+}
+.adm_option A:visited {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 17px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #f8f8f8; HEIGHT: 17px; COLOR: #334f67; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px
+}
+.adm_option A:hover {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 17px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #f8f8f8; HEIGHT: 17px; COLOR: #334f67; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px
+}
+.list-side {
+	MARGIN: 0px 8px; WIDTH: 184px
+}
+.list-side-hd {
+	BORDER-BOTTOM: #e0e0e0 1px solid; LINE-HEIGHT: 36px; HEIGHT: 30px; OVERFLOW: hidden
+}
+.list-side-bd {
+	WIDTH: 184px; OVERFLOW: hidden; BORDER-TOP: #fff 1px solid; PADDING-TOP: 10px
+}
+.forum-fold.list-side-bd {
+	HEIGHT: 100px
+}
+.options-btn SPAN {
+	BACKGROUND-POSITION: right -545px; COLOR: #334f67
+}
+.options-btn:hover {
+	BACKGROUND-POSITION: 0px -570px
+}
+.options-btn:hover SPAN {
+	BACKGROUND-POSITION: right -595px; COLOR: #334f67
+}
+.uoption-followed A:hover {
+	COLOR: #0657b2
+}
+.uoption-follow EM {
+	PADDING-LEFT: 15px; BACKGROUND: url(images/list_icon.png) no-repeat 0px 1px
+}
+.uoption-followed {
+	LINE-HEIGHT: 25px; PADDING-LEFT: 16px; WIDTH: 92px; DISPLAY: none; BACKGROUND: url(images/list_bg.png) no-repeat 0px -197px; HEIGHT: 25px
+}
+.tag-top {
+	POSITION: relative; WIDTH: 210px; BACKGROUND: url(images/list_tag_top.png) no-repeat 0px -1px; HEIGHT: 8px; LEFT: -5px; _background-position: 0 5px
+}
+.list-tags {
+	BORDER-BOTTOM: #cecece 1px solid; POSITION: relative; BORDER-LEFT: #cecece 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 4px; WIDTH: 200px; PADDING-RIGHT: 4px; BACKGROUND: url(images/list_tag_top.png) #fff no-repeat -1px -10px; BORDER-TOP: #cecece 1px solid; BORDER-RIGHT: #cecece 1px solid; PADDING-TOP: 5px; LEFT: -5px
+}
+.list-tags .list-tags-hd {
+	LINE-HEIGHT: 20px; TEXT-INDENT: 30px; MARGIN-BOTTOM: 5px; BACKGROUND: url(images/list_icon.png) no-repeat 5px -1118px; HEIGHT: 20px
+}
+.list-tags .list-tags-bd {
+	POSITION: relative; PADDING-BOTTOM: 5px; MARGIN-TOP: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 5px
+}
+.list-tags .list-tags-grey {
+	BACKGROUND: #f4f4f4
+}
+.list-tags .list-tags-on {
+	BACKGROUND: #edf4dc
+}
+.list-tags .list-tags-on .tag-arrow {
+	DISPLAY: block
+}
+.list-tags .tag-arrow {
+	POSITION: absolute; TOP: 12px; RIGHT: 10px; FONT-WEIGHT: 700
+}
+.list-tags H3 {
+	LINE-HEIGHT: 24px; HEIGHT: 24px
+}
+.list-tags .list-tags-item {
+	ZOOM: 1; WHITE-SPACE: nowrap; OVERFLOW: hidden
+}
+.list-tags .list-tags-item A {
+	PADDING-BOTTOM: 3px; MARGIN: 0px 2px 2px 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; FLOAT: left; COLOR: #666; PADDING-TOP: 3px
+}
+.list-tags .list-tags-item A.select {
+	BACKGROUND: #8ca226; COLOR: #fff; TEXT-DECORATION: none; border-radius: 3px
+}
+.list-tags .list-tags-item A:hover {
+	BACKGROUND: #8ca226; COLOR: #fff; TEXT-DECORATION: none; border-radius: 3px
+}
+.list-forum {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; PADDING-TOP: 0px
+}
+.list-forum LI {
+	PADDING-LEFT: 48px; WIDTH: 136px; ZOOM: 1; MARGIN-BOTTOM: 10px; BACKGROUND: url(images/list_bg.png) no-repeat 0px -222px; HEIGHT: 40px; COLOR: #666; OVERFLOW: hidden
+}
+.list-forum H4 {
+	DISPLAY: inline
+}
+.list-forum H4 A {
+	DISPLAY: inline-block; HEIGHT: 16px; OVERFLOW: hidden; _zoom: 1; _display: inline
+}
+.list-forum EM {
+	FONT: 700 12px/1.5 Arial; COLOR: #fc6d02
+}
+.list-forum SPAN {
+	COLOR: #333
+}
+.list-forum .new {
+	BACKGROUND-POSITION: 0px -262px
+}
+.list-recommend LI {
+	WIDTH: 184px; MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.list-recommend IMG {
+	WIDTH: 60px; PADDING-RIGHT: 5px; FLOAT: left; HEIGHT: 60px
+}
+.list-recommend A EM {
+	WIDTH: 100px; COLOR: #999
+}
+.list-recommend A:hover EM {
+	TEXT-DECORATION: underline
+}
+.moderator-recommend {
+	BORDER-BOTTOM: #edf2e2 0px solid; BORDER-LEFT: #edf2e2 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 9px; WIDTH: 180px; PADDING-RIGHT: 9px; BACKGROUND: url(images/list_bg_ad.png) #fff no-repeat right 0px; OVERFLOW: hidden; BORDER-TOP: #edf2e2 0px solid; BORDER-RIGHT: #edf2e2 1px solid; PADDING-TOP: 0px
+}
+.moderator-recommend .list-recommend {
+	BORDER-BOTTOM: #d3d3d3 1px dashed; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.moderator-recommend .list-recommend LI {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 30px; WIDTH: 180px; HEIGHT: 30px; OVERFLOW: hidden; PADDING-TOP: 120px
+}
+.moderator-recommend .list-recommend IMG {
+	POSITION: absolute; WIDTH: 160px; HEIGHT: 120px; TOP: 0px; LEFT: 10px
+}
+.moderator-recommend .list-recommend A SPAN {
+	COLOR: #666
+}
+.moderator-recommend .list-recommend A:hover SPAN {
+	COLOR: #0657b2; TEXT-DECORATION: underline
+}
+.moderator-recommend H3 {
+	COLOR: #334f67
+}
+.moderator-recommend .list-side-hd {
+	BORDER-BOTTOM-COLOR: #d9e9bb; BORDER-TOP-COLOR: #d9e9bb; BORDER-RIGHT-COLOR: #d9e9bb; BORDER-LEFT-COLOR: #d9e9bb
+}
+.recommend-seller-info {
+	BORDER-BOTTOM: #d3d3d3 1px dashed; PADDING-BOTTOM: 5px; MARGIN-TOP: 10px; ZOOM: 1; OVERFLOW: hidden
+}
+.recommend-seller-info LI {
+	BACKGROUND-IMAGE: url(images/list_icon.png); LINE-HEIGHT: 26px; PADDING-LEFT: 20px; WIDTH: 160px; BACKGROUND-REPEAT: no-repeat; FLOAT: left; HEIGHT: 26px; COLOR: #666
+}
+.recommend-seller-info LI#recommend-seller-name {
+	BACKGROUND-POSITION: 0px -937px
+}
+#recommend-seller-name A {
+	FONT-WEIGHT: 700
+}
+.recommend-seller-info LI#recommend-seller-num {
+	BACKGROUND-POSITION: 0px -975px
+}
+.recommend-goods {
+	ZOOM: 1; OVERFLOW: hidden
+}
+.recommend-goods LI {
+	LINE-HEIGHT: 24px; WIDTH: 180px; FLOAT: left; HEIGHT: 24px; OVERFLOW: hidden
+}
+.moderator-noborder {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+#recommend-style-chose {
+	LINE-HEIGHT: 50px; HEIGHT: 50px; FONT-SIZE: 14px; VERTICAL-ALIGN: middle; FONT-WEIGHT: 700
+}
+#recommend-style-chose INPUT {
+	MARGIN-BOTTOM: 5px
+}
+.list-hotuser LI {
+	MARGIN-BOTTOM: 10px; HEIGHT: 50px; OVERFLOW: hidden
+}
+.list-hotuser LABEL {
+	POSITION: relative; WIDTH: 50px; FLOAT: left; HEIGHT: 50px
+}
+.list-hotuser B {
+	POSITION: relative; WIDTH: 50px; FLOAT: left; HEIGHT: 50px
+}
+.list-hotuser B {
+	Z-INDEX: 2; POSITION: absolute; FILTER: alpha(opacity:0); BACKGROUND: #fff; TOP: 0px; CURSOR: pointer; LEFT: 0px; opacity: 0
+}
+.list-hotuser IMG {
+	WIDTH: 50px; HEIGHT: 50px
+}
+.list-hotuser INPUT {
+	Z-INDEX: 1; POSITION: absolute; BOTTOM: 0px; LEFT: 0px
+}
+.hotuser-info {
+	LINE-HEIGHT: 16px; WIDTH: 128px; FLOAT: left; MARGIN-LEFT: 5px
+}
+.hotuser-info STRONG {
+	LINE-HEIGHT: 20px
+}
+.list-rank LI {
+	LINE-HEIGHT: 20px; MARGIN-BOTTOM: 5px; HEIGHT: 20px; OVERFLOW: hidden
+}
+.list-rank EM {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 5px; FONT-FAMILY: Arial; COLOR: #999; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.list-rank SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 5px; FONT-FAMILY: Arial; COLOR: #999; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.list-rank EM {
+	COLOR: #8ca226
+}
+.list-commend LI.commend {
+	PADDING-BOTTOM: 10px; OVERFLOW: hidden
+}
+LI.commend H4 {
+	POSITION: relative; PADDING-BOTTOM: 10px; COLOR: #666
+}
+LI.commend H4 SPAN {
+	BORDER-BOTTOM: #e0e0e0 1px dotted; POSITION: absolute; WIDTH: 125px; TOP: -11px; LEFT: 55px
+}
+LI.commend DL {
+	DISPLAY: block; OVERFLOW: hidden
+}
+LI.commend DT {
+	FLOAT: left; HEIGHT: 60px; OVERFLOW: hidden
+}
+LI.commend DD {
+	FLOAT: left; HEIGHT: 60px; OVERFLOW: hidden
+}
+LI.commend DT {
+	WIDTH: 80px
+}
+LI.commend DD {
+	PADDING-LEFT: 5px; WIDTH: 90px
+}
+LI.commend DD P {
+	COLOR: #999; PADDING-TOP: 5px
+}
+LI.commend UL {
+	ZOOM: 1; OVERFLOW: hidden; PADDING-TOP: 5px
+}
+LI.commend LI {
+	ZOOM: 1; MARGIN-LEFT: -10px; OVERFLOW: hidden
+}
+LI.commend LI A {
+	LINE-HEIGHT: 18px; MARGIN: 2px 0px 0px 10px; WIDTH: 85px; FLOAT: left; HEIGHT: 18px; COLOR: #666; OVERFLOW: hidden
+}
+#showWindow_recommend {
+	WIDTH: 800px
+}
+#showWindow_recommend TABLE {
+	WIDTH: 100%
+}
+#showWindow_recommend TH {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#showWindow_recommend TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+#showWindow_recommend THEAD TH {
+	BORDER-BOTTOM: #d6edf3 1px solid; BACKGROUND: #eff7f8; HEIGHT: 25px; COLOR: #666
+}
+#showWindow_recommend TFOOT TD {
+	BORDER-BOTTOM: #ededed 1px dotted; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+#addrecommend1 {
+	PADDING-LEFT: 5px; CURSOR: pointer
+}
+#addrecommend2 {
+	PADDING-LEFT: 5px; CURSOR: pointer
+}
+#addrecommend3 {
+	PADDING-LEFT: 5px; CURSOR: pointer
+}
+#showWindow_recommend TEXTAREA {
+	WIDTH: 150px; HEIGHT: 36px
+}
+#showWindow_recommend .showWindow_button {
+	PADDING-LEFT: 5px
+}
+.list-user {
+	BORDER-BOTTOM: #e8e8e8 1px solid; WIDTH: 800px; MARGIN-BOTTOM: -1px; BACKGROUND: #fff; OVERFLOW: hidden; _zoom: 1
+}
+.list-user DT {
+	BORDER-BOTTOM: #e8e8e8 1px solid; LINE-HEIGHT: 25px; MARGIN-BOTTOM: 20px; PADDING-TOP: 15px
+}
+.list-user DD {
+	PADDING-BOTTOM: 30px; LINE-HEIGHT: 18px; PADDING-LEFT: 10px; WIDTH: 72px; PADDING-RIGHT: 50px; FLOAT: left; HEIGHT: 104px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.list-user DD SPAN {
+	DISPLAY: block; OVERFLOW: hidden
+}
+.list-user DD A {
+	DISPLAY: block; OVERFLOW: hidden
+}
+.list-user DD IMG {
+	DISPLAY: block; OVERFLOW: hidden
+}
+.list-user SPAN {
+	HEIGHT: 36px
+}
+.list-user A {
+	HEIGHT: 68px
+}
+.list-user IMG {
+	WIDTH: 50px; HEIGHT: 50px
+}
+.picture-tab {
+	POSITION: relative; WIDTH: 770px; OVERFLOW: hidden
+}
+.picture-order {
+	BORDER-BOTTOM: #d8d8d8 1px solid; POSITION: absolute; BORDER-LEFT: #d8d8d8 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #fff; HEIGHT: 20px; BORDER-TOP: #d8d8d8 1px solid; TOP: 7px; RIGHT: 10px; BORDER-RIGHT: #d8d8d8 1px solid; PADDING-TOP: 0px
+}
+.picture-order DD {
+	WIDTH: 104px; TOP: 20px; LEFT: -1px
+}
+.list-picture {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 780px; PADDING-RIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 20px
+}
+.list-picture DL {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 132px; PADDING-RIGHT: 3px; FLOAT: left; HEIGHT: 75px; OVERFLOW: hidden; MARGIN-RIGHT: 60px; PADDING-TOP: 140px
+}
+.list-picture .list-pic-img {
+	Z-INDEX: 0; POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.list-pic-img P {
+	Z-INDEX: -1; BORDER-BOTTOM: #f6f6f6 1px solid; POSITION: absolute; BORDER-LEFT: #f6f6f6 1px solid; WIDTH: 130px; BACKGROUND: #fff; HEIGHT: 130px; BORDER-TOP: #f6f6f6 1px solid; TOP: 3px; BORDER-RIGHT: #f6f6f6 1px solid; LEFT: 3px
+}
+.list-pic-img A {
+	BORDER-BOTTOM: #f6f6f6 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #f6f6f6 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 120px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #fff; HEIGHT: 120px; FONT-SIZE: 105px; VERTICAL-ALIGN: middle; BORDER-TOP: #f6f6f6 1px solid; BORDER-RIGHT: #f6f6f6 1px solid; PADDING-TOP: 5px
+}
+.list-pic-img EM {
+	POSITION: absolute; WIDTH: 28px; DISPLAY: block; BACKGROUND: url(images/list_icon.png) no-repeat 0px -360px; HEIGHT: 0px; OVERFLOW: hidden; TOP: 0px; PADDING-TOP: 28px; LEFT: 0px
+}
+.list-picture DT {
+	TEXT-INDENT: 3px
+}
+.list-pic-det {
+	TEXT-INDENT: 3px
+}
+.list-pic-det {
+	COLOR: #999
+}
+.list-pic-toggle {
+	DISPLAY: none
+}
+.list-picture-hover .list-pic-img A {
+	BORDER-BOTTOM: #9ebf5e 6px solid; BORDER-LEFT: #9ebf5e 6px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #9ebf5e 6px solid; BORDER-RIGHT: #9ebf5e 6px solid; PADDING-TOP: 0px
+}
+.list-picture-hover .list-pic-toggle {
+	DISPLAY: block
+}
+.vt {
+	VERTICAL-ALIGN: top
+}
+.data-tab .list-tab-hd LI A {
+	BACKGROUND: url(images/list_bg.png) no-repeat
+}
+.data-tab .list-tab-hd LI {
+	BACKGROUND: url(images/list_bg.png) no-repeat
+}
+.data-tab .list-tab-hd LI {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND-POSITION: 0px -304px; MARGIN-RIGHT: 5px; PADDING-TOP: 0px
+}
+.data-tab .list-tab-hd LI A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 8px; PADDING-RIGHT: 18px; BACKGROUND-POSITION: right -333px; FLOAT: left; HEIGHT: 28px; PADDING-TOP: 0px
+}
+.data-tab .list-tab-hd .current {
+	BACKGROUND-POSITION: 0px -361px
+}
+.data-tab .list-tab-hd .current A {
+	BACKGROUND-POSITION: right -389px
+}
+.data-tab .list-tab-bd {
+	PADDING-BOTTOM: 11px; LINE-HEIGHT: 29px; BACKGROUND-COLOR: #f5f5f5; PADDING-LEFT: 11px; WIDTH: 742px; PADDING-RIGHT: 11px; PADDING-TOP: 11px
+}
+.data-tab .list-tab-bd P {
+	HEIGHT: 29px
+}
+.data-tab .list-tab-bd INPUT {
+	HEIGHT: 14px; COLOR: #999
+}
+.data-tab .list-tab-bd UL {
+	WIDTH: 748px; OVERFLOW: hidden
+}
+.data-tab .list-tab-bd LI {
+	LINE-HEIGHT: 29px; PADDING-RIGHT: 15px; ZOOM: 1; WHITE-SPACE: nowrap; FLOAT: left; HEIGHT: 29px
+}
+.data-tab .list-tab-bd LI .confirm-btn {
+	MIN-WIDTH: 36px
+}
+.view-btn {
+	MARGIN-LEFT: 10px
+}
+.view-btn DT {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; PADDING-TOP: 0px
+}
+.view-btn .select-bd {
+	WIDTH: 88px; TOP: 30px; RIGHT: 0px
+}
+.data-sort {
+	Z-INDEX: 1; BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 0px; BACKGROUND: url(images/list_bg.png) repeat-x 0px -86px; HEIGHT: 26px; PADDING-TOP: 9px
+}
+.data-sort .select-bd {
+	WIDTH: 95px
+}
+.list-data-str A {
+	POSITION: relative; FONT-SIZE: 14px
+}
+.data-str-hover {
+	Z-INDEX: 2
+}
+.list-data-str .data-str-hover IMG {
+	DISPLAY: block
+}
+.data-str-tit {
+	TEXT-INDENT: 9px
+}
+H5.active-list {
+	BORDER-BOTTOM: #ddd 2px solid; PADDING-BOTTOM: 10px; LINE-HEIGHT: 24px; MARGIN: 10px 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; HEIGHT: 24px; PADDING-TOP: 10px
+}
+H5.active-list SPAN {
+	MARGIN-LEFT: 5px; FONT-WEIGHT: 400
+}
+.act-list {
+	WIDTH: 770px; ZOOM: 1; OVERFLOW: hidden
+}
+.act-list LI {
+	MARGIN: 15px 50px 5px 0px; WIDTH: 330px; FLOAT: left; HEIGHT: 120px; OVERFLOW: hidden; _display: inline
+}
+.act-list LI .disc {
+	OVERFLOW: hidden; _zoom: 1
+}
+.act-list LI A {
+	WIDTH: 180px; FLOAT: left
+}
+.act-list LI SPAN {
+	WIDTH: 180px; FLOAT: left
+}
+.act-list LI .disc A {
+	WORD-WRAP: break-word; WORD-BREAK: break-all
+}
+.act-list LI A.act-img-link {
+	TEXT-ALIGN: center; WIDTH: 120px; HEIGHT: 90px; MARGIN-RIGHT: 5px
+}
+A.act-show-more {
+	PADDING-RIGHT: 80px
+}
+.list-sort-mod {
+	MARGIN: 15px 0px 25px
+}
+.list-sort-mod DD {
+	POSITION: relative; LINE-HEIGHT: 30px; HEIGHT: 30px
+}
+.list-sort-mod DD A {
+	PADDING-BOTTOM: 3px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 3px
+}
+SPAN.selected A.list-first:link {
+	BACKGROUND: #7e9712; COLOR: #fff
+}
+SPAN.selected A.list-first:visited {
+	BACKGROUND: #7e9712; COLOR: #fff
+}
+SPAN.selected A.list-first:hover {
+	BACKGROUND: #7e9712; COLOR: #fff
+}
+.list-second-link {
+	Z-INDEX: 5; POSITION: absolute; MIN-WIDTH: 20px; LINE-HEIGHT: 20px; DISPLAY: none; HEIGHT: 20px; MARGIN-LEFT: 80px; TOP: 35px; LEFT: 0px
+}
+.list-second-link A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; BACKGROUND: #eee; FLOAT: left; HEIGHT: 20px; PADDING-TOP: 0px
+}
+.list-second-link DIV {
+	Z-INDEX: 5; POSITION: absolute; WIDTH: 8px; BACKGROUND: url(images/list_icon.png) no-repeat 0px -791px; HEIGHT: 6px; OVERFLOW: hidden; TOP: -6px; LEFT: 180px
+}
+SPAN.selected .list-second-link {
+	DISPLAY: block
+}
+.first-step DIV {
+	LEFT: 95px
+}
+.ad-mod {
+	BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-LEFT: #f3f3f3 1px solid; PADDING-BOTTOM: 8px; LINE-HEIGHT: 20px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; BACKGROUND: url(images/list_bg_ad.png) no-repeat right 0px; OVERFLOW: hidden; BORDER-TOP: #d9e9bb 1px solid; BORDER-RIGHT: #f3f3f3 1px solid; PADDING-TOP: 8px; _zoom: 1
+}
+.ad-mod DT {
+	HEIGHT: 20px; COLOR: #334f67; OVERFLOW: hidden; FONT-WEIGHT: 700
+}
+.ad-mod .vertical {
+	PADDING-BOTTOM: 5px; LINE-HEIGHT: 16px; MARGIN-TOP: 15px; PADDING-LEFT: 6px; WIDTH: 20px; PADDING-RIGHT: 13px; BACKGROUND: url(images/list_bg.png) no-repeat -262px -822px; FLOAT: left; HEIGHT: 96px; FONT-SIZE: 14px; PADDING-TOP: 5px
+}
+.ad-mod .vertical TD {
+	TEXT-ALIGN: center; WORD-WRAP: break-word; HEIGHT: 96px; VERTICAL-ALIGN: middle; FONT-WEIGHT: 700
+}
+.ad-mod .vertical P {
+	WIDTH: 14px; HEIGHT: 96px; OVERFLOW: hidden
+}
+.ad-mod .pic {
+	BORDER-BOTTOM: #e8e8e8 1px solid; POSITION: relative; BORDER-LEFT: #e8e8e8 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; WIDTH: 90px; PADDING-RIGHT: 5px; DISPLAY: block; HEIGHT: 120px; OVERFLOW: hidden; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid; PADDING-TOP: 5px
+}
+.ad-mod .pic IMG {
+	POSITION: absolute; WIDTH: 90px; HEIGHT: 120px
+}
+.ad-mod .pic EM {
+	Z-INDEX: 3; POSITION: absolute; TEXT-ALIGN: center; FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#A5666666',endColorstr='#A5666666'); WIDTH: 90px; BOTTOM: 5px; DISPLAY: block; HEIGHT: 20px; COLOR: #fff; OVERFLOW: hidden; TEXT-DECORATION: none; LEFT: 5px
+}
+.ad-mod .pic P {
+	Z-INDEX: 2; POSITION: absolute; FILTER: alpha(opacity=0); WIDTH: 100px; BACKGROUND: red; HEIGHT: 130px; TOP: 0px; LEFT: 0px; opacity: 0
+}
+.ad-mod .pic:hover EM {
+	COLOR: #fff; TEXT-DECORATION: underline
+}
+.ad-mod .pic-forum {
+	PADDING-RIGHT: 10px; FLOAT: left; OVERFLOW: hidden
+}
+.ad-mod .pic-forum DD {
+	FLOAT: left; MARGIN-LEFT: 10px
+}
+.ad-mod .adlist-forum {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 250px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.adlist-forum DT.vertical {
+	MARGIN-TOP: 3px
+}
+.adlist-forum DD {
+	LINE-HEIGHT: 22px; PADDING-LEFT: 10px; WIDTH: 190px; BACKGROUND: url(images/list_bg_ad.png) no-repeat -804px 10px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden
+}
+.ad-mod .pic-txt-forum {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 120px; WIDTH: 120px; PADDING-RIGHT: 8px; FLOAT: left; HEIGHT: 132px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.ad-mod .pic-txt-forum DT {
+	MARGIN-BOTTOM: 10px
+}
+.pic-txt-forum .pic {
+	POSITION: absolute; TOP: 0px; LEFT: 10px
+}
+.about-contact {
+	WIDTH: 360px
+}
+.ad-mod .about {
+	WIDTH: 150px; HEIGHT: 106px; OVERFLOW: hidden
+}
+.ad-mod .recommend {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 200px; PADDING-RIGHT: 0px; FLOAT: right; PADDING-TOP: 0px
+}
+.ad-mod .about DT {
+	MARGIN-BOTTOM: 6px
+}
+.ad-mod .recommend DT {
+	MARGIN-BOTTOM: 6px
+}
+.ad-mod .contact {
+	CLEAR: both
+}
+.contact A {
+	DISPLAY: inline-block; MARGIN-RIGHT: 10px
+}
+.contact .web {
+	PADDING-LEFT: 20px; BACKGROUND: url(images/list_icon.png) no-repeat 0px -577px
+}
+.side-ad-img {
+	BORDER-BOTTOM: #fff 10px solid; POSITION: relative; MARGIN: 0px; WIDTH: 200px; HEIGHT: 180px; OVERFLOW: hidden
+}
+.side-ad {
+	MARGIN: 10px 5px 0px; WIDTH: 190px; BORDER-TOP: #949494 1px dotted
+}
+.side-ad .img-ad LI {
+	POSITION: relative; MARGIN-TOP: 10px; WIDTH: 190px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.side-ad .txt-ad {
+	PADDING-TOP: 5px
+}
+.side-ad .txt-ad LI {
+	LINE-HEIGHT: 25px; PADDING-LEFT: 15px; BACKGROUND: url(images/list_bg.png) no-repeat -291px -488px; HEIGHT: 25px; OVERFLOW: hidden
+}
+#qjd-into {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px; OUTLINE-STYLE: none; DISPLAY: block; BACKGROUND: #f4f4f4
+}
+.side-brand-txt LI {
+	POSITION: relative; PADDING-LEFT: 60px; HEIGHT: 62px; OVERFLOW: hidden
+}
+.side-brand-txt LI IMG {
+	BORDER-BOTTOM: #ccc 1px solid; POSITION: absolute; BORDER-LEFT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; BORDER-RIGHT: #ccc 1px solid; LEFT: 0px
+}
+.side-brand-txt LI SPAN {
+	DISPLAY: block; PADDING-TOP: 8px
+}
+.side-brand UL {
+	PADDING-BOTTOM: 10px; WIDTH: 202px; OVERFLOW: hidden
+}
+.side-brand LI {
+	POSITION: relative; MARGIN: 0px 15px 10px 0px; WIDTH: 52px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden; PADDING-TOP: 55px
+}
+.side-brand LI IMG {
+	BORDER-BOTTOM: #ccc 1px solid; POSITION: absolute; BORDER-LEFT: #ccc 1px solid; BORDER-TOP: #ccc 1px solid; TOP: 0px; BORDER-RIGHT: #ccc 1px solid
+}
+.side-brand LI SPAN {
+	DISPLAY: block
+}
+.side-brand P {
+	PADDING-BOTTOM: 5px; BACKGROUND: url(images/list_bg.png) repeat-x 0px -470px
+}
+.side-brand-txt P {
+	PADDING-BOTTOM: 5px; BACKGROUND: url(images/list_bg.png) repeat-x 0px -470px
+}
+.side-brand P SPAN {
+	PADDING-RIGHT: 5px; BACKGROUND: #f7f7f7
+}
+.side-brand-txt P SPAN {
+	PADDING-RIGHT: 5px; BACKGROUND: #f7f7f7
+}
+.side-brand P A {
+	PADDING-LEFT: 5px; BACKGROUND: #f7f7f7
+}
+.side-brand-txt P A {
+	PADDING-LEFT: 5px; BACKGROUND: #f7f7f7
+}
+#wide-list-wrap {
+	MARGIN-TOP: -10px; BACKGROUND: none transparent scroll repeat 0% 0%; OVERFLOW: hidden
+}
+#wide-list-wrap #main-wrap {
+	PADDING-LEFT: 0px; WIDTH: 980px; MARGIN-LEFT: 0px
+}
+#wide-list-wrap TABLE.list-data {
+	BORDER-TOP: #dedede 1px solid
+}
+#wide-list-wrap THEAD TR {
+	BACKGROUND: url(images/list_bg.png) repeat-x 0px -95px
+}
+#wide-list-wrap .list-class {
+	LINE-HEIGHT: 18px; MARGIN: 10px 0px 5px; WIDTH: 150px; FLOAT: left; HEIGHT: 21px
+}
+#wide-list-wrap .list-class STRONG {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: block; FLOAT: left; HEIGHT: 18px; PADDING-TOP: 0px
+}
+#wide-list-wrap .list-class A {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 18px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: block; FLOAT: left; HEIGHT: 18px; PADDING-TOP: 0px
+}
+#wide-list-wrap .list-class STRONG {
+	POSITION: relative; BACKGROUND: #839b1b; COLOR: #fff; FONT-WEIGHT: 400
+}
+#wide-list-wrap .list-class STRONG B {
+	POSITION: absolute; WIDTH: 5px; BOTTOM: -3px; DISPLAY: block; BACKGROUND: url(images/list_icon.png) no-repeat left -396px; HEIGHT: 3px; OVERFLOW: hidden; LEFT: 25px
+}
+.ad-980x90 {
+	MARGIN: 10px auto 0px
+}
+.list-tab .list-tab-hd .list-tab-new {
+	Z-INDEX: 2; POSITION: relative
+}
+.list-tab .list-tab-new .list-tab-new-icon {
+	POSITION: absolute; TEXT-INDENT: -999px; WIDTH: 47px; HEIGHT: 21px; OVERFLOW: hidden; TOP: -15px; RIGHT: -29px
+}
+.pic-post-list {
+	PADDING-BOTTOM: 15px; WIDTH: 800px; OVERFLOW: hidden; _zoom: 1
+}
+.pic-post-list LI {
+	MARGIN: 15px 35px 0px 0px; WIDTH: 231px; FLOAT: left
+}
+.pic-post-list .pic-preview {
+	POSITION: relative; PADDING-BOTTOM: 0px; OUTLINE-STYLE: none; PADDING-LEFT: 16px; WIDTH: 215px; PADDING-RIGHT: 0px; DISPLAY: block; BACKGROUND: url(images/list_bg.png) no-repeat 0px -820px; HEIGHT: 215px; PADDING-TOP: 16px
+}
+.pic-post-list .pic-preview:hover {
+	BACKGROUND-POSITION: 1px -1051px; TEXT-DECORATION: none
+}
+.pic-post-list .pic-preview .pic-num {
+	POSITION: absolute; TEXT-ALIGN: center; FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#80000000',endColorstr='#80000000'); LINE-HEIGHT: 25px; WIDTH: 48px; BOTTOM: 20px; HEIGHT: 25px; COLOR: #fff; RIGHT: 20px; border-radius: 6px
+}
+.pic-post-list .pic-outstanding-icon {
+	POSITION: absolute; WIDTH: 50px; BACKGROUND: url(images/list_pic_best_icon.png) no-repeat 0px 0px; HEIGHT: 50px; TOP: 10px; LEFT: 10px; _background: none
+}
+.pic-post-list .pic-num .num {
+	FONT: 20px arial; MARGIN-RIGHT: 3px
+}
+.pic-post-list .post-desc {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; HEIGHT: 73px; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.pic-post-list .post-desc P {
+	MARGIN-TOP: 5px
+}
+.pic-post-list .post-title {
+	LINE-HEIGHT: 22px; DISPLAY: block; HEIGHT: 22px; FONT-SIZE: 14px; OVERFLOW: hidden; FONT-WEIGHT: 700
+}
+.pic-post-list .post-author .author-icon {
+	WIDTH: 10px; DISPLAY: inline-block; BACKGROUND: url(images/list_icon.png) no-repeat 0px -543px; HEIGHT: 12px; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 5px
+}
+.pic-icon {
+	DISPLAY: inline-block; BACKGROUND: url(images/list_icon.png) no-repeat; VERTICAL-ALIGN: 2px; OVERFLOW: hidden
+}
+.pic-scan .pic-scan-num {
+	FONT-FAMILY: arial
+}
+.pic-icon-scan {
+	WIDTH: 13px; BACKGROUND-POSITION: 0px -651px; HEIGHT: 14px
+}
+.pic-icon-src {
+	WIDTH: 18px; BACKGROUND-POSITION: 0px -687px; HEIGHT: 13px
+}
+.pic-scan {
+	MARGIN-RIGHT: 20px
+}
+.pic-order {
+	BORDER-BOTTOM: #eee 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 10px
+}
+.pic-order-label {
+	MARGIN-RIGHT: 10px
+}
+.pic-icon-order {
+	WIDTH: 15px; BACKGROUND-POSITION: 0px -722px; HEIGHT: 15px; MARGIN-RIGHT: 5px
+}
+.pic-icon-order-outstanding {
+	WIDTH: 18px; BACKGROUND-POSITION: 0px -759px; HEIGHT: 18px; MARGIN-RIGHT: 5px
+}
+.unjoin-tip {
+	BORDER-BOTTOM: #eedfaf 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #eedfaf 1px solid; PADDING-BOTTOM: 12px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fffce9; COLOR: #334f67; BORDER-TOP: #eedfaf 1px solid; BORDER-RIGHT: #eedfaf 1px solid; PADDING-TOP: 12px
+}
+.joined-board {
+	PADDING-LEFT: 15px; WIDTH: 71px; DISPLAY: inline-block; FONT: 700 12px/25px "SimSun"; BACKGROUND: url(images/list_bg.png) no-repeat -214px -499px; HEIGHT: 25px; COLOR: #999; OVERFLOW: hidden; _display: block
+}
+.extend-helper {
+	MARGIN-BOTTOM: 7px; PADDING-TOP: 0px
+}
+.extend-helper TABLE {
+	PADDING-BOTTOM: 5px; WIDTH: 100%
+}
+.extend-helper THEAD {
+	BORDER-BOTTOM: #e7e7e7 1px solid; LINE-HEIGHT: 24px; HEIGHT: 24px
+}
+.extend-helper TH {
+	PADDING-LEFT: 10px
+}
+.extend-helper TD {
+	PADDING-BOTTOM: 4px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 4px
+}
+TD.ext-up {
+	PADDING-LEFT: 20px; BACKGROUND: url(images/list_bg.png) no-repeat -287px -248px
+}
+TD.ext-down {
+	PADDING-LEFT: 20px; BACKGROUND: url(images/list_bg.png) no-repeat -287px -274px
+}
+.pinpai-list LI {
+	WIDTH: 360px; HEIGHT: 100px; MARGIN-RIGHT: 20px
+}
+.act-list LI .pp-hd {
+	LINE-HEIGHT: 16px; WIDTH: 230px; MARGIN-BOTTOM: 5px; HEIGHT: 16px; OVERFLOW: hidden
+}
+.act-list LI .pinpai-a {
+	FLOAT: none
+}
+.pinpai-bg {
+	BORDER-BOTTOM: #dedede 1px solid; PADDING-BOTTOM: 10px; MARGIN: 10px 0px; PADDING-LEFT: 10px
+}
+#lay-over {
+	Z-INDEX: 9999; POSITION: fixed; DISPLAY: none; TOP: 0px; _position: absolute; _left: 0; _width: auto
+}
+#nav .crumbs {
+	WIDTH: 12px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(images/list_icon.png) no-repeat 0px -1008px; HEIGHT: 0px; VERTICAL-ALIGN: middle; PADDING-TOP: 14px; _background-position: 0 -998px
+}
+.list-label {
+	BORDER-BOTTOM: #f4f4f4 5px solid; BORDER-LEFT: #f4f4f4 5px solid; WIDTH: 760px; DISPLAY: block; HEIGHT: 242px; OVERFLOW: hidden; BORDER-TOP: #f4f4f4 5px solid; BORDER-RIGHT: #f4f4f4 5px solid
+}
+.list-label-inside {
+	BORDER-BOTTOM: #dedede 1px solid; BORDER-LEFT: #dedede 1px solid; WIDTH: 758px; ZOOM: 1; HEIGHT: 240px; OVERFLOW: hidden; BORDER-TOP: #dedede 1px solid; BORDER-RIGHT: #dedede 1px solid
+}
+.list-label-inside H2 {
+	MARGIN: 4px 0px 0px 20px; FONT: 600 20px/1.5 microsoft yahei; COLOR: #333
+}
+.list-label-hd {
+	MARGIN-TOP: 5px; WIDTH: 760px; BACKGROUND: url(images/dot.png) repeat-x; HEIGHT: 10px
+}
+.list-label-bd {
+	OVERFLOW-X: hidden; OVERFLOW-Y: auto; ZOOM: 1; HEIGHT: 177px; _height: 171px
+}
+.list-label-content {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 15px; WIDTH: 680px; PADDING-RIGHT: 15px; PADDING-TOP: 2px
+}
+.list-label-content H3 {
+	PADDING-LEFT: 5px; FONT: 700 14px/1.5 Simsun,Arial
+}
+.list-label-content SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; ZOOM: 1; DISPLAY: inline-block; COLOR: #666; PADDING-TOP: 0px; _display: inline
+}
+.list-label-content A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; ZOOM: 1; DISPLAY: inline-block; COLOR: #666; PADDING-TOP: 0px; _display: inline
+}
+.list-label-content A:visited {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; ZOOM: 1; DISPLAY: inline-block; COLOR: #666; PADDING-TOP: 0px; _display: inline
+}
+.list-label-content A:hover {
+	BACKGROUND: #7b9712; COLOR: #fff; TEXT-DECORATION: none
+}
+.intro-detail-mod {
+	BORDER-BOTTOM: #f2f2f2 5px solid; POSITION: relative; BORDER-LEFT: #f2f2f2 5px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; FONT: 400 12px SimSun; MARGIN-BOTTOM: 32px; BORDER-TOP: #f2f2f2 5px solid; BORDER-RIGHT: #f2f2f2 5px solid; PADDING-TOP: 10px
+}
+.intro-bd-white {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+.intro-bd-white .intro-detail-ft {
+	DISPLAY: none
+}
+.intro-detail-hd {
+	ZOOM: 1; MARGIN-BOTTOM: 10px; OVERFLOW: hidden
+}
+.intro-detail-hd H1 {
+	FONT: 400 20px 'MicroSoft Yahei'; COLOR: #333; MARGIN-RIGHT: 10px
+}
+.intro-detail-hd H2 {
+	FONT: 400 20px 'MicroSoft Yahei'; COLOR: #333; MARGIN-RIGHT: 10px
+}
+.intro-detail-hd H2 SPAN {
+	FLOAT: left; COLOR: #333
+}
+.intro-detail-hd .wb {
+	FLOAT: left; PADDING-TOP: 7px
+}
+.intro-detail-hd SPAN {
+	DISPLAY: block; COLOR: #999; PADDING-TOP: 5px
+}
+.intro-detail-hd B {
+	COLOR: #fc6d02
+}
+.intro-detail-bd {
+	HEIGHT: 66px; COLOR: #666; OVERFLOW: hidden
+}
+.intro-detail-bd P {
+	LINE-HEIGHT: 22px; CLEAR: both
+}
+.intro-detail-ft {
+	TEXT-ALIGN: center; MARGIN-TOP: 15px; WIDTH: 100%; FLOAT: left
+}
+.intro-unfold-btn {
+	BORDER-BOTTOM: #dedede 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #dedede 1px solid; PADDING-BOTTOM: 1px; WIDTH: 70px; DISPLAY: inline-block; BACKGROUND: #f2f2f2; HEIGHT: 15px; COLOR: #999; BORDER-TOP: #dedede 1px; CURSOR: pointer; BORDER-RIGHT: #dedede 1px solid
+}
+.up-arrow {
+	WIDTH: 7px; DISPLAY: inline-block; BACKGROUND: url(images/up-down.png) no-repeat; HEIGHT: 4px; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 3px; _margin-top: 5px
+}
+.down-arrow {
+	WIDTH: 7px; DISPLAY: inline-block; BACKGROUND: url(images/up-down.png) no-repeat; HEIGHT: 4px; VERTICAL-ALIGN: middle; MARGIN-RIGHT: 3px; _margin-top: 5px
+}
+.down-arrow {
+	BACKGROUND-POSITION: 0px -16px
+}
+.tag-lib #main-wrap {
+	FLOAT: left
+}
+.tag-lib #side-wrap {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; BORDER-TOP-STYLE: none; BACKGROUND: #fff; FLOAT: right; BORDER-LEFT-STYLE: none
+}
+.search-tag-mod {
+	PADDING-BOTTOM: 0px; MARGIN-TOP: 10px; PADDING-LEFT: 10px; WIDTH: 750px; PADDING-RIGHT: 10px; FLOAT: left; PADDING-TOP: 0px
+}
+.search-tag-hd {
+	LINE-HEIGHT: 28px; COLOR: #666; MARGIN-LEFT: 5px; FONT-SIZE: 14px; FONT-WEIGHT: 700
+}
+.search-tag-hd STRONG {
+	COLOR: #fc1919
+}
+.search-list LI {
+	BORDER-BOTTOM: #999 1px dotted; PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; ZOOM: 1; OVERFLOW: hidden; PADDING-TOP: 15px
+}
+.search-list STRONG {
+	COLOR: #fc6d02
+}
+.search-list cont {
+	ZOOM: 1; OVERFLOW: hidden
+}
+.search-list H3 {
+	MARGIN-BOTTOM: 5px; FONT-WEIGHT: 400
+}
+.search-list H3 A {
+	FONT-SIZE: 16px
+}
+.search-list .follow {
+	MARGIN-LEFT: 15px; FONT-SIZE: 12px
+}
+.search-list .postdate {
+	COLOR: #999; MARGIN-LEFT: 25px
+}
+.search-tag-mod .author {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.search-tag-mod .author A {
+	OUTLINE-STYLE: none
+}
+.search-tag-mod .author STRONG {
+	TEXT-ALIGN: center; MARGIN-TOP: 5px; WIDTH: 80px; DISPLAY: block; COLOR: #333; OVERFLOW: hidden
+}
+.search-tag-mod .author A:hover STRONG {
+	TEXT-DECORATION: underline
+}
+.search-tag-mod .cont {
+	ZOOM: 1; OVERFLOW: hidden
+}
+.search-tag-mod .section {
+	LINE-HEIGHT: 20px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.search-tag-mod .search-tag {
+	PADDING-LEFT: 20px; BACKGROUND: url(images/list_icon.png) no-repeat 0px -216px
+}
+.search-tag-mod .search-tag A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 0px
+}
+.search-tag-mod .search-img {
+	MARGIN: 10px 0px
+}
+.search-tag-mod .search-img A {
+	DISPLAY: inline-block; MARGIN-RIGHT: 10px
+}
+.search-tag-mod .search-img IMG {
+	BORDER-BOTTOM: #d9d9d9 1px solid; BORDER-LEFT: #d9d9d9 1px solid; BORDER-TOP: #d9d9d9 1px solid; BORDER-RIGHT: #d9d9d9 1px solid
+}
+.tag-share-mod {
+	BORDER-BOTTOM: #999 1px dotted; PADDING-BOTTOM: 10px; MARGIN-TOP: 10px; PADDING-LEFT: 0px; WIDTH: 770px; PADDING-RIGHT: 0px; FLOAT: left; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.tag-share-hd {
+	FONT: 400 16px/16px Simsun; MARGIN-BOTTOM: 10px; COLOR: #0657b2
+}
+.tag-share-hd STRONG {
+	PADDING-RIGHT: 10px; COLOR: #fc6d02
+}
+.tag-share-mod IMG {
+	MARGIN: 0px 6px; DISPLAY: block; FLOAT: left; _display: inline
+}
+.tag-lib-side {
+	BORDER-BOTTOM: #ececec 1px solid; BORDER-LEFT: #ececec 1px solid; BACKGROUND: #fff; BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid
+}
+.tls-list {
+	BACKGROUND-COLOR: #f4f4f4
+}
+.list-num LI {
+	COLOR: #999
+}
+.list-recommend A I {
+	COLOR: #0657b2; FONT-WEIGHT: 700
+}
+.list-side-favorite {
+	BORDER-BOTTOM: #ececec 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #ececec 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; MARGIN-BOTTOM: 10px; BACKGROUND: #fff; OVERFLOW: hidden; BORDER-TOP: #ececec 1px solid; BORDER-RIGHT: #ececec 1px solid; PADDING-TOP: 10px
+}
+.list-side-favorite A {
+	DISPLAY: block
+}
+.list-side-favorite .quickpost-mod {
+	MARGIN-TOP: 5px; PADDING-LEFT: 3px
+}
+.list-side-favorite .quickpost-mod SPAN {
+	FONT-SIZE: 22px
+}
+.list-side-favorite .quickpost-mod A {
+	PADDING-LEFT: 30px
+}
+.list-side-favorite .quickpost-mod IMG {
+	MARGIN-RIGHT: 10px
+}
+.list-side-favorite .quickpost-mod EM {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 15px; LETTER-SPACING: 20px; PADDING-TOP: 18px
+}
+.list-side-favorite .favorite-user {
+	POSITION: relative; LINE-HEIGHT: 16px; MARGIN: 0px auto; WIDTH: 122px; DISPLAY: block; HEIGHT: 16px; FONT-SIZE: 14px; FONT-WEIGHT: 400
+}
+.list-side-favorite .favorite-user EM {
+	COLOR: #fc6d02; FONT-WEIGHT: 700
+}
+.list-side-favorite .favorite-user I {
+	POSITION: absolute; WIDTH: 5px; DISPLAY: block; BACKGROUND: url(images/list_icon.png) no-repeat 0px -1036px; HEIGHT: 10px
+}
+.list-side-favorite .favorite-user I.left-icon {
+	TOP: -1px; LEFT: -28px
+}
+.list-side-favorite .favorite-user I.right-icon {
+	BOTTOM: -8px; BACKGROUND-POSITION: -16px -1036px; RIGHT: -28px
+}
+.list-side-favorite .favorite-pic {
+	BACKGROUND: url(images/list_bg.png) no-repeat 10px -1295px; HEIGHT: 35px
+}
+.list-side .hd-num {
+	COLOR: #f95959
+}
+.list-side .ht-num {
+	COLOR: #fc6d02
+}
+.tls-ht LI {
+	POSITION: relative
+}
+.tls-ht .ht-rss {
+	POSITION: absolute; TEXT-INDENT: -999em; WIDTH: 50px; BOTTOM: 0px; DISPLAY: none; BACKGROUND: url(images/list_icon.png) no-repeat 0px -1066px; HEIGHT: 17px; CURSOR: pointer; LEFT: 66px
+}

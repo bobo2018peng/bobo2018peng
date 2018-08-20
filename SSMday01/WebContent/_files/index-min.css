@@ -1,0 +1,2652 @@
+article {
+	DISPLAY: block
+}
+aside {
+	DISPLAY: block
+}
+details {
+	DISPLAY: block
+}
+figcaption {
+	DISPLAY: block
+}
+figure {
+	DISPLAY: block
+}
+footer {
+	DISPLAY: block
+}
+header {
+	DISPLAY: block
+}
+hgroup {
+	DISPLAY: block
+}
+nav {
+	DISPLAY: block
+}
+section {
+	DISPLAY: block
+}
+audio {
+	ZOOM: 1; DISPLAY: inline
+}
+canvas {
+	ZOOM: 1; DISPLAY: inline
+}
+video {
+	ZOOM: 1; DISPLAY: inline
+}
+UNKNOWN {
+	DISPLAY: none
+}
+[hidden] {
+	DISPLAY: none
+}
+HTML {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+DD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LI {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H1 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H2 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H3 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H4 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H5 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+H6 {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FORM {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+FIELDSET {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LEGEND {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+INPUT {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+LABEL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TEXTAREA {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+P {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BLOCKQUOTE {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TH {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+TD {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+BODY {
+	BACKGROUND-COLOR: #fff
+}
+BODY {
+	FONT: 400 12px/1.5 Simsun,Arial; COLOR: #333
+}
+TEXTAREA {
+	FONT: 400 12px/1.5 Simsun,Arial; COLOR: #333
+}
+A {
+	COLOR: #333; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:visited {
+	COLOR: #333; CURSOR: pointer; TEXT-DECORATION: none
+}
+A:hover {
+	COLOR: #0657b2; TEXT-DECORATION: underline
+}
+EM {
+	FONT-STYLE: normal
+}
+I {
+	FONT-STYLE: normal
+}
+H1 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H2 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H3 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H4 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H5 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+H6 {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+STRONG {
+	FONT-SIZE: 100%; FONT-WEIGHT: 700
+}
+LABEL {
+	VERTICAL-ALIGN: middle
+}
+INPUT {
+	VERTICAL-ALIGN: middle
+}
+SELECT {
+	VERTICAL-ALIGN: middle
+}
+IMG {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; VERTICAL-ALIGN: middle; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+BUTTON {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; VERTICAL-ALIGN: middle; BORDER-TOP: 0px; BORDER-RIGHT: 0px
+}
+OL {
+	LIST-STYLE-TYPE: none
+}
+UL {
+	LIST-STYLE-TYPE: none
+}
+TABLE {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+TH {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+TD {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+FIELDSET {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+LEGEND {
+	BORDER-BOTTOM: 0px; BORDER-LEFT: 0px; BORDER-COLLAPSE: collapse; BORDER-TOP: 0px; FONT-WEIGHT: 400; BORDER-RIGHT: 0px
+}
+PRE {
+	WHITE-SPACE: pre-wrap
+}
+.layout {
+	MARGIN: 0px auto; WIDTH: 980px
+}
+.iblock {
+	ZOOM: 1; DISPLAY: inline; VERTICAL-ALIGN: middle
+}
+.clearall {
+	ZOOM: 1
+}
+.clearall:after {
+	DISPLAY: block; HEIGHT: 0px; VISIBILITY: hidden; CLEAR: both; CONTENT: "."
+}
+.pipe {
+	PADDING-BOTTOM: 0px; FONT-STYLE: normal; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; COLOR: #d5d5d5; PADDING-TOP: 0px
+}
+.vm {
+	VERTICAL-ALIGN: middle
+}
+.fl {
+	FLOAT: left
+}
+.fr {
+	FLOAT: right
+}
+.tl {
+	TEXT-ALIGN: left
+}
+.tr {
+	TEXT-ALIGN: right
+}
+.tc {
+	TEXT-ALIGN: center
+}
+.mt10 {
+	MARGIN-TOP: 10px !important
+}
+.mb10 {
+	MARGIN-BOTTOM: 10px
+}
+.close {
+	Z-INDEX: 9; POSITION: absolute; WIDTH: 15px; BACKGROUND: url(../../../forum/default/images/icon_common.png) no-repeat 4px 4px; HEIGHT: 0px; OVERFLOW: hidden; TOP: 4px; CURSOR: pointer; RIGHT: 10px; PADDING-TOP: 15px
+}
+.close:hover {
+	BACKGROUND-POSITION: 4px -32px
+}
+.fix-ie6 {
+	Z-INDEX: -1; BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; WIDTH: 999px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 999px; BORDER-TOP: 0px; TOP: 0px; BORDER-RIGHT: 0px; LEFT: 0px; _filter: Alpha(opacity=0)
+}
+.color1 {
+	COLOR: #334f67
+}
+.color2 {
+	COLOR: #8ca226
+}
+.color3 {
+	COLOR: #fc6d02
+}
+.color6 {
+	COLOR: #666
+}
+.color9 {
+	COLOR: #999
+}
+.placeholder {
+	COLOR: #999 !important
+}
+:unknown {
+	COLOR: #999 !important
+}
+:unknown {
+	COLOR: #999 !important
+}
+.yahei {
+	FONT: 700 16px/1.5 "Microsoft YaHei"
+}
+.arial {
+	FONT-FAMILY: Arial
+}
+.f12 {
+	FONT-SIZE: 12px
+}
+.f14 {
+	FONT-SIZE: 14px
+}
+.f16 {
+	FONT-SIZE: 16px
+}
+.fb {
+	FONT-WEIGHT: 700
+}
+.link0 A {
+	COLOR: #0657b2
+}
+.link0 A:visited {
+	COLOR: #0657b2
+}
+.link0 A:hover {
+	COLOR: #fc6d02
+}
+.link1 A {
+	COLOR: #334f67
+}
+.link1 A:visited {
+	COLOR: #334f67
+}
+.link1 A:hover {
+	COLOR: #334f67
+}
+.link2 A {
+	COLOR: #8ca226
+}
+.link2 A:visited {
+	COLOR: #8ca226
+}
+.link2 A:hover {
+	COLOR: #8ca226
+}
+.link3 A {
+	COLOR: #fc6d02
+}
+.link3 A:visited {
+	COLOR: #fc6d02
+}
+.link3 A:hover {
+	COLOR: #0657b2
+}
+.link6 A {
+	COLOR: #666
+}
+.link6 A:visited {
+	COLOR: #666
+}
+.link6 A:hover {
+	COLOR: #0657b2
+}
+.link9 A {
+	COLOR: #999
+}
+.link9 A:visited {
+	COLOR: #999
+}
+.link9 A:hover {
+	COLOR: #0657b2
+}
+.txt {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #333; FONT-SIZE: 12px; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px; border-radius: 3px
+}
+.txtarea {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 14px; OUTLINE-STYLE: none; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: #333; FONT-SIZE: 12px; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; PADDING-TOP: 3px; border-radius: 3px
+}
+.txt {
+	HEIGHT: 14px
+}
+.txt-large {
+	FONT-SIZE: 14px
+}
+.txt-middle {
+	FONT-SIZE: 14px
+}
+.txt-large {
+	LINE-HEIGHT: 22px; HEIGHT: 22px
+}
+.txt-middle {
+	LINE-HEIGHT: 18px; HEIGHT: 18px
+}
+.txt:hover {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.txt:focus {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.txtarea:hover {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.txtarea:focus {
+	BORDER-BOTTOM-COLOR: #7dbde2; BORDER-TOP-COLOR: #7dbde2; BORDER-RIGHT-COLOR: #7dbde2; BORDER-LEFT-COLOR: #7dbde2; box-shadow: 0 0 5px #7DBDE2
+}
+.error {
+	BORDER-BOTTOM-COLOR: #ffabab; BORDER-TOP-COLOR: #ffabab; BORDER-RIGHT-COLOR: #ffabab; BORDER-LEFT-COLOR: #ffabab; box-shadow: 0 0 5px #FFABAB
+}
+.error:hover {
+	BORDER-BOTTOM-COLOR: #ffabab; BORDER-TOP-COLOR: #ffabab; BORDER-RIGHT-COLOR: #ffabab; BORDER-LEFT-COLOR: #ffabab; box-shadow: 0 0 5px #FFABAB
+}
+.error:focus {
+	BORDER-BOTTOM-COLOR: #ffabab; BORDER-TOP-COLOR: #ffabab; BORDER-RIGHT-COLOR: #ffabab; BORDER-LEFT-COLOR: #ffabab; box-shadow: 0 0 5px #FFABAB
+}
+.checkbox {
+	WIDTH: 13px; HEIGHT: 13px
+}
+.radio {
+	WIDTH: 13px; HEIGHT: 13px
+}
+#announce {
+	BORDER-BOTTOM: #e7cb5a 1px solid; POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 30px; BACKGROUND: #fff2a7; HEIGHT: 29px; COLOR: #ff4800; FONT-WEIGHT: 700
+}
+.ad-close {
+	Z-INDEX: 1; OUTLINE-STYLE: none; WIDTH: 43px; BACKGROUND: url(../../../forum/default/images/img_ad/float_ad_closed.gif) no-repeat 0px 0px; HEIGHT: 15px
+}
+.ad-embed-mask {
+	POSITION: absolute; FILTER: alpha(opacity=0); BACKGROUND-COLOR: #fff; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px; opacity: 0
+}
+.ad-adjust-width {
+	DISPLAY: none
+}
+.head-ad {
+	LINE-HEIGHT: 0; MARGIN: 0px auto; WIDTH: 980px; ZOOM: 1
+}
+.float-ad-wrap .float-ad {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 100px; HEIGHT: 315px; OVERFLOW: hidden; TOP: 0px; _position: absolute
+}
+.float-ad-wrap .float-ad-left {
+	LEFT: 0px
+}
+.float-ad-wrap .float-ad-right {
+	RIGHT: 0px
+}
+.float-ad-wrap .float-ad-bottom {
+	BOTTOM: 0px; HEIGHT: 300px; TOP: auto; PADDING-TOP: 15px
+}
+.float-ad .float-ad-close {
+	POSITION: absolute; BOTTOM: 0px
+}
+.float-ad-bottom .float-ad-close {
+	BOTTOM: auto; TOP: 0px
+}
+.float-ad-left .float-ad-close {
+	LEFT: 0px
+}
+.float-ad-right .float-ad-close {
+	RIGHT: 0px
+}
+.float-ad .ad-embed-mask {
+	WIDTH: 100px; HEIGHT: 300px
+}
+.pop-ad {
+	Z-INDEX: 999; POSITION: fixed; MARGIN-TOP: -175px; WIDTH: 500px; HEIGHT: 350px; MARGIN-LEFT: -250px; OVERFLOW: hidden; TOP: 50%; LEFT: 50%; _position: absolute
+}
+.pop-ad .pop-ad-close {
+	POSITION: absolute; TOP: 5px; RIGHT: 5px
+}
+.pop-ad .pop-ad-content {
+	POSITION: relative
+}
+.pop-ad .ad-embed-mask {
+	WIDTH: 500px; HEIGHT: 350px
+}
+.error_txt {
+	BORDER-BOTTOM: #ffabab 1px solid; BORDER-LEFT: #ffabab 1px solid; BORDER-TOP: #ffabab 1px solid; BORDER-RIGHT: #ffabab 1px solid
+}
+.error_txt:hover {
+	BORDER-BOTTOM: #ffabab 1px solid; BORDER-LEFT: #ffabab 1px solid; BORDER-TOP: #ffabab 1px solid; BORDER-RIGHT: #ffabab 1px solid
+}
+.corner-ad {
+	Z-INDEX: 999; POSITION: fixed; BOTTOM: 0px; RIGHT: 0px; _position: absolute
+}
+.corner-ad .corner-ad-thumbnail {
+	OUTLINE-STYLE: none; WIDTH: 100px; HEIGHT: 100px
+}
+.corner-ad .corner-ad-main {
+	OUTLINE-STYLE: none; WIDTH: 300px; HEIGHT: 300px
+}
+.corner-ad .corner-ad-thumbnail .ad-embed-mask {
+	WIDTH: 100px; HEIGHT: 100px
+}
+.projection-ad {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; DISPLAY: none
+}
+.projection-ad .projection-ad-close {
+	Z-INDEX: 1; POSITION: absolute; OUTLINE-STYLE: none; WIDTH: 19px; BACKGROUND: url(../../../forum/default/images/img_ad/dk_ad_closed.gif) no-repeat 0px 0px; HEIGHT: 19px; TOP: 10px; RIGHT: 10px
+}
+.projection-ad .projection-ad-replay {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 19px; OUTLINE-STYLE: none; WIDTH: 52px; BACKGROUND: url(../../../forum/default/images/img_ad/bn_play.gif) no-repeat 0px 0px; HEIGHT: 19px; TOP: -10px; RIGHT: -60px
+}
+.projection-ad .projection-ad-content {
+	POSITION: relative; DISPLAY: none; MARGIN-BOTTOM: 10px; HEIGHT: 400px; OVERFLOW: hidden; _zoom: 1
+}
+.projection-ad .projection-ad-content .ad-embed-mask {
+	WIDTH: 980px; HEIGHT: 400px
+}
+.post-ad {
+	POSITION: relative; WIDTH: 100px; FLOAT: right; HEIGHT: 300px; MARGIN-LEFT: 10px; OVERFLOW: hidden; _display: inline
+}
+.post-ad .ad-embed-mask {
+	WIDTH: 100px; HEIGHT: 300px
+}
+.ad650-60 {
+	WIDTH: 650px; MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad100-300 {
+	WIDTH: 100px; FLOAT: right; HEIGHT: 300px; MARGIN-LEFT: 10px; OVERFLOW: hidden
+}
+.reply-ad {
+	WIDTH: 100px; FLOAT: right; HEIGHT: 240px; OVERFLOW: hidden; MARGIN-RIGHT: 15px; _display: inline
+}
+.ad {
+	POSITION: relative; MARGIN-BOTTOM: 10px; OVERFLOW: hidden
+}
+.ad-980x90 {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-980x60 {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-650x60 {
+	POSITION: relative; MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-980x90 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 90px
+}
+.ad-980x60 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 60px
+}
+.ad-740x60 {
+	WIDTH: 740px; HEIGHT: 60px
+}
+.ad-230x60 {
+	WIDTH: 230px; HEIGHT: 60px
+}
+.ad-650x60 {
+	WIDTH: 650px; MARGIN-BOTTOM: 10px; HEIGHT: 60px; MARGIN-LEFT: 5px
+}
+.ad-980x90 .ad-embed-mask {
+	WIDTH: 980px
+}
+.ad-980x60 .ad-embed-mask {
+	WIDTH: 980px
+}
+.ad-980x90 .ad-embed-mask {
+	HEIGHT: 90px
+}
+.ad-980x60 .ad-embed-mask {
+	HEIGHT: 60px
+}
+.ad-650x60 .ad-embed-mask {
+	HEIGHT: 60px
+}
+.ad-170x60 {
+	WIDTH: 680px; OVERFLOW: hidden
+}
+.ad-170x60 LI {
+	WIDTH: 170px; FLOAT: left; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-170x60 .ad-embed-mask {
+	WIDTH: 170px; HEIGHT: 60px
+}
+.ad-190x60 {
+	LINE-HEIGHT: 0; MARGIN: auto; WIDTH: 985px; FONT-SIZE: 0px; OVERFLOW: hidden
+}
+.ad-190x60 LI {
+	POSITION: relative; PADDING-BOTTOM: 10px; MARGIN: 0px 7px 0px 0px; WIDTH: 190px; ZOOM: 1; FLOAT: left; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-190x60 LI.adv-320-60 {
+	WIDTH: 320px; MARGIN-RIGHT: 10px
+}
+.ad-190x60 LI.adv-410-60 {
+	WIDTH: 410px; MARGIN-RIGHT: 10px
+}
+.ad-190x60 LI.adv-230-60 {
+	WIDTH: 230px; MARGIN-RIGHT: 0px
+}
+.ad-190x60 .ad-embed-mask {
+	WIDTH: 190px; HEIGHT: 60px
+}
+.ad-230x180 {
+	WIDTH: 230px; HEIGHT: 180px
+}
+.ad-230x180 .ad-embed-mask {
+	WIDTH: 230px; HEIGHT: 180px
+}
+.ad-680x90 {
+	MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden; _zoom: 1
+}
+.ad-680x90 LI {
+	POSITION: relative; PADDING-BOTTOM: 10px; WIDTH: 140px; MARGIN-BOTTOM: 0px; FLOAT: left; HEIGHT: 90px; OVERFLOW: hidden
+}
+.ad-680x90 .ad-main {
+	MARGIN: 0px 10px 10px; WIDTH: 680px; FLOAT: left; HEIGHT: 90px; OVERFLOW: hidden
+}
+.ad-680x90 .ad-main .ad-embed-mask {
+	WIDTH: 680px; HEIGHT: 90px
+}
+.ad-230x60 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-740x60 {
+	MARGIN-BOTTOM: 10px; HEIGHT: 60px; OVERFLOW: hidden
+}
+.ad-230x60 {
+	WIDTH: 230px
+}
+.ad-740x60 {
+	WIDTH: 740px
+}
+.ad-980x40 {
+	Z-INDEX: 10; POSITION: relative; HEIGHT: 40px; OVERFLOW: hidden
+}
+.ad-320x90 {
+	MARGIN: 0px auto; WIDTH: 980px; OVERFLOW: hidden
+}
+.ad-320x90 .ad-center {
+	MARGIN: 0px 10px
+}
+.ad-320x90 .ad-cycle {
+	MARGIN-TOP: 10px; WIDTH: 320px; FLOAT: left; HEIGHT: 90px; OVERFLOW: hidden
+}
+.go-top {
+	Z-INDEX: 80; POSITION: fixed; TEXT-ALIGN: center; BOTTOM: 300px; RIGHT: 15px; border-radius: 5px; box-shadow: 0 0 5px rgba(0,0,0,0.1); _position: absolute
+}
+.go-top A {
+	BORDER-BOTTOM: #d9e6bb 1px solid; BORDER-LEFT: #d9e6bb 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: #f7fbec; PADDING-LEFT: 5px; WIDTH: 18px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid; PADDING-TOP: 5px
+}
+.go-top A:visited {
+	BORDER-BOTTOM: #d9e6bb 1px solid; BORDER-LEFT: #d9e6bb 1px solid; PADDING-BOTTOM: 5px; LINE-HEIGHT: 14px; BACKGROUND-COLOR: #f7fbec; PADDING-LEFT: 5px; WIDTH: 18px; PADDING-RIGHT: 5px; DISPLAY: block; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid; PADDING-TOP: 5px
+}
+.go-top A:hover {
+	BORDER-BOTTOM-COLOR: #8ca226; BACKGROUND-COLOR: #8ca226; BORDER-TOP-COLOR: #8ca226; COLOR: #fff; BORDER-RIGHT-COLOR: #8ca226; BORDER-LEFT-COLOR: #8ca226; TEXT-DECORATION: none
+}
+.go-top .icon {
+	WIDTH: 16px; DISPLAY: block; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.go-top .close-go-top {
+	DISPLAY: none; border-radius: 5px 5px 0 0
+}
+.go-top .close-go-top:visited {
+	DISPLAY: none; border-radius: 5px 5px 0 0
+}
+.close-go-top .icon {
+	BACKGROUND-POSITION: -37px -56px
+}
+.close-go-top:hover .icon {
+	BACKGROUND-POSITION: -57px -56px
+}
+.go-top .customer-service {
+	BORDER-BOTTOM-STYLE: none; border-radius: 5px 5px 0 0
+}
+.go-top .customer-service:visited {
+	BORDER-BOTTOM-STYLE: none; border-radius: 5px 5px 0 0
+}
+.customer-service .icon {
+	MARGIN: 0px 0px 2px 2px; BACKGROUND-POSITION: 0px -59px
+}
+.customer-service:hover .icon {
+	BACKGROUND-POSITION: -20px -59px
+}
+.go-top .back-to-top {
+	border-radius: 0 0 5px 5px
+}
+.go-top .back-to-top:visited {
+	border-radius: 0 0 5px 5px
+}
+.back-to-top .arrow {
+	BORDER-BOTTOM: #8ca226 6px solid; BORDER-LEFT: #f7fbec 6px solid; MARGIN: 2px; WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; OVERFLOW: hidden; BORDER-RIGHT: #f7fbec 6px solid
+}
+.back-to-top:hover .arrow {
+	BORDER-BOTTOM: #f7fbec 6px solid; BORDER-LEFT: #8ca226 6px solid; BORDER-RIGHT: #8ca226 6px solid
+}
+.go-top-hover .close-go-top {
+	DISPLAY: block
+}
+.go-top-hover .close-go-top:visited {
+	DISPLAY: block
+}
+.go-top-hover .customer-service {
+	BORDER-TOP-STYLE: none; border-radius: 0
+}
+.go-top-hover .customer-service:visited {
+	BORDER-TOP-STYLE: none; border-radius: 0
+}
+.at {
+	LINE-HEIGHT: 18px; PADDING-LEFT: 15px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -380px 3px; COLOR: #83a013; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; TEXT-DECORATION: none
+}
+.at:hover {
+	LINE-HEIGHT: 18px; PADDING-LEFT: 15px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -380px 3px; COLOR: #83a013; FONT-SIZE: 12px; VERTICAL-ALIGN: middle; TEXT-DECORATION: none
+}
+.at:visited {
+	COLOR: #83a013
+}
+.submit-btn {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.submit-btn SPAN {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.reply-btn {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.reply-btn SPAN {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.option-btn {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.option-btn SPAN {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.confirm-btn {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.confirm-btn SPAN {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.options-btn {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.options-btn SPAN {
+	BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat
+}
+.confirm-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.options-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.submit-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.reply-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.option-btn {
+	PADDING-LEFT: 10px; ZOOM: 1; DISPLAY: inline-block; HEIGHT: 25px; VERTICAL-ALIGN: middle; OVERFLOW: hidden; MARGIN-RIGHT: 10px; _display: inline
+}
+.confirm-btn:hover {
+	TEXT-DECORATION: none
+}
+.options-btn:hover {
+	TEXT-DECORATION: none
+}
+.confirm-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.options-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.submit-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.reply-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.option-btn SPAN {
+	PADDING-RIGHT: 10px; FONT: 700 12px/25px "Simsun"; FLOAT: left; HEIGHT: 25px; CURSOR: pointer
+}
+.confirm-btn {
+	BACKGROUND-POSITION: 0px -420px
+}
+.confirm-btn SPAN {
+	BACKGROUND-POSITION: right -445px; COLOR: #fff
+}
+.confirm-btn:hover {
+	BACKGROUND-POSITION: 0px -470px
+}
+.confirm-btn:hover SPAN {
+	BACKGROUND-POSITION: right -495px
+}
+.options-btn {
+	BACKGROUND-POSITION: 0px -520px
+}
+.options-btn SPAN {
+	BACKGROUND-POSITION: right -545px; COLOR: #334f67
+}
+.options-btn:hover {
+	BACKGROUND-POSITION: 0px -570px
+}
+.options-btn:hover SPAN {
+	BACKGROUND-POSITION: right -595px
+}
+.disabled-small SPAN {
+	BACKGROUND-POSITION: right -705px; COLOR: #666; CURSOR: default
+}
+.disabled-small:hover SPAN {
+	BACKGROUND-POSITION: right -705px; COLOR: #666; CURSOR: default
+}
+.disabled-small .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.disabled-small:hover .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 4px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.disabled-small {
+	BACKGROUND-POSITION: 0px -680px
+}
+.disabled-small:hover {
+	BACKGROUND-POSITION: 0px -680px
+}
+.submit-btn {
+	HEIGHT: 30px
+}
+.reply-btn {
+	HEIGHT: 30px
+}
+.option-btn {
+	HEIGHT: 30px
+}
+.submit-btn:hover {
+	TEXT-DECORATION: none
+}
+.reply-btn:hover {
+	TEXT-DECORATION: none
+}
+.option-btn:hover {
+	TEXT-DECORATION: none
+}
+.submit-btn SPAN {
+	FONT: 700 14px/30px "Simsun"; HEIGHT: 30px
+}
+.reply-btn SPAN {
+	FONT: 700 14px/30px "Simsun"; HEIGHT: 30px
+}
+.option-btn SPAN {
+	FONT: 700 14px/30px "Simsun"; HEIGHT: 30px
+}
+.submit-btn SPAN {
+	BACKGROUND-POSITION: right -30px; COLOR: #fff
+}
+.submit-btn:hover {
+	BACKGROUND-POSITION: 0px -90px
+}
+.submit-btn:hover SPAN {
+	BACKGROUND-POSITION: right -120px
+}
+.option-btn {
+	BACKGROUND-POSITION: 0px -300px
+}
+.option-btn SPAN {
+	BACKGROUND-POSITION: right -330px; COLOR: #334f67
+}
+.option-btn:hover {
+	BACKGROUND-POSITION: 0px -360px
+}
+.option-btn:hover SPAN {
+	BACKGROUND-POSITION: right -390px
+}
+.newthread .submit-btn SPAN {
+	PADDING-RIGHT: 30px; BACKGROUND-POSITION: right -60px
+}
+.newthread .submit-btn:hover SPAN {
+	BACKGROUND-POSITION: right -150px
+}
+.reply-btn {
+	BACKGROUND-POSITION: 0px -180px
+}
+.reply-btn:hover {
+	BACKGROUND-POSITION: 0px -240px
+}
+.reply-btn SPAN {
+	BACKGROUND-POSITION: right -210px; COLOR: #654302
+}
+.reply-btn:hover SPAN {
+	BACKGROUND-POSITION: right -270px
+}
+.disabled-big {
+	BACKGROUND-POSITION: 0px -620px
+}
+.disabled-big:hover {
+	BACKGROUND-POSITION: 0px -620px
+}
+.disabled-big SPAN {
+	BACKGROUND-POSITION: right -650px; COLOR: #666; CURSOR: default
+}
+.disabled-big:hover SPAN {
+	BACKGROUND-POSITION: right -650px; COLOR: #666; CURSOR: default
+}
+.disabled-big .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 7px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.disabled-big:hover .loading {
+	PADDING-BOTTOM: 0px; MARGIN: 7px 0px; PADDING-LEFT: 0px; WIDTH: 16px; PADDING-RIGHT: 5px; BACKGROUND: url(../../../forum/default/images/btn_loading.gif) no-repeat; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 16px
+}
+.option-btn-s {
+	LINE-HEIGHT: 17px; PADDING-LEFT: 3px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat 0px -730px; HEIGHT: 16px; COLOR: #333; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.option-btn-s:visited {
+	LINE-HEIGHT: 17px; PADDING-LEFT: 3px; ZOOM: 1; DISPLAY: inline; BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat 0px -730px; HEIGHT: 16px; COLOR: #333; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.option-btn-s SPAN {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 8px; ZOOM: 1; BACKGROUND: url(../../../forum/default/images/bg_btn.png) no-repeat right -746px; FLOAT: left; CURSOR: pointer; PADDING-TOP: 0px
+}
+.option-btn-s:hover {
+	COLOR: #333; TEXT-DECORATION: none
+}
+.footer {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; LINE-HEIGHT: 20px; MARGIN: 20px auto 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #f3f3f3; CLEAR: both; BORDER-TOP: #dbdbdb 1px solid; PADDING-TOP: 0px
+}
+.footer P {
+	MARGIN-BOTTOM: 10px
+}
+.foot-logo IMG {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; BORDER-TOP: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.footer DIV.footer-bar {
+	MARGIN-BOTTOM: 8px; BACKGROUND: #f3f3f3; HEIGHT: 8px; OVERFLOW: hidden
+}
+.footer-link {
+	TEXT-ALIGN: center; MARGIN: 0px auto; WIDTH: 980px
+}
+.footer-link DIV {
+	TEXT-ALIGN: left
+}
+.footer-link DIV A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; DISPLAY: inline-block; PADDING-TOP: 0px; border-radius: 3px
+}
+.footer-link DIV A:hover {
+	BACKGROUND: #808080; COLOR: #fff; TEXT-DECORATION: none
+}
+.foot-home {
+	MARGIN-RIGHT: 15px
+}
+.foot-home IMG {
+	MARGIN: 5px 0px 0px 65px
+}
+.footer .pipe {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 1px; PADDING-RIGHT: 1px; PADDING-TOP: 0px
+}
+.tips-mod STRONG {
+	BACKGROUND: url(../../../forum/default/images/bg_common.png) no-repeat; _background: url(../../../forum/default/images/bg_common_ie6.png) no-repeat
+}
+.tips-mod I {
+	BACKGROUND: url(../../../forum/default/images/bg_common.png) no-repeat; _background: url(../../../forum/default/images/bg_common_ie6.png) no-repeat
+}
+.tips-mod {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod STRONG {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod I {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod EM {
+	DISPLAY: inline-block; HEIGHT: 58px; _zoom: 1; _display: inline
+}
+.tips-mod {
+	Z-INDEX: 100; POSITION: fixed; TEXT-ALIGN: center; WIDTH: 100%; FONT: 700 14px/58px "Simsun"; TOP: 40%; LEFT: 0px
+}
+.tips-mod STRONG {
+	POSITION: relative; MARGIN: 0px auto; BACKGROUND-REPEAT: repeat-x; BACKGROUND-POSITION: 0px -260px
+}
+.tips-mod EM {
+	PADDING-LEFT: 45px; BACKGROUND: url(../../../forum/default/images/icon_common.png) no-repeat 0px -60px; COLOR: #334f67
+}
+.tips-mod .tips-warn {
+	BACKGROUND-POSITION: 0px -604px; COLOR: #c0880f
+}
+.tips-mod .tips-error {
+	BACKGROUND-POSITION: 0px -604px; COLOR: #c0880f
+}
+.tips-mod I {
+	POSITION: absolute; TEXT-INDENT: -999px; WIDTH: 20px; BACKGROUND-POSITION: 0px -202px; OVERFLOW: hidden; TOP: 0px; LEFT: -20px
+}
+.tips-mod .tips-rs {
+	BACKGROUND-POSITION: -20px -202px; RIGHT: -20px; LEFT: auto
+}
+.tips-mod .fix-ie6 {
+	HEIGHT: 60px
+}
+.tips-mod .close {
+	TOP: 7px; RIGHT: 7px
+}
+.win-table TH {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.win-table TD {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 5px
+}
+.win-table TH {
+	TEXT-ALIGN: right; WIDTH: 80px; VERTICAL-ALIGN: top; FONT-WEIGHT: normal
+}
+.win-table TEXTAREA {
+	WIDTH: 240px; HEIGHT: 60px
+}
+.win-table LABEL {
+	MARGIN-RIGHT: 5px
+}
+.win-table LABEL INPUT {
+	VERTICAL-ALIGN: -2px
+}
+.win-data {
+	OVERFLOW: hidden; _zoom: 1
+}
+.win-data LI {
+	LINE-HEIGHT: 20px; WIDTH: 110px; FLOAT: left; HEIGHT: 20px; OVERFLOW: hidden
+}
+.win-data-long LI {
+	WIDTH: 150px
+}
+.win {
+	Z-INDEX: 99; POSITION: relative
+}
+.win-mod {
+	Z-INDEX: 1002; POSITION: absolute; WIDTH: 350px; OVERFLOW: hidden
+}
+.win-hd {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#33333333',endColorstr='#33333333'); ZOOM: 1
+}
+.win-bd {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#33333333',endColorstr='#33333333'); ZOOM: 1
+}
+.win-hd {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 7px; border-top-left-radius: 4px; border-top-right-radius: 4px
+}
+.win-hd H3 {
+	TEXT-INDENT: 10px; FONT: 700 14px/31px "Simsun"; BACKGROUND: url(../../../forum/default/images/repeat_common.gif) repeat-x; HEIGHT: 31px; COLOR: #334f67; CURSOR: move
+}
+.win-hd .close {
+	POSITION: absolute; TOP: 15px; RIGHT: 15px
+}
+.win-bd {
+	PADDING-BOTTOM: 7px; PADDING-LEFT: 7px; PADDING-RIGHT: 7px; PADDING-TOP: 0px; border-bottom-left-radius: 4px; border-bottom-right-radius: 4px
+}
+.win-cont {
+	BACKGROUND-COLOR: #fff; OVERFLOW: hidden
+}
+.win-btn {
+	BACKGROUND-COLOR: #fff; OVERFLOW: hidden
+}
+.win-cont {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.win-form LI {
+	LINE-HEIGHT: 23px; HEIGHT: 22px
+}
+.win-form .lab {
+	TEXT-ALIGN: right; WIDTH: 70px; FLOAT: left; HEIGHT: 22px; FONT-WEIGHT: normal
+}
+.win-alert {
+	POSITION: relative; PADDING-LEFT: 68px; HEIGHT: 46px
+}
+.win-alert .smiley {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.win-alert .msg {
+	DISPLAY: inline-block; COLOR: #334f67; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+.win-alert .tip {
+	FONT: 100 12px/30px "Simsun"
+}
+.win-btn {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 10px
+}
+.win-btn A {
+	MARGIN-RIGHT: 10px
+}
+.win-tip {
+	COLOR: #fc6d02
+}
+.win-mask {
+	Z-INDEX: 1001; POSITION: absolute; FILTER: alpha(opacity=50); BACKGROUND-COLOR: #333; TOP: 0px; LEFT: 0px; opacity: .5
+}
+#win-login .login-name {
+	MARGIN-BOTTOM: 15px
+}
+#win-login .login-pass {
+	MARGIN-BOTTOM: 10px
+}
+#win-login .login-auto {
+	PADDING-LEFT: 70px
+}
+#win-login .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-login .txt {
+	WIDTH: 140px; HEIGHT: 18px
+}
+#win-login .login-btn {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; PADDING-TOP: 8px
+}
+#win-login .login-shortcut {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; PADDING-TOP: 8px
+}
+#win-login .login-btn {
+	HEIGHT: 28px
+}
+.login-shortcut SPAN {
+	LINE-HEIGHT: 30px; heiht: 30px
+}
+.login-shortcut .account-qq {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-sina {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-taobao {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-qihoo {
+	MARGIN: 3px 10px 0px 0px; WIDTH: 24px; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -100px 0px; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 24px
+}
+.login-shortcut .account-sina {
+	BACKGROUND-POSITION: -140px 0px
+}
+.login-shortcut .account-taobao {
+	BACKGROUND-POSITION: -180px 0px
+}
+.login-shortcut .account-qihoo {
+	BACKGROUND-POSITION: -220px 0px
+}
+.login-related {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 70px; PADDING-RIGHT: 0px; HEIGHT: 24px; PADDING-TOP: 8px
+}
+.login-related .account-qq {
+	LINE-HEIGHT: 24px; PADDING-LEFT: 25px; DISPLAY: inline-block; BACKGROUND: url(../../../forum/default/images/view_icon.png) no-repeat 5px -250px; HEIGHT: 24px
+}
+.login-related .account-sina {
+	LINE-HEIGHT: 24px; PADDING-LEFT: 25px; DISPLAY: inline-block; BACKGROUND: url(../../../forum/default/images/view_icon.png) no-repeat 5px -250px; HEIGHT: 24px
+}
+.login-related .account-qq {
+	BACKGROUND-POSITION: 5px -1654px
+}
+#win-report .report-name {
+	MARGIN-BOTTOM: 10px
+}
+#win-report .report-reason {
+	HEIGHT: 88px
+}
+#win-report TEXTAREA {
+	WIDTH: 200px; HEIGHT: 80px
+}
+#win-report .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-sms .sms-user {
+	MARGIN-BOTTOM: 10px
+}
+#win-sms .sms-title {
+	MARGIN-BOTTOM: 15px
+}
+#win-sms .sms-content {
+	MARGIN-BOTTOM: 15px
+}
+#win-sms .sms-content {
+	HEIGHT: 120px
+}
+#win-sms .textarea {
+	WIDTH: 377px; HEIGHT: 112px
+}
+#win-sms .sms-login .txt {
+	WIDTH: 80px; FLOAT: left
+}
+#win-sms .lab-pass {
+	WIDTH: 45px
+}
+#win-sms .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-rate {
+	WIDTH: 420px
+}
+#win-rate .rate-prestige {
+	MARGIN-BOTTOM: 10px
+}
+#win-rate .rate-gold {
+	MARGIN-BOTTOM: 10px
+}
+#win-rate .rate-reason {
+	MARGIN-BOTTOM: 10px
+}
+#win-rate .rate-prestige {
+	POSITION: relative; LINE-HEIGHT: 34px; HEIGHT: 34px
+}
+.prestigeList {
+	FLOAT: left
+}
+.prestigeList UL {
+	FLOAT: left
+}
+.prestigeList UL {
+	WIDTH: 120px; OVERFLOW: hidden
+}
+.prestigeList LI {
+	TEXT-ALIGN: center; LINE-HEIGHT: 16px; MARGIN-BOTTOM: 2px; HEIGHT: 16px; VERTICAL-ALIGN: middle
+}
+.prestigeList LI A {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; WIDTH: 17px; BACKGROUND: url(../../../forum/default/images/bg_btn.png) repeat-x 0px -391px; FLOAT: left; HEIGHT: 14px; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #dbdbdb 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.prestigeList LI SPAN {
+	BORDER-BOTTOM: #dbdbdb 1px solid; BORDER-LEFT: #dbdbdb 1px solid; WIDTH: 17px; BACKGROUND: url(../../../forum/default/images/bg_btn.png) repeat-x 0px -391px; FLOAT: left; HEIGHT: 14px; COLOR: #8ca226; OVERFLOW: hidden; BORDER-TOP: #dbdbdb 1px solid; MARGIN-RIGHT: 5px; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.prestigeList LI A:hover {
+	BORDER-BOTTOM-COLOR: #8ba159; BORDER-TOP-COLOR: #8ba159; BACKGROUND-POSITION: 0px -446px; COLOR: #fff; BORDER-RIGHT-COLOR: #8ba159; BORDER-LEFT-COLOR: #8ba159; TEXT-DECORATION: none
+}
+.prestigeList LI SPAN {
+	COLOR: #ddd; CURSOR: pointer
+}
+#win-rate .ratePrestige {
+	WIDTH: 25px
+}
+#win-rate .rateGold {
+	WIDTH: 30px
+}
+#win-rate .rate-reason {
+	HEIGHT: 70px
+}
+#win-rate #rateReason {
+	WIDTH: 270px; HEIGHT: 62px
+}
+#win-rate .select-reason {
+	HEIGHT: 65px; OVERFLOW: hidden
+}
+#win-rate #selectReason {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; WIDTH: 250px; FLOAT: left; HEIGHT: 63px; OVERFLOW: hidden; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid
+}
+#win-rate #selectReason LI {
+	LINE-HEIGHT: 21px; TEXT-INDENT: 3px; HEIGHT: 21px; COLOR: #666; CURSOR: pointer
+}
+#win-rate #selectReason .hover {
+	BACKGROUND: #8ca226; COLOR: #fff
+}
+#win-rate .rate-sms {
+	MARGIN-TOP: 5px; PADDING-LEFT: 70px; COLOR: #666
+}
+#win-rate .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-rate .rate-prestige .popo-mod {
+	POSITION: absolute; LINE-HEIGHT: 18px; TOP: -5px; RIGHT: 0px
+}
+#win-favorite {
+	WIDTH: 275px
+}
+#win-favorite .msg {
+	MARGIN-TOP: 5px
+}
+#win-favorite .win-btn {
+	TEXT-ALIGN: left; PADDING-LEFT: 80px
+}
+#win-forward {
+	WIDTH: 400px; OVERFLOW: hidden
+}
+#forward-cont {
+	WIDTH: 366px; OVERFLOW: hidden
+}
+#forward-cont LI {
+	MARGIN-BOTTOM: 15px; HEIGHT: auto
+}
+#forward-cont P {
+	MARGIN-BOTTOM: 5px
+}
+#forward-cont .txt {
+	WIDTH: 358px
+}
+#forward-cont TEXTAREA {
+	HEIGHT: 50px
+}
+#forward-cont LABEL INPUT {
+	VERTICAL-ALIGN: -2px
+}
+#forward-cont .select-photo {
+	WIDTH: 376px; OVERFLOW: hidden; _zoom: 1
+}
+#forward-cont .select-photo A {
+	BORDER-BOTTOM: #e8e8e8 1px solid; POSITION: relative; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 80px; DISPLAY: block; FLOAT: left; HEIGHT: 80px; OVERFLOW: hidden; BORDER-TOP: #e8e8e8 1px solid; MARGIN-RIGHT: 10px; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#forward-cont .select-photo A:hover {
+	BORDER-BOTTOM-COLOR: #9dae51; BORDER-TOP-COLOR: #9dae51; BORDER-RIGHT-COLOR: #9dae51; BORDER-LEFT-COLOR: #9dae51
+}
+#forward-cont .select-photo .selected EM {
+	POSITION: absolute; WIDTH: 15px; BOTTOM: 1px; DISPLAY: block; BACKGROUND: url(../../../forum/default/images/icon_common.png) no-repeat 0px -580px; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 15px; LEFT: 1px
+}
+#win-attention {
+	WIDTH: 610px; OVERFLOW: hidden
+}
+#win-attention .win-hd {
+	WIDTH: 610px
+}
+#follow-group P {
+	PADDING-BOTTOM: 10px; BACKGROUND-COLOR: #eff7f8; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; MARGIN-BOTTOM: 15px; PADDING-TOP: 10px
+}
+#win-weather {
+	WIDTH: 514px
+}
+#win-login .win-btn {
+	DISPLAY: none
+}
+.board-record-mod {
+	MARGIN: 0px 20px
+}
+.board-record-mod .board-record-item {
+	WIDTH: 470px; ZOOM: 1; MARGIN-BOTTOM: 10px; HEIGHT: auto; OVERFLOW: hidden
+}
+.board-record-mod .board-record-item-preview {
+	POSITION: relative
+}
+.board-record-mod .board-record-item LABEL {
+	FLOAT: left; HEIGHT: 26px
+}
+.board-record-mod .board-record-item .pm_num {
+	Z-INDEX: 2; POSITION: absolute; DISPLAY: block; HEIGHT: 20px; FONT-SIZE: 11px; TOP: 5px; RIGHT: 33px
+}
+.board-record-mod .board-record-pic {
+	POSITION: relative; WIDTH: 400px; ZOOM: 1; HEIGHT: 120px; OVERFLOW: hidden
+}
+.board-record-mod .board-record-pic .board-pic-item {
+	POSITION: relative; WIDTH: 120px; FLOAT: left; HEIGHT: 120px; OVERFLOW: hidden; CURSOR: pointer; MARGIN-RIGHT: 5px
+}
+.board-record-pic .board-pic-item IMG {
+	WIDTH: 120px; HEIGHT: 120px
+}
+.board-record-pic .board-pic-item .selected {
+	BORDER-BOTTOM: #7f9c14 2px solid; POSITION: absolute; BORDER-LEFT: #7f9c14 2px solid; WIDTH: 116px; DISPLAY: block; HEIGHT: 116px; BORDER-TOP: #7f9c14 2px solid; TOP: 0px; BORDER-RIGHT: #7f9c14 2px solid; LEFT: 0px
+}
+.board-record-pic .board-pic-item .selected I {
+	POSITION: absolute; TEXT-INDENT: 39px; WIDTH: 39px; BOTTOM: 0px; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat -100px -39px; HEIGHT: 39px; RIGHT: 0px
+}
+.board-record-slide {
+	POSITION: relative; MARGIN: 0px 15px; WIDTH: 375px; DISPLAY: inline; FLOAT: left; HEIGHT: 120px; OVERFLOW: hidden
+}
+.board-record-slide UL {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.board-record-slide-left {
+	WIDTH: 10px; FLOAT: left; HEIGHT: 120px
+}
+.board-record-slide-right {
+	WIDTH: 10px; FLOAT: left; HEIGHT: 120px
+}
+.board-record-slide-left {
+	MARGIN-LEFT: -405px
+}
+.board-record-slide-right {
+	MARGIN-LEFT: -15px
+}
+.board-record-slide-left .icon {
+	MARGIN-TOP: 40px; WIDTH: 10px; DISPLAY: block; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat; HEIGHT: 31px
+}
+.board-record-slide-right .icon {
+	MARGIN-TOP: 40px; WIDTH: 10px; DISPLAY: block; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat; HEIGHT: 31px
+}
+.board-record-slide-left .icon {
+	BACKGROUND-POSITION: -160px -39px
+}
+.board-record-slide-right .icon {
+	BACKGROUND-POSITION: -200px -39px
+}
+.board-record-slide-left-disable .icon {
+	BACKGROUND-POSITION: -180px -39px
+}
+.board-record-slide-right-disable .icon {
+	BACKGROUND-POSITION: -220px -39px
+}
+.board-record-mod .board-record-types {
+	POSITION: relative; WIDTH: 398px; ZOOM: 1; OVERFLOW: hidden
+}
+.board-record-types .board-tab-cont {
+	FLOAT: left
+}
+.board-record-mod .board-record-types .board-name-input {
+	WIDTH: 188px; CLEAR: both
+}
+.board-record-mod .board-record-tags {
+	MIN-HEIGHT: 54px; WIDTH: 398px; MARGIN-BOTTOM: 25px; _height: 54px
+}
+.board-record-mod .board-record-tags A {
+	BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-LEFT: #f3f3f3 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 2px 2px 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FONT: 400 12px/23px "SimSun"; WHITE-SPACE: nowrap; BACKGROUND: #f3f3f3; FLOAT: left; HEIGHT: 23px; COLOR: #999; BORDER-TOP: #f3f3f3 1px solid; CURSOR: pointer; BORDER-RIGHT: #f3f3f3 1px solid; PADDING-TOP: 0px
+}
+.board-record-mod .board-record-tags A:hover {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934; TEXT-DECORATION: none
+}
+.board-record-mod .board-record-tags A.cur {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934
+}
+.board-record-mod .board-record-item .board-subject-input {
+	WIDTH: 390px
+}
+.board-record-mod .board-record-item .board-summary-input {
+	WIDTH: 390px; HEIGHT: 65px; resize: none
+}
+.board-record-mod .board-record-item .board-record-url {
+	MARGIN: 0px 5px 0px 42px; WIDTH: 315px; _margin: 0 5px 0 45px
+}
+.board-record-mod .board-record-loading {
+	TEXT-ALIGN: center; FONT: 400 16px/22px "Microsoft YaHei","SimHei"; BACKGROUND: url(../../../forum/default/images/loading.gif) #fff no-repeat center center; HEIGHT: 200px; PADDING-TOP: 70px
+}
+.board-record-mod .board-record-item .switch-tab {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; VERTICAL-ALIGN: middle
+}
+.board-record-mod .board-record-item .switch-tab:visited {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; VERTICAL-ALIGN: middle
+}
+.board-record-mod .board-record-item .switch-tab:hover {
+	TEXT-DECORATION: none
+}
+.create-tags {
+	WIDTH: 420px; HEIGHT: 45px; MARGIN-LEFT: 20px
+}
+.create-tags .new-tags {
+	MARGIN-TOP: 7px; WIDTH: 200px; FLOAT: left; _margin-top: 4px
+}
+.create-tags .tags-tip {
+	WIDTH: 218px; FLOAT: left
+}
+.pic-record-mod {
+	MARGIN: 0px 20px; _margin: 0 5px
+}
+.pic-record-mod .pic-record-item {
+	WIDTH: 485px; ZOOM: 1; MARGIN-BOTTOM: 10px; HEIGHT: auto; OVERFLOW: hidden
+}
+.pic-record-mod .pic-record-item LABEL {
+	FLOAT: left; HEIGHT: 26px
+}
+.pic-record-mod .pic-record-item .pm_num {
+	Z-INDEX: 2; POSITION: absolute; DISPLAY: block; HEIGHT: 20px; FONT-SIZE: 11px; TOP: 5px; RIGHT: 20px
+}
+.pic-record-mod .pic-record-types {
+	POSITION: relative; WIDTH: 398px; ZOOM: 1; OVERFLOW: hidden
+}
+.pic-record-types .pic-tab-cont {
+	FLOAT: left
+}
+.pic-record-mod .pic-record-tags {
+	MIN-HEIGHT: 54px; WIDTH: 378px; MARGIN-BOTTOM: 25px; _height: 54px
+}
+.pic-record-mod .pic-record-tags A {
+	BORDER-BOTTOM: #f3f3f3 1px solid; BORDER-LEFT: #f3f3f3 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 2px 2px 0px; PADDING-LEFT: 6px; PADDING-RIGHT: 6px; FONT: 400 12px/23px "SimSun"; WHITE-SPACE: nowrap; BACKGROUND: #f3f3f3; FLOAT: left; HEIGHT: 23px; COLOR: #999; BORDER-TOP: #f3f3f3 1px solid; CURSOR: pointer; BORDER-RIGHT: #f3f3f3 1px solid; PADDING-TOP: 0px
+}
+.pic-record-mod .pic-record-tags A:hover {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934; TEXT-DECORATION: none
+}
+.pic-record-mod .pic-record-tags A.cur {
+	BORDER-BOTTOM-COLOR: #90a934; BORDER-TOP-COLOR: #90a934; BACKGROUND: #e9f3c6; COLOR: #90a934; BORDER-RIGHT-COLOR: #90a934; BORDER-LEFT-COLOR: #90a934
+}
+.pic-record-mod .pic-record-tags SPAN {
+	POSITION: relative; FONT: 400 12px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 10px; CURSOR: pointer
+}
+.pic-record-mod .pic-record-tags SPAN .show-more {
+	POSITION: absolute; BORDER-LEFT: #fff 4px solid; VERTICAL-ALIGN: middle; BORDER-TOP: #1a5aaa 4px solid; TOP: 7px; BORDER-RIGHT: #fff 4px solid; LEFT: 50px; _left: 59px
+}
+.pic-record-mod .tag-link {
+	MARGIN-LEFT: 28px
+}
+.pic-record-mod .pic-record-item .pic-subject-input {
+	WIDTH: 392px
+}
+.pic-record-mod .pic-record-item .board-name-input {
+	WIDTH: 180px
+}
+.pic-record-mod .pic-record-item .pic-summary-input {
+	WIDTH: 392px; HEIGHT: 65px; MARGIN-LEFT: 70px; resize: none; _margin-left: 73px
+}
+.pic-record-mod .pic-record-item .add-desc {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 70px
+}
+.pic-record-mod .pic-record-item .add-desc:visited {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 70px
+}
+.pic-record-mod .pic-record-item .add-desc:hover {
+	TEXT-DECORATION: none
+}
+.pic-record-mod .pic-record-item .back-select {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 10px
+}
+.pic-record-mod .pic-record-item .back-select:visited {
+	FONT: 500 13px/20px 'Microsoft Yahei'; COLOR: #1a5aaa; MARGIN-LEFT: 10px
+}
+.pic-record-mod .pic-record-item .back-select:hover {
+	TEXT-DECORATION: none
+}
+.pic-record-mod .pic-record-loading {
+	TEXT-ALIGN: center; FONT: 400 16px/22px "Microsoft YaHei","SimHei"; BACKGROUND: url(../../../forum/default/images/loading.gif) #fff no-repeat center center; HEIGHT: 200px; PADDING-TOP: 70px
+}
+.board-tags-carousel {
+	POSITION: absolute; WIDTH: 20px; BOTTOM: 0px; RIGHT: 0px
+}
+.tags-carousel-prev {
+	WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden
+}
+.tags-carousel-next {
+	WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden
+}
+.tags-carousel-prev {
+	BORDER-BOTTOM: #fff 6px solid; FLOAT: left; BORDER-TOP: #fff 6px solid; BORDER-RIGHT: #333 6px solid
+}
+.tags-carousel-next {
+	BORDER-BOTTOM: #fff 6px solid; BORDER-LEFT: #333 6px solid; FLOAT: right; BORDER-TOP: #fff 6px solid
+}
+.tags-carousel-prev-disable {
+	BORDER-RIGHT: #aaa 6px solid
+}
+.tags-carousel-next-disable {
+	BORDER-LEFT: #aaa 6px solid
+}
+.tab-mod {
+	BACKGROUND: #fff
+}
+.tab-mod .tab-hd {
+	BORDER-BOTTOM: #585858 1px solid; MARGIN: 0px 20px 10px; PADDING-LEFT: 4px
+}
+.tab-mod .tab-hd UL {
+	FONT-SIZE: 0px
+}
+.tab-mod .tab-hd LI {
+	BORDER-BOTTOM: #585858 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #adadad 1px solid; PADDING-BOTTOM: 4px; LINE-HEIGHT: 14px; PADDING-LEFT: 20px; BOTTOM: -1px; PADDING-RIGHT: 20px; BACKGROUND: #b2b2b2; HEIGHT: 14px; COLOR: #fff; FONT-SIZE: 14px; BORDER-TOP: #adadad 1px solid; MARGIN-RIGHT: 1px; BORDER-RIGHT: #adadad 1px solid; PADDING-TOP: 4px
+}
+.tab-hd LI A {
+	COLOR: #fff
+}
+.tab-hd LI A:visited {
+	COLOR: #fff
+}
+.tab-hd LI A:hover {
+	COLOR: #fff
+}
+.tab-mod .tab-hd LI.selected {
+	BORDER-BOTTOM: #5c5c5c 1px; BORDER-LEFT: #5c5c5c 1px solid; BOTTOM: 0px; BACKGROUND: #666; HEIGHT: 16px; BORDER-TOP: #5c5c5c 1px solid; CURSOR: default; FONT-WEIGHT: 700; BORDER-RIGHT: #5c5c5c 1px solid
+}
+.shanghai-ip {
+	Z-INDEX: 999; POSITION: fixed; WIDTH: 262px; BOTTOM: 0px; BACKGROUND: url(../../../forum/default/images/ship_bg.gif) no-repeat; HEIGHT: 172px; RIGHT: 0px; _position: absolute
+}
+.shanghai-ip A {
+	POSITION: relative; MARGIN: 25px 8px 8px; PADDING-LEFT: 110px; WIDTH: 136px; DISPLAY: inline-block; HEIGHT: 140px
+}
+.shanghai-ip A:hover {
+	TEXT-DECORATION: none
+}
+.shanghai-ip IMG {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.shanghai-ip STRONG {
+	LINE-HEIGHT: 20px; WIDTH: 136px; DISPLAY: block; HEIGHT: 24px; OVERFLOW: hidden
+}
+.shanghai-ip SPAN.ship-info {
+	LINE-HEIGHT: 20px; WIDTH: 136px; DISPLAY: block; HEIGHT: 80px; OVERFLOW: hidden
+}
+.shanghai-ip A SPAN {
+	COLOR: #324f64
+}
+.shanghai-ip A:visited SPAN {
+	COLOR: #324f64
+}
+.shanghai-ip A:hover SPAN {
+	COLOR: #0657b2
+}
+.shanghai-ip SPAN.ship-more {
+	POSITION: absolute; PADDING-LEFT: 20px; BOTTOM: 5px; BACKGROUND: url(../../../forum/default/images/ship_bg.gif) no-repeat 0px -181px; RIGHT: 5px
+}
+#ship-close {
+	POSITION: absolute; WIDTH: 15px; DISPLAY: block; HEIGHT: 15px; TOP: 6px; CURSOR: pointer; RIGHT: 5px
+}
+BODY {
+	BACKGROUND-COLOR: #edeff0; FONT-FAMILY: "Microsoft Yahei","΢���ź�",Tahoma,Arial,Helvetica,STHeiti; FONT-SIZE: 12px; _font-family: Tahoma,Arial,Helvetica,STHeiti
+}
+.slide-player {
+	POSITION: relative; OVERFLOW: hidden
+}
+.slide-player .slide-item {
+	POSITION: absolute; TOP: 0px; LEFT: 0px
+}
+.slide-player .slide-item A {
+	COLOR: #fff
+}
+.slide-player .slide-item A:visited {
+	COLOR: #fff
+}
+.slide-player .slide-item A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.slide-player .slide-item SPAN {
+	POSITION: absolute; FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#66000000',endColorstr='#66000000'); LINE-HEIGHT: 21px; TEXT-INDENT: 5px; WIDTH: 100%; BOTTOM: 0px; DISPLAY: block; HEIGHT: 21px; LEFT: 0px
+}
+:unknown .slide-player .slide-item SPAN {
+	FILTER: progid:DXImageTransform.Microsoft.gradient(enabled='true',startColorstr='#00000000',endColorstr='#00000000')
+}
+.slide-player .slide-page {
+	Z-INDEX: 3; POSITION: absolute; BOTTOM: 3px; RIGHT: 0px
+}
+.slide-player .slide-page A {
+	TEXT-ALIGN: center; WIDTH: 15px; FONT: 700 12px/15px Simsun; BACKGROUND: #fff; FLOAT: left; HEIGHT: 14px; OVERFLOW: hidden; MARGIN-RIGHT: 3px
+}
+.slide-player .slide-page A:visited {
+	TEXT-ALIGN: center; WIDTH: 15px; FONT: 700 12px/15px Simsun; BACKGROUND: #fff; FLOAT: left; HEIGHT: 14px; OVERFLOW: hidden; MARGIN-RIGHT: 3px
+}
+.slide-player .slide-page A.trigger {
+	BACKGROUND: #8ca226; COLOR: #fff !important; TEXT-DECORATION: none
+}
+.slide-player .slide-page A {
+	WIDTH: 11px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; MARGIN-RIGHT: 5px; PADDING-TOP: 11px; border-radius: 6px; box-shadow: inset 1px 1px 2px rgba(0,0,0,.4)
+}
+.slide-player .slide-page A:visited {
+	WIDTH: 11px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 0px; OVERFLOW: hidden; MARGIN-RIGHT: 5px; PADDING-TOP: 11px; border-radius: 6px; box-shadow: inset 1px 1px 2px rgba(0,0,0,.4)
+}
+.slide-player .slide-page A:hover {
+	BACKGROUND: #8ca226
+}
+.slide-player .slide-page A.trigger {
+	BACKGROUND: #8ca226
+}
+.slide-player .slide-page A.trigger:visited {
+	BACKGROUND: #8ca226
+}
+#wrap {
+	MIN-WIDTH: 980px; ZOOM: 1
+}
+.head {
+	MARGIN-BOTTOM: 20px
+}
+.head-hd {
+	Z-INDEX: 10; POSITION: relative; PADDING-BOTTOM: 20px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.head-bd {
+	POSITION: relative; OVERFLOW: hidden; _zoom: 1
+}
+.festival-nav {
+	POSITION: absolute; WIDTH: 980px; HEIGHT: 100px; TOP: 0px; LEFT: 0px
+}
+#logo {
+	POSITION: relative; WIDTH: 300px
+}
+#logo A {
+	WIDTH: 315px; DISPLAY: block; HEIGHT: 60px; CURSOR: pointer
+}
+#logo A IMG {
+	_display: none
+}
+.sites {
+	POSITION: absolute; TOP: 55px; LEFT: 135px
+}
+.sites-hd {
+	COLOR: #999
+}
+.sites-bd {
+	BORDER-BOTTOM: #b4a697 1px solid; POSITION: absolute; BORDER-LEFT: #b4a697 1px solid; PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; WIDTH: 240px; PADDING-RIGHT: 10px; DISPLAY: none; BACKGROUND: #f3f3f3; BORDER-TOP: #b4a697 1px solid; TOP: 0px; BORDER-RIGHT: #b4a697 1px solid; PADDING-TOP: 0px; LEFT: 0px; border-radius: 5px; box-shadow: 0 0 4px rgba(0,0,0,0.7)
+}
+.sites-bd DT {
+	COLOR: #000; FONT-WEIGHT: 700; PADDING-TOP: 5px
+}
+.sites-bd DD {
+	MARGIN-BOTTOM: 5px; OVERFLOW: hidden; _zoom: 1
+}
+.sites-bd A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FLOAT: left; COLOR: #666; WORD-BREAK: keep-all; MARGIN-RIGHT: 4px; PADDING-TOP: 0px; _zoom: 1
+}
+.sites-bd A:hover {
+	BACKGROUND-COLOR: #8ca226; COLOR: #fff; TEXT-DECORATION: none
+}
+.hover .sites-bd {
+	DISPLAY: block
+}
+.menu {
+	LINE-HEIGHT: 40px; HEIGHT: 40px
+}
+.menu STRONG {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; FONT: 400 20px/40px "Microsoft Yahei",Simsun,Arial; FLOAT: left; COLOR: #334f67; MARGIN-RIGHT: 10px; PADDING-TOP: 0px
+}
+.menu A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; FONT: 400 20px/40px "Microsoft Yahei",Simsun,Arial; FLOAT: left; COLOR: #334f67; MARGIN-RIGHT: 10px; PADDING-TOP: 0px
+}
+.menu A:visited {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; FONT: 400 20px/40px "Microsoft Yahei",Simsun,Arial; FLOAT: left; COLOR: #334f67; MARGIN-RIGHT: 10px; PADDING-TOP: 0px
+}
+.menu STRONG {
+	BACKGROUND: #9eb624; COLOR: #fff; border-top-left-radius: 5px
+}
+.menu A:hover {
+	BACKGROUND: #9eb624; COLOR: #fff; border-top-left-radius: 5px
+}
+.menu A:hover {
+	COLOR: #fff; TEXT-DECORATION: none; border-top-left-radius: 0
+}
+.floor {
+	PADDING-BOTTOM: 6px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff; OVERFLOW: hidden; PADDING-TOP: 6px; _zoom: 1; border-bottom-left-radius: 5px; border-bottom-right-radius: 5px
+}
+.floor H2 {
+	BORDER-LEFT: #e8e8e8 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; WIDTH: 110px; PADDING-RIGHT: 5px; FLOAT: left; MARGIN-LEFT: -1px; PADDING-TOP: 0px
+}
+.floor A {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; FONT: 400 14px/20px Simsun,Arial; HEIGHT: 21px; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.floor A:visited {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; FONT: 400 14px/20px Simsun,Arial; HEIGHT: 21px; COLOR: #000; OVERFLOW: hidden; PADDING-TOP: 0px
+}
+.floor A:hover {
+	BACKGROUND: #8ca226; COLOR: #fff; TEXT-DECORATION: none; border-radius: 15px; box-shadow: 2px 2px 5px rgba(0,0,0,0.2) inset
+}
+.search {
+	POSITION: absolute; LINE-HEIGHT: 26px; WIDTH: 246px; BACKGROUND: #fff; TOP: 6px; RIGHT: 6px; border-radius: 3px; box-shadow: 0 2px 4px rgba(0,0,0,0.3) inset
+}
+.search-key {
+	BORDER-BOTTOM: #d9d9d9 1px solid; BORDER-LEFT: #d9d9d9 1px solid; PADDING-BOTTOM: 3px; LINE-HEIGHT: 20px; PADDING-LEFT: 5px; WIDTH: 150px; PADDING-RIGHT: 5px; BACKGROUND: none transparent scroll repeat 0% 0%; FLOAT: left; HEIGHT: 20px; BORDER-TOP: #d9d9d9 1px solid; BORDER-RIGHT: #d9d9d9 0px solid; PADDING-TOP: 3px
+}
+.search-type {
+	POSITION: relative; BORDER-LEFT: #cfcfcf 1px solid; TEXT-INDENT: 5px; WIDTH: 45px; FLOAT: left; COLOR: #999
+}
+.search-type DT {
+	BORDER-BOTTOM: #d9d9d9 1px solid; POSITION: relative; HEIGHT: 26px; BORDER-TOP: #d9d9d9 1px solid; CURSOR: pointer
+}
+.select DD {
+	BORDER-BOTTOM: #cfcfcf 1px solid; POSITION: absolute; BORDER-LEFT: #cfcfcf 1px solid; WIDTH: 44px !important; DISPLAY: none; BACKGROUND: #fff; BORDER-TOP: #cfcfcf 0px; TOP: 25px; BORDER-RIGHT: #cfcfcf 1px solid; LEFT: -1px
+}
+.select DD A {
+	LINE-HEIGHT: 22px; DISPLAY: block; COLOR: #979797
+}
+.select DD A:visited {
+	LINE-HEIGHT: 22px; DISPLAY: block; COLOR: #979797
+}
+.select DD A:hover {
+	BACKGROUND: #9eb624; COLOR: #fff; TEXT-DECORATION: none
+}
+.corner {
+	BORDER-BOTTOM: #969696 0px solid; POSITION: absolute; BORDER-LEFT: #fff 4px solid; WIDTH: 0px; HEIGHT: 0px; OVERFLOW: hidden; BORDER-TOP: #969696 5px solid; TOP: 12px; RIGHT: 4px; BORDER-RIGHT: #fff 4px solid
+}
+.search-btn {
+	BORDER-BOTTOM: #d9d9d9 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #d9d9d9 1px solid; LINE-HEIGHT: 26px; WIDTH: 37px; BACKGROUND: #e7e7e7; FLOAT: left; COLOR: #000; BORDER-TOP: #d9d9d9 1px solid; BORDER-RIGHT: #d9d9d9 1px solid; border-top-right-radius: 2px; border-bottom-right-radius: 2px
+}
+.search-btn:hover {
+	COLOR: #000; TEXT-DECORATION: none
+}
+.box {
+	POSITION: relative; PADDING-BOTTOM: 20px; PADDING-LEFT: 20px; PADDING-RIGHT: 0px; ZOOM: 1; MARGIN-BOTTOM: 20px; BACKGROUND: #fff; PADDING-TOP: 20px; border-radius: 5px; box-shadow: 0 0 4px rgba(0,0,0,0.2)
+}
+.box .box-ad {
+	POSITION: absolute; HEIGHT: 60px; OVERFLOW: hidden; TOP: 0px; RIGHT: 0px
+}
+.box-hd {
+	HEIGHT: 30px
+}
+.box-bd {
+	POSITION: relative; ZOOM: 1
+}
+.box-hd H3 {
+	FONT: 700 26px/28px "Microsoft Yahei","SimHei"; FLOAT: left; LETTER-SPACING: 4px; COLOR: #eaa400; MARGIN-RIGHT: 20px
+}
+.box-hd SPAN {
+	COLOR: #8ca226; CURSOR: pointer; FONT-WEIGHT: 400
+}
+.box-nav {
+	PADDING-TOP: 8px
+}
+.box-nav A {
+	FONT: 400 14px/16px "Microsoft Yahei"; COLOR: #eaa400; MARGIN-RIGHT: 5px
+}
+.box-nav A:visited {
+	FONT: 400 14px/16px "Microsoft Yahei"; COLOR: #eaa400; MARGIN-RIGHT: 5px
+}
+.box-nav A:hover {
+	COLOR: #eaa400
+}
+.bdb-d {
+	BORDER-BOTTOM: #ccc 1px dashed; MARGIN-BOTTOM: 10px
+}
+.mr20 {
+	MARGIN-RIGHT: 20px
+}
+.mb20 {
+	MARGIN-BOTTOM: 20px
+}
+.w300 {
+	WIDTH: 300px
+}
+.w390 {
+	WIDTH: 390px
+}
+.h260 {
+	HEIGHT: 260px; OVERFLOW: hidden
+}
+.h350 {
+	HEIGHT: 350px; OVERFLOW: hidden
+}
+.btn {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: inline-block; FONT: 700 14px "microsoft yahei"; BACKGROUND: #7f9c14; COLOR: #fff; PADDING-TOP: 5px; border-radius: 4px; box-shadow: 1px 1px 3px rgba(0,0,0,.15)
+}
+.btn:visited {
+	COLOR: #fff
+}
+.btn:hover {
+	COLOR: #fff
+}
+.btn:hover {
+	BACKGROUND: #a8b748; TEXT-DECORATION: none
+}
+.btn1 {
+	BACKGROUND: #f18b07
+}
+.btn1:hover {
+	BACKGROUND: #f2b215
+}
+.text-list {
+	LINE-HEIGHT: 30px; FONT-SIZE: 14px; VERTICAL-ALIGN: middle; OVERFLOW: hidden
+}
+.text-list LI {
+	HEIGHT: 29px; OVERFLOW: hidden
+}
+.headline A {
+	WIDTH: 100%; DISPLAY: block; MARGIN-BOTTOM: 10px
+}
+.headline H2 {
+	TEXT-ALIGN: center; WIDTH: auto; FONT: 400 22px/26px "microsoft yahei","SimHei"; HEIGHT: 30px; COLOR: #000; OVERFLOW: hidden
+}
+.headline A:hover H2 {
+	COLOR: #0657b2
+}
+.headline P {
+	LINE-HEIGHT: 21px; HEIGHT: 42px; OVERFLOW: hidden
+}
+.hot-list {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: #d7d7d7 1px dashed; PADDING-TOP: 5px
+}
+.hot-list STRONG {
+	FLOAT: left; FONT-WEIGHT: 400
+}
+.hot-list EM {
+	FLOAT: left
+}
+.hot-list SPAN {
+	FLOAT: right; COLOR: #999; FONT-SIZE: 12px
+}
+.hot-main {
+	WIDTH: 710px; FLOAT: left; OVERFLOW: hidden; _zoom: 1
+}
+.hot-main .hot-list {
+	HEIGHT: 270px; OVERFLOW: hidden
+}
+.stand-main .hot-list {
+	HEIGHT: 174px; OVERFLOW: hidden
+}
+.stand-main .hot-list-type9 {
+	HEIGHT: 261px
+}
+.stand-main .hot-list-type9 LI {
+	HEIGHT: 30px
+}
+.cnt-main {
+	WIDTH: 390px; FLOAT: right
+}
+.cnt-sub {
+	POSITION: relative; WIDTH: 300px; FLOAT: left
+}
+.cnt-sub .slide-wrap {
+	MARGIN-BOTTOM: 5px
+}
+.cnt-sub .slide-player {
+	WIDTH: 300px; HEIGHT: 220px
+}
+.cnt-sub .slide-player SPAN {
+	FONT: 20px/40px "microsoft yahei"; HEIGHT: 50px
+}
+.cnt-sub .slide-player .slide-page {
+	BOTTOM: 5px
+}
+.cnt-sub .ad-120x30 {
+	POSITION: absolute; TOP: 224px; RIGHT: 0px
+}
+.sub-box .sub-box-hd {
+	PADDING-BOTTOM: 5px
+}
+.city-activity .sub-box-hd {
+	PADDING-BOTTOM: 0px
+}
+.sub-box .sub-box-hd H3 {
+	TEXT-INDENT: 10px; FONT: 20px "microsoft yahei"; COLOR: #819c1b
+}
+.cnt-sub .sub-box .sub-box-hd H3 {
+	TEXT-INDENT: 0px
+}
+.life-guide-type {
+	FONT: 700 16px "microsoft yahei"; OVERFLOW: hidden; _zoom: 1
+}
+.life-guide-type .life-guide-type-item {
+	BORDER-BOTTOM: #e2e2e2 1px solid; TEXT-ALIGN: center; BORDER-LEFT: #e2e2e2 1px solid; PADDING-BOTTOM: 3px; MARGIN: 0px 10px 10px 0px; PADDING-LEFT: 0px; WIDTH: 88px; PADDING-RIGHT: 0px; DISPLAY: inline-block; BACKGROUND: #f0f0f0; FLOAT: left; COLOR: #333; OVERFLOW: hidden; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid; PADDING-TOP: 3px; border-radius: 5px
+}
+.life-guide-type .life-guide-type-item:visited {
+	COLOR: #333
+}
+.life-guide-type .life-guide-type-item:hover {
+	BORDER-BOTTOM-COLOR: #d2df9e; BORDER-TOP-COLOR: #d2df9e; BACKGROUND: #e7f0cf; COLOR: #8ca226; BORDER-RIGHT-COLOR: #d2df9e; BORDER-LEFT-COLOR: #d2df9e; TEXT-DECORATION: none
+}
+.life-guide UL LI {
+	LINE-HEIGHT: 26px; PADDING-LEFT: 10px; HEIGHT: 24px; OVERFLOW: hidden
+}
+.life-guide-type7 UL LI {
+	HEIGHT: 22px; _height: 24px
+}
+.life-guide UL LI SPAN {
+	TEXT-ALIGN: center; MARGIN: 4px 5px 0px 0px; WIDTH: 34px; DISPLAY: inline-block; FONT: 700 12px/18px "����"; BACKGROUND: #eaa400; HEIGHT: 18px; COLOR: #fff; border-radius: 5px
+}
+.life-guide .sub-box-main H3 {
+	POSITION: relative; TEXT-ALIGN: center; LINE-HEIGHT: 24px; WIDTH: 100px; BACKGROUND: #e9e9e9; HEIGHT: 24px; COLOR: #000; CURSOR: pointer
+}
+.life-guide .sub-box-main H3.active-left-btn {
+	FLOAT: left; border-top-left-radius: 8px; border-bottom-left-radius: 8px
+}
+.life-guide .sub-box-main H3.active-right-btn {
+	FLOAT: left; border-top-right-radius: 8px; border-bottom-right-radius: 8px
+}
+.life-guide .sub-box-main H3.hover {
+	BACKGROUND: #8ca226; COLOR: #fff
+}
+.life-guide .sub-box-main H3 SPAN {
+	POSITION: absolute; BOTTOM: -7px; DISPLAY: none; FONT: 700 14px/16px "����"; COLOR: #8ca226; LEFT: 46px
+}
+.life-guide .sub-box-main H3.hover SPAN {
+	DISPLAY: block
+}
+.life-guide .life-guide-title {
+	MARGIN: 5px 0px; PADDING-LEFT: 10px
+}
+.life-guide .sub-box-hd {
+	PADDING-BOTTOM: 0px
+}
+.stand-side-adv {
+	PADDING-LEFT: 10px
+}
+.city-left-guild LI {
+	POSITION: relative; WIDTH: 290px; FONT: 400 14px/24px "microsoft yahei"; HEIGHT: 24px; OVERFLOW: hidden
+}
+.city-img-guild LI {
+	POSITION: relative; WIDTH: 290px; FONT: 400 14px/24px "microsoft yahei"; HEIGHT: 24px; OVERFLOW: hidden
+}
+.life-guide-round-type {
+	WIDTH: 300px; HEIGHT: 75px; OVERFLOW: hidden
+}
+.life-guide-round-type A {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.life-guide-round-type B {
+	BORDER-BOTTOM: #c7c7c7 1px solid; BORDER-LEFT: #c7c7c7 1px solid; WIDTH: 48px; DISPLAY: block; HEIGHT: 45px; OVERFLOW: hidden; BORDER-TOP: #c7c7c7 1px solid; BORDER-RIGHT: #c7c7c7 1px solid; border-radius: 8px; box-shadow: 2px 2px 4px rgba(0,0,0,0.5)
+}
+.life-guide-round-type SPAN {
+	TEXT-ALIGN: center; WIDTH: 48px; DISPLAY: block; FONT: 400 12px/24px "����"; HEIGHT: 24px; OVERFLOW: hidden
+}
+.life-img-guide .life-guide-round-type {
+	PADDING-LEFT: 14px; WIDTH: 225px; HEIGHT: auto
+}
+.life-img-guide .life-guide-round-type A {
+	MARGIN-RIGHT: 22px
+}
+.brand-img {
+	POSITION: relative; WIDTH: 630px; BACKGROUND: #eee; HEIGHT: 260px; MARGIN-RIGHT: 9px
+}
+.brand-img DIV {
+	POSITION: absolute; WIDTH: 150px; HEIGHT: 260px; TOP: 0px; LEFT: 0px
+}
+.brand-img DIV.brand-img-sec-left {
+	LEFT: 150px
+}
+.brand-img DIV.brand-img-right {
+	LEFT: 480px
+}
+.brand-img DIV.brand-img-spc-top {
+	WIDTH: 180px; HEIGHT: 130px; TOP: 0px; LEFT: 300px
+}
+.brand-img DIV.brand-img-spc-bottom {
+	WIDTH: 180px; HEIGHT: 130px; TOP: 130px; LEFT: 300px
+}
+.brand-list {
+	WIDTH: 300px; HEIGHT: 260px
+}
+.brand-list-img {
+	BORDER-BOTTOM: #dee1e2 0px solid; TEXT-ALIGN: center; BORDER-LEFT: #dee1e2 1px solid; WIDTH: 300px; HEIGHT: 260px; OVERFLOW: hidden; BORDER-TOP: #dee1e2 1px solid; BORDER-RIGHT: #dee1e2 0px solid
+}
+.brand-list-img UL {
+	WIDTH: 300px; DISPLAY: block; HEIGHT: 260px
+}
+.brand-list-img LI {
+	BORDER-BOTTOM: #dee1e2 1px solid; BORDER-LEFT: #dee1e2 0px solid; WIDTH: 99px; FLOAT: left; HEIGHT: 64px; OVERFLOW: hidden; BORDER-TOP: #dee1e2 0px solid; BORDER-RIGHT: #dee1e2 1px solid
+}
+.brand-list-img LI A {
+	WIDTH: 99px; DISPLAY: block; HEIGHT: 64px; FONT-SIZE: 56px; VERTICAL-ALIGN: middle
+}
+.brand-list-img LI IMG {
+	VERTICAL-ALIGN: middle
+}
+.brand-list-littletxt {
+	BORDER-BOTTOM: #d1d1d1 1px solid
+}
+.brand-list-largetxt {
+	BORDER-BOTTOM: #d1d1d1 1px solid
+}
+.brand-list-littletxt LI {
+	TEXT-INDENT: 8px; WIDTH: 100px; FONT: 400 12px/24px "microsoft yahei"; BACKGROUND: #edeff0; FLOAT: left; HEIGHT: 25px; OVERFLOW: hidden; BORDER-TOP: #d1d1d1 1px solid
+}
+.brand-list-largetxt LI {
+	TEXT-INDENT: 8px; WIDTH: 100px; FONT: 400 12px/24px "microsoft yahei"; BACKGROUND: #edeff0; FLOAT: left; HEIGHT: 25px; OVERFLOW: hidden; BORDER-TOP: #d1d1d1 1px solid
+}
+.brand-list-largetxt LI {
+	WIDTH: 150px; FONT: 400 14px/36px "microsoft yahei"; HEIGHT: 36px
+}
+.brand-list A {
+	COLOR: #4c4c4c
+}
+.brand-list A:visited {
+	COLOR: #4c4c4c
+}
+.brand-list A:hover {
+	COLOR: #b61313; TEXT-DECORATION: none
+}
+.hot-side {
+	POSITION: relative; BORDER-LEFT: #e2e2e2 1px solid; WIDTH: 229px; FLOAT: right
+}
+.hot-side-inner {
+	WIDTH: 100%
+}
+.login-box {
+	POSITION: relative; PADDING-BOTTOM: 0px; MARGIN: 0px 10px 0px 0px; PADDING-LEFT: 10px; WIDTH: 199px; PADDING-RIGHT: 10px; HEIGHT: 175px; PADDING-TOP: 0px
+}
+.login-loading {
+	TEXT-ALIGN: center; LINE-HEIGHT: 175px; HEIGHT: 175px
+}
+.login-loading SPAN {
+	PADDING-LEFT: 20px; BACKGROUND: url(images/btn_loading.gif) #fff no-repeat 0px 0px
+}
+.login UL {
+	PADDING-BOTTOM: 1px
+}
+.login LI {
+	MARGIN-BOTTOM: 10px
+}
+.login .login-btn {
+	OVERFLOW: hidden; _zoom: 1
+}
+.login .login-btn .btn {
+	TEXT-ALIGN: center; WIDTH: 70px; FLOAT: left
+}
+.login .login-btn .register-btn {
+	WIDTH: 80px; FLOAT: right
+}
+.login-txt .txt {
+	WIDTH: 192px
+}
+.login-txt LABEL {
+	POSITION: absolute; COLOR: #000; FONT-SIZE: 18px; TOP: 0px; LEFT: 13px
+}
+.login .login-keep {
+	LINE-HEIGHT: 18px; HEIGHT: 18px
+}
+.login-keep A {
+	FLOAT: right
+}
+.login-keep INPUT {
+	MARGIN: 2px 5px 0px 0px; WIDTH: 13px; FLOAT: left; HEIGHT: 13px; OVERFLOW: hidden
+}
+.login-others A {
+	PADDING-LEFT: 20px; DISPLAY: inline-block; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat 0px 0px; HEIGHT: 18px; COLOR: #333; MARGIN-LEFT: 5px; VERTICAL-ALIGN: middle; _zoom: 1; _display: inline
+}
+.login-others A:visited {
+	PADDING-LEFT: 20px; DISPLAY: inline-block; BACKGROUND: url(../../../forum/default/images/common.png) no-repeat 0px 0px; HEIGHT: 18px; COLOR: #333; MARGIN-LEFT: 5px; VERTICAL-ALIGN: middle; _zoom: 1; _display: inline
+}
+.login-others .wb {
+	BACKGROUND-POSITION: -20px 0px
+}
+.login-others .wb:visited {
+	BACKGROUND-POSITION: -20px 0px
+}
+.login-others .tb {
+	BACKGROUND-POSITION: -40px 0px
+}
+.login-others .tb:visited {
+	BACKGROUND-POSITION: -40px 0px
+}
+.login-others .qh {
+	BACKGROUND-POSITION: -60px 0px
+}
+.login-others .qh:visited {
+	BACKGROUND-POSITION: -60px 0px
+}
+.login-others A:hover {
+	COLOR: #db7c08
+}
+#upwd {
+	BACKGROUND: url(images/bg_index.png) #fff no-repeat -1px -201px
+}
+.focus#upwd {
+	BACKGROUND: #fff
+}
+.logined {
+	WIDTH: 200px
+}
+.logined-hd {
+	Z-INDEX: 5; POSITION: relative; PADDING-BOTTOM: 10px; LINE-HEIGHT: 20px; PADDING-LEFT: 65px; WIDTH: 145px; PADDING-RIGHT: 0px; HEIGHT: 60px; PADDING-TOP: 3px
+}
+.logined-hd .uname {
+	FLOAT: left; FONT-SIZE: 12px; FONT-WEIGHT: bold; MARGIN-RIGHT: 5px
+}
+.logined-hd .uname A {
+	COLOR: #000
+}
+.logined-hd .uname A:visited {
+	COLOR: #000
+}
+.logined-hd .uname A:hover {
+	COLOR: #db7c08
+}
+.logined-hd .avatar {
+	POSITION: absolute; WIDTH: 60px; HEIGHT: 60px; TOP: 0px; LEFT: 0px
+}
+.logined-hd .logout {
+	WIDTH: 36px; FLOAT: left
+}
+.uadrs {
+	WIDTH: 132px; FLOAT: left
+}
+.uopt {
+	CLEAR: both; OVERFLOW: hidden
+}
+.uopt A {
+	WHITE-SPACE: pre; FLOAT: left; MARGIN-RIGHT: 2px
+}
+.uopt A I {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; DISPLAY: inline-block; FONT: 400 12px/1 Arial; BACKGROUND: #819c1b; HEIGHT: 12px; COLOR: #fff; MARGIN-LEFT: 2px; PADDING-TOP: 0px; border-radius: 2px; _zoom: 1; _display: inline
+}
+.accounts {
+	POSITION: relative; FLOAT: left; HEIGHT: 20px; COLOR: #666; MARGIN-RIGHT: 5px
+}
+.accounts DT {
+	WIDTH: 66px; CURSOR: pointer
+}
+.accounts DT SPAN {
+	PADDING-RIGHT: 15px
+}
+.accounts DT .corner {
+	TOP: 8px; RIGHT: 14px
+}
+.accounts DD {
+	BORDER-BOTTOM: #cfcfcf 1px solid; BORDER-LEFT: #cfcfcf 1px solid; TEXT-INDENT: 5px; WIDTH: 80px !important; BORDER-TOP: #cfcfcf 1px solid; TOP: 20px; BORDER-RIGHT: #cfcfcf 1px solid; LEFT: 0px
+}
+.accounts DD A {
+	HEIGHT: 22px; OVERFLOW: hidden
+}
+.logined-bd {
+	PADDING-TOP: 5px
+}
+.udata A {
+	BORDER-BOTTOM: #e2e2e2 1px solid; POSITION: relative; TEXT-ALIGN: center; BORDER-LEFT: #e2e2e2 1px solid; PADDING-BOTTOM: 0px; MARGIN: 0px 9px 0px 0px; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; DISPLAY: inline-block; FLOAT: left; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid; PADDING-TOP: 2px; border-radius: 3px; _zoom: 1; _display: inline
+}
+.udata A:hover {
+	COLOR: #333; TEXT-DECORATION: none
+}
+.new-added {
+	Z-INDEX: 2; POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; FONT: 400 10px/14px Arial; BACKGROUND: #fc6d02; HEIGHT: 14px; COLOR: #fff; TOP: -5px; RIGHT: -10px; PADDING-TOP: 0px; border-radius: 7px
+}
+.udata A DIV {
+	LINE-HEIGHT: 20px; FONT-FAMILY: "Arial"; COLOR: #ecaf1f; FONT-SIZE: 18px
+}
+.uhome {
+	WIDTH: 150px
+}
+.uhome:visited {
+	WIDTH: 150px
+}
+.mg-more {
+	BORDER-BOTTOM: #e2e2e2 1px solid; POSITION: absolute; TEXT-ALIGN: center; BORDER-LEFT: #e2e2e2 1px solid; WIDTH: 40px; BACKGROUND: #f4f4f4; HEIGHT: 7px; OVERFLOW: hidden; BORDER-TOP: #e2e2e2 1px; TOP: 60px; BORDER-RIGHT: #e2e2e2 1px solid; PADDING-TOP: 3px; LEFT: 10px; border-bottom-left-radius: 2px; border-bottom-right-radius: 2px
+}
+.mg-list {
+	Z-INDEX: 4; BORDER-BOTTOM: #e2e2e2 1px solid; POSITION: absolute; BORDER-LEFT: #e2e2e2 1px solid; ZOOM: 1; DISPLAY: none; FONT: 400 12px/26px 'Simsun'; BACKGROUND: #fff; BORDER-TOP: #e2e2e2 1px solid; TOP: 60px; BORDER-RIGHT: #e2e2e2 1px solid; LEFT: 0px
+}
+.mg-list A {
+	TEXT-INDENT: 6px; WIDTH: 100px; DISPLAY: block; HEIGHT: 26px; OVERFLOW: hidden
+}
+.logined-hd .mg-list LI A:hover {
+	BACKGROUND: #edf4dc; COLOR: #333; TEXT-DECORATION: none
+}
+.arrow-down {
+	BORDER-BOTTOM: #f4f4f4 4px solid; BORDER-LEFT: #f4f4f4 4px solid; WIDTH: 0px; DISPLAY: block; HEIGHT: 0px; BORDER-TOP: #b4b4b4 4px solid; BORDER-RIGHT: #f4f4f4 4px solid
+}
+#log-suc {
+	Z-INDEX: 6; POSITION: absolute; TEXT-ALIGN: center; WIDTH: 128px; FONT: 400 14px/30px "Microsoft Yahei","SimHei"; BACKGROUND: #edac17; HEIGHT: 30px; COLOR: #fff; TOP: 52px; LEFT: 42px; border-radius: 5px
+}
+.text-img-list A {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; OVERFLOW: hidden; PADDING-TOP: 0px; _zoom: 1
+}
+.text-img-list A:visited {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; DISPLAY: block; OVERFLOW: hidden; PADDING-TOP: 0px; _zoom: 1
+}
+.cnt-sub .text-img-list A {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.cnt-sub .text-img-list A:visited {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.same-city-active .text-img-list A {
+	PADDING-BOTTOM: 13px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.same-city-active .text-img-list A:visited {
+	PADDING-BOTTOM: 13px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 0px
+}
+.text-img-list A:hover {
+	BACKGROUND-COLOR: #f2fafd; COLOR: #0657b2; TEXT-DECORATION: underline
+}
+.text-img-list .text-img {
+	MARGIN: 5px 8px 0px 0px; WIDTH: 80px; FLOAT: left; HEIGHT: 80px
+}
+.community-people .text-img {
+	MARGIN: 5px 8px 0px 0px; WIDTH: 60px; FLOAT: left; HEIGHT: 60px
+}
+.same-city-active .text-img {
+	WIDTH: 60px; HEIGHT: 60px
+}
+.text-img-list .text-desc {
+	OVERFLOW: hidden; _zoom: 1
+}
+.community-people .text-img {
+	OVERFLOW: hidden; _zoom: 1
+}
+.text-img-list .desc-title {
+	FONT: 18px/20px "microsoft yahei"; MARGIN-BOTTOM: 5px; HEIGHT: 22px; COLOR: #333; OVERFLOW: hidden
+}
+.text-img-list A:hover .desc-title {
+	COLOR: #0657b2; TEXT-DECORATION: underline
+}
+.text-img-list A:hover .desc-detail {
+	COLOR: #0657b2; TEXT-DECORATION: underline
+}
+.community-people .desc-title {
+	FONT: 14px "microsoft yahei"; MARGIN-BOTTOM: 0px; HEIGHT: 22px; COLOR: #333; OVERFLOW: hidden
+}
+.same-city-active .desc-title {
+	FONT: 14px "microsoft yahei"; COLOR: #eaa400
+}
+.text-img-list .desc-title EM {
+	FONT-SIZE: 18px
+}
+.text-img-list .desc-detail {
+	HEIGHT: 54px; COLOR: #999; OVERFLOW: hidden; _zoom: 1
+}
+.community-people .desc-detail {
+	HEIGHT: 18px; COLOR: #999; FONT-SIZE: 12px; OVERFLOW: hidden
+}
+.same-city-active .desc-detail {
+	HEIGHT: 36px; COLOR: #666; FONT-SIZE: 12px
+}
+.community-people .community-add {
+	OVERFLOW: hidden; _zoom: 1
+}
+.community-people .community-add A {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 20px; MARGIN-TOP: 5px; PADDING-LEFT: 10px; WIDTH: 65px; PADDING-RIGHT: 5px; DISPLAY: block; BACKGROUND: #868686; HEIGHT: 20px; COLOR: #fff; PADDING-TOP: 0px; border-radius: 9px
+}
+.community-people .community-add A:hover {
+	TEXT-DECORATION: none
+}
+.community-people .community-add A SPAN {
+	POSITION: absolute; FONT: 700 16px/20px "microsoft yahei"; TOP: 0px; MARGIN-RIGHT: 5px; LEFT: 7px
+}
+.community-people .sub-box-main LI {
+	PADDING-LEFT: 10px; HEIGHT: 75px
+}
+.community-people .sub-box-main LI.hover {
+	BACKGROUND: #f2fafd
+}
+.community-people .text-desc {
+	WIDTH: 150px; FLOAT: right
+}
+.community-people DL {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 0px; HEIGHT: 70px; PADDING-TOP: 0px
+}
+.community-people DT A:hover P {
+	COLOR: #0657b2
+}
+.community-people DL.hover {
+	BACKGROUND-COLOR: #f2fafd
+}
+.colorful LI {
+	POSITION: relative; MARGIN: 0px 10px 0px 0px; WIDTH: 180px; FONT: 400 16px/16px "Microsoft Yahei"; FLOAT: left; HEIGHT: 180px; OVERFLOW: hidden
+}
+.colorful LI IMG {
+	WIDTH: 180px; HEIGHT: 180px
+}
+.colorful .photo-big {
+	WIDTH: 260px; HEIGHT: 340px
+}
+.colorful .photo-big IMG {
+	WIDTH: 260px; HEIGHT: 340px
+}
+.colorful SPAN {
+	POSITION: absolute; LINE-HEIGHT: 25px; TEXT-INDENT: 5px; WIDTH: 180px; BOTTOM: 0px; HEIGHT: 25px; OVERFLOW: hidden; LEFT: 0px
+}
+.colorful EM {
+	POSITION: absolute; LINE-HEIGHT: 25px; TEXT-INDENT: 5px; WIDTH: 180px; BOTTOM: 0px; HEIGHT: 25px; OVERFLOW: hidden; LEFT: 0px
+}
+.coin-pp EM {
+	POSITION: absolute; LINE-HEIGHT: 25px; TEXT-INDENT: 5px; WIDTH: 180px; BOTTOM: 0px; HEIGHT: 25px; OVERFLOW: hidden; LEFT: 0px
+}
+.colorful SPAN {
+	FILTER: alpha(opacity=40); BACKGROUND-COLOR: #000; opacity: .4
+}
+.coin-pp SPAN {
+	FILTER: alpha(opacity=40); BACKGROUND-COLOR: #000; opacity: .4
+}
+.colorful A {
+	COLOR: #fff
+}
+.colorful A:visited {
+	COLOR: #fff
+}
+.coin-pp {
+	COLOR: #fff
+}
+.coin-pp:visited {
+	COLOR: #fff
+}
+.coin-pp IMG {
+	WIDTH: 200px; HEIGHT: 150px
+}
+.colorful A:hover SPAN {
+	BACKGROUND-COLOR: #8ca226
+}
+.coin-pp:hover SPAN {
+	BACKGROUND-COLOR: #8ca226
+}
+.colorful A:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.coin-pp:hover {
+	COLOR: #fff; TEXT-DECORATION: none
+}
+.stand-box-show .colorful {
+	HEIGHT: 340px; OVERFLOW: hidden
+}
+.stand-box-show LI {
+	WIDTH: 160px; MARGIN-BOTTOM: 20px; HEIGHT: 160px
+}
+.stand-box-show LI.photo-big {
+	MARGIN-BOTTOM: 0px
+}
+.stand-box-show .colorful-left {
+	WIDTH: 340px
+}
+.stand-box-show .colorful-right {
+	WIDTH: 620px
+}
+.stand-box-show LI IMG {
+	WIDTH: 160px; HEIGHT: 160px
+}
+.stand-box-show SPAN {
+	WIDTH: 160px
+}
+.stand-box-show EM {
+	WIDTH: 160px
+}
+.stand-box-show EM {
+	WIDTH: 160px
+}
+.photo-big SPAN {
+	LINE-HEIGHT: 42px; WIDTH: 260px; HEIGHT: 42px; FONT-SIZE: 20px
+}
+.photo-big EM {
+	LINE-HEIGHT: 42px; WIDTH: 260px; HEIGHT: 42px; FONT-SIZE: 20px
+}
+.links {
+	BORDER-BOTTOM: #ddd 1px solid; BORDER-LEFT: #ddd 1px solid; MARGIN: 0px auto 10px; WIDTH: 980px; FONT-SIZE: 14px; OVERFLOW: hidden; BORDER-TOP: #ddd 1px solid; BORDER-RIGHT: #ddd 1px solid; box-shadow: 0 0 3px #b8b8b8
+}
+.links DL {
+	WIDTH: 980px; FLOAT: left
+}
+.links DT {
+	WIDTH: 80px; FLOAT: left; OVERFLOW: hidden
+}
+.links DT SPAN {
+	MARGIN: 10px; WIDTH: 66px; DISPLAY: block; BACKGROUND: url(images/bg_index.png) no-repeat 0px 0px; HEIGHT: 0px; OVERFLOW: hidden; PADDING-TOP: 44px
+}
+.links DD {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 10px; _zoom: 1
+}
+.links DD A {
+	WHITE-SPACE: pre; FLOAT: left; MARGIN-RIGHT: 15px
+}
+.chain {
+	BORDER-BOTTOM: #d9d9d9 1px solid; BACKGROUND: #f3f3f3; border-radius: 5px 5px 0 0
+}
+.friends {
+	BACKGROUND: #fff; BORDER-TOP: #ececec 1px solid; border-radius: 0 0 5px 5px
+}
+.friends DT SPAN {
+	WIDTH: 68px; BACKGROUND-POSITION: 0px -60px; PADDING-TOP: 20px
+}
+.links EM A {
+	COLOR: #db7c08
+}
+.links EM A:visited {
+	COLOR: #db7c08
+}
+.links EM A:hover {
+	COLOR: #0657b2
+}
+.city-noman-info {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 20px
+}
+.welcometo-city {
+	PADDING-LEFT: 260px; BACKGROUND: url(images/welcome_bg.jpg) no-repeat 5px 3px; HEIGHT: 200px
+}
+.welcometo-city H3 {
+	LINE-HEIGHT: 52px; MARGIN-BOTTOM: 10px; FONT-SIZE: 32px; FONT-WEIGHT: 400
+}
+.welcometo-city H3 SPAN {
+	COLOR: #f1a400
+}
+.welcometo-city P {
+	LINE-HEIGHT: 32px; FONT-SIZE: 18px; FONT-WEIGHT: 500
+}
+.club-list {
+	WIDTH: 930px; ZOOM: 1; OVERFLOW: hidden
+}
+.club-list .club {
+	BORDER-BOTTOM: #fff 1px solid; BORDER-LEFT: #fff 1px solid; PADDING-BOTTOM: 10px; PADDING-LEFT: 20px; WIDTH: 288px; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 93px; BORDER-TOP: #fff 1px solid; BORDER-RIGHT: #fff 1px solid; PADDING-TOP: 10px; _display: inline
+}
+.board-logo {
+	MARGIN: 5px 10px 0px 0px; WIDTH: 64px; BACKGROUND: url(images/board_icon.png); FLOAT: left; HEIGHT: 64px; border-radius: 10px; box-shadow: 2px 2px 4px rgba(0,0,0,0.2)
+}
+.board-logo P {
+	WIDTH: 64px; HEIGHT: 64px
+}
+.board H2 {
+	WIDTH: 212px; FLOAT: right
+}
+.board H2 A {
+	FONT: 100 18px/20px "Microsoft Yahei","SimHei"; COLOR: #000
+}
+.board .todayPost {
+	FONT: 12px "Simsun"; COLOR: #999
+}
+.board .board-info {
+	LINE-HEIGHT: 18px; WIDTH: 200px; FLOAT: left; HEIGHT: 72px; OVERFLOW: hidden
+}
+.board H3 {
+	LINE-HEIGHT: 18px; WIDTH: 80px; FLOAT: left; HEIGHT: 18px; OVERFLOW: hidden; FONT-WEIGHT: 400; MARGIN-RIGHT: 10px
+}
+.club-list .club-hover {
+	BORDER-BOTTOM: #e2e2e2 1px solid; BORDER-LEFT: #e2e2e2 1px solid; BACKGROUND-COLOR: #f2fafd; BORDER-TOP: #e2e2e2 1px solid; BORDER-RIGHT: #e2e2e2 1px solid; border-radius: 5px
+}
+.box-hd A.city-index-btn {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 24px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; MARGIN-RIGHT: 20px; PADDING-TOP: 0px; border-radius: 12px
+}
+.box-hd A.city-index-btn {
+	BACKGROUND: #868686; COLOR: #fff
+}
+.box-hd A.city-index-btn:visited {
+	BACKGROUND: #868686; COLOR: #fff
+}
+.box-hd A.city-index-btn:hover {
+	BACKGROUND: #8ca226; COLOR: #fff; TEXT-DECORATION: none
+}
+.bb-tao {
+	WIDTH: 939px
+}
+.bb-tao-hd H4 {
+	FONT: 100 20px/24px "Microsoft Yahei","SimHei"; COLOR: #819c1b
+}
+.bb-tao-bd {
+	BORDER-BOTTOM: #dadada 1px solid; BORDER-LEFT: #dadada 1px solid; BACKGROUND: #dedede; BORDER-TOP: #dadada 1px solid; BORDER-RIGHT: #dadada 1px solid
+}
+.bb-tao-bd UL {
+	MARGIN-RIGHT: -1px
+}
+.bb-tao-bd LI {
+	WIDTH: 133px; DISPLAY: inline; FLOAT: left; HEIGHT: 197px; OVERFLOW: hidden; MARGIN-RIGHT: 1px
+}
+.bb-tao-bd IMG {
+	WIDTH: 133px; DISPLAY: block; FLOAT: left; HEIGHT: 197px
+}
+.support-scroll {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 20px; WIDTH: 300px; PADDING-RIGHT: 20px; PADDING-TOP: 0px
+}
+.support-news {
+	WIDTH: 400px
+}
+.support-account {
+	WIDTH: 225px; OVERFLOW: hidden
+}
+.support-account .login-box {
+	MARGIN-RIGHT: 0px
+}
+.support-account H3 {
+	TEXT-INDENT: 15px; FONT: 20px "microsoft yahei"; MARGIN-BOTTOM: 10px; COLOR: #819c1b
+}
+.support-mod {
+	BORDER-BOTTOM: #ddd 1px dashed; WIDTH: 945px; OVERFLOW: hidden
+}
+.support-mod DL {
+	POSITION: relative; PADDING-BOTTOM: 20px; MARGIN-TOP: 15px; PADDING-LEFT: 75px; WIDTH: 835px; PADDING-RIGHT: 0px; HEIGHT: 64px; PADDING-TOP: 0px
+}
+.support-mod DT {
+	WIDTH: 835px
+}
+.support-mod A {
+	FONT: 100 18px/24px "Microsoft Yahei","SimHei"
+}
+.support-mod DT IMG {
+	POSITION: absolute; TOP: 0px; LEFT: 0px; box-shadow: 1px 1px 2px #ccc
+}
+.support-mod DT P {
+	LINE-HEIGHT: 20px; HEIGHT: 40px; OVERFLOW: hidden
+}
+.support-mod DD {
+	WIDTH: 200px; FLOAT: left; HEIGHT: 70px
+}
+.support-mod .board-info {
+	WIDTH: 120px
+}
+.support-mod IMG {
+	border-radius: 5px; box-shadow: 1px 1px 2px #ccc
+}
+.support-child-mod {
+	MARGIN-BOTTOM: 10px; _margin-left: -10px
+}
+.support-child-mod LI {
+	BORDER-BOTTOM: #e9e9e9 1px solid; POSITION: relative; BORDER-LEFT: #e9e9e9 1px solid; PADDING-BOTTOM: 9px; MARGIN: 0px 7px 10px; PADDING-LEFT: 80px; WIDTH: 130px; PADDING-RIGHT: 9px; BACKGROUND: #fff; FLOAT: left; HEIGHT: 65px; BORDER-TOP: #e9e9e9 1px solid; CURSOR: pointer; BORDER-RIGHT: #e9e9e9 1px solid; PADDING-TOP: 9px; border-radius: 5px
+}
+.support-child-mod LI.hover {
+	BACKGROUND: #f3f3f3
+}
+.support-child-mod LI A {
+	FONT: 100 18px/24px "Microsoft Yahei","SimHei"
+}
+.support-child-mod LI IMG {
+	POSITION: absolute; TOP: 9px; LEFT: 9px; box-shadow: 1px 1px 2px #ccc
+}
+.support-child-mod LI SPAN {
+	COLOR: #333
+}
+.support-child-mod LI P.color6 {
+	LINE-HEIGHT: 20px; WIDTH: 130px; HEIGHT: 20px; OVERFLOW: hidden
+}
+.support-club {
+	MARGIN-TOP: 15px; WIDTH: 945px; OVERFLOW: hidden
+}
+.support-club LI {
+	POSITION: relative; PADDING-BOTTOM: 10px; PADDING-LEFT: 80px; WIDTH: 200px; PADDING-RIGHT: 10px; FLOAT: left; HEIGHT: 66px; MARGIN-RIGHT: 25px; PADDING-TOP: 10px; border-radius: 5px
+}
+.support-club A {
+	FONT: 100 18px/24px "Microsoft Yahei","SimHei"
+}
+.support-club LI IMG {
+	POSITION: absolute; TOP: 10px; LEFT: 10px; border-radius: 5px; box-shadow: 1px 1px 2px #ccc
+}
+.support-club .club-hover {
+	BACKGROUND: #f3f3f3
+}
+.support-club P.color6 {
+	LINE-HEIGHT: 20px; WIDTH: 200px; HEIGHT: 40px; OVERFLOW: hidden
+}
+#winlogin {
+	WIDTH: 450px
+}
+#winlogin .win-hd H3 {
+	PADDING-BOTTOM: 0px; TEXT-INDENT: 150px; PADDING-LEFT: 0px; WIDTH: 436px; PADDING-RIGHT: 0px; BACKGROUND: url(images/winbg.jpg) no-repeat; HEIGHT: 54px; FONT-SIZE: 20px; PADDING-TOP: 37px
+}
+#winlogin .win-btn {
+	PADDING-BOTTOM: 50px
+}
+#winlogin .win-mess {
+	BACKGROUND-COLOR: #fff
+}
+#winlogin .win-messshow {
+	PADDING-BOTTOM: 15px; MARGIN: 0px 15px; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; BORDER-TOP: #111 1px dotted; PADDING-TOP: 15px
+}
+.hr {
+	BORDER-BOTTOM: #e2e2e2 1px solid; POSITION: relative; LINE-HEIGHT: 12px; PADDING-LEFT: 100px; WIDTH: 830px; HEIGHT: 14px; COLOR: #c7c7c7
+}
+.hr H3 {
+	POSITION: absolute; PADDING-BOTTOM: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 10px; FONT: 400 20px/24px 'Microsoft yahei'; BACKGROUND: #fff; COLOR: #eaa400; TOP: -2px; PADDING-TOP: 0px; LEFT: 0px
+}
+.head-flow-adv {
+	Z-INDEX: 9; POSITION: absolute; WIDTH: 100px; HEIGHT: 100px; TOP: 0px; LEFT: 300px
+}
+.projection-ad .projection-ad-replay {
+	TOP: 5px
+}
+.marry-box {
+	BORDER-LEFT: #dee1e2 1px solid; MARGIN: 10px 0px 20px; WIDTH: 978px; BACKGROUND: url(images/marry-top-bg.png) #fff no-repeat; BORDER-RIGHT: #dee1e2 1px solid; PADDING-TOP: 10px
+}
+.make-friends {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 67px
+}
+.make-friends .arry-imglist {
+	BORDER-BOTTOM: #e6d7b8 1px dotted; PADDING-BOTTOM: 10px; PADDING-LEFT: 8px; WIDTH: 948px; PADDING-RIGHT: 0px; PADDING-TOP: 0px; _display: inline; _padding-left: 15px
+}
+.make-friends .arry-imglist A {
+	TEXT-ALIGN: center; WIDTH: 150px; DISPLAY: block; FLOAT: left; HEIGHT: 175px; OVERFLOW: hidden; MARGIN-RIGHT: 8px; _display: inline; _margin-right: 7px
+}
+.make-friends .arry-imglist A SPAN {
+	DISPLAY: block; PADDING-TOP: 5px
+}
+.make-friends H3 {
+	POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 133px; BACKGROUND: url(images/title-bg1.png) no-repeat; HEIGHT: 72px; TOP: 0px; LEFT: -8px; _left: -18px
+}
+.marry-more {
+	POSITION: absolute; WIDTH: auto; PADDING-RIGHT: 25px; BACKGROUND: url(images/more-icon.png) no-repeat right top; HEIGHT: auto; COLOR: #ff95bc; FONT-SIZE: 14px; TOP: 20px; RIGHT: 20px
+}
+.marry-more:visited {
+	POSITION: absolute; WIDTH: auto; PADDING-RIGHT: 25px; BACKGROUND: url(images/more-icon.png) no-repeat right top; HEIGHT: auto; COLOR: #ff95bc; FONT-SIZE: 14px; TOP: 20px; RIGHT: 20px
+}
+.make-friends .title-tail-bg {
+	POSITION: absolute; WIDTH: 24px; BACKGROUND: url(images/title-tail-bg.png) no-repeat; HEIGHT: 47px; TOP: 0px; RIGHT: -24px
+}
+.marry-area {
+	POSITION: relative; PADDING-BOTTOM: 20px; BACKGROUND: url(images/marry-bottom-bg.png) no-repeat left bottom
+}
+.marry-need {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 17px; PADDING-RIGHT: 0px; PADDING-TOP: 65px; _padding-left: 0
+}
+.marry-need A {
+	BACKGROUND-IMAGE: url(images/marry-areasprites.png); TEXT-INDENT: -9999px; WIDTH: 102px; DISPLAY: block; BACKGROUND-REPEAT: no-repeat; FLOAT: left; HEIGHT: 66px; MARGIN-LEFT: 15px
+}
+.marry-need A.marry-one {
+	BACKGROUND-POSITION: 0px 0px
+}
+.marry-need A.marry-two {
+	BACKGROUND-POSITION: 0px -66px
+}
+.marry-need A.marry-three {
+	BACKGROUND-POSITION: 0px -132px
+}
+.marry-need A.marry-four {
+	BACKGROUND-POSITION: 0px -198px
+}
+.marry-need A.marry-five {
+	BACKGROUND-POSITION: 0px -264px
+}
+.marry-need A.marry-six {
+	BACKGROUND-POSITION: 0px -330px
+}
+.marry-need A.marry-seven {
+	BACKGROUND-POSITION: 0px -396px
+}
+.marry-need A.marry-eight {
+	BACKGROUND-POSITION: 0px -462px
+}
+.marry-area H3 {
+	POSITION: absolute; TEXT-INDENT: -9999px; WIDTH: 133px; BACKGROUND: url(images/title-bg2.png) no-repeat; HEIGHT: 62px; TOP: -5px; LEFT: -10px
+}
+.marry-area .marry-more {
+	TOP: 20px
+}
+.marry-area .title-tail-bg {
+	POSITION: absolute; WIDTH: 27px; BACKGROUND: url(images/title-tail-bg2.png) no-repeat; HEIGHT: 48px; TOP: 79px; RIGHT: -27px
+}
+.marry-slidePlyer {
+	MARGIN-TOP: 4px; WIDTH: 232px; DISPLAY: inline; HEIGHT: 164px; MARGIN-LEFT: 4px; OVERFLOW: hidden
+}
+.marry-merchants {
+	PADDING-LEFT: 18px
+}
+.marry-merchants A {
+	DISPLAY: block; FLOAT: left
+}
+.marry-merchants A IMG {
+	BORDER-BOTTOM: #ebebeb 1px solid; BORDER-LEFT: #ebebeb 1px solid; MARGIN: 4px 0px 0px 4px; DISPLAY: block; BORDER-TOP: #ebebeb 1px solid; BORDER-RIGHT: #ebebeb 1px solid
+}
+.marry-merchants .marry-slidePlyer A IMG {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; MARGIN: 0px; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none
+}
+.marry-slidePlyer .slide-page A:hover {
+	BACKGROUND: #fd9cbf 0px 0px
+}
+.marry-slidePlyer .slide-page A.trigger {
+	BACKGROUND: #fd9cbf 0px 0px
+}
+.marry-slidePlyer .slide-page A.trigger:visited {
+	BACKGROUND: #fd9cbf 0px 0px
+}
+.marry-slidePlyer .slide-page A.trigger {
+	BACKGROUND: #fd9cbf 0px 0px; COLOR: #fff !important; TEXT-DECORATION: none
+}
