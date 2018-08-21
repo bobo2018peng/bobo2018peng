@@ -1,0 +1,345 @@
+.preHTML {
+	PADDING-BOTTOM: 0px; MARGIN: auto auto 10px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND: #fff; HEIGHT: auto; CLEAR: both; PADDING-TOP: 0px
+}
+.preSize_780 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 0px; WIDTH: 780px; PADDING-RIGHT: 0px; PADDING-TOP: 10px
+}
+.preSize_980 {
+	WIDTH: 980px
+}
+.layout_box {
+	POSITION: relative; WIDTH: 100%; MARGIN-BOTTOM: 10px
+}
+.layout_box_btn {
+	POSITION: absolute; TOP: -21px; RIGHT: 7px
+}
+.layout_m {
+	MARGIN: auto
+}
+.layout_m TD {
+	PADDING-RIGHT: 5px; VERTICAL-ALIGN: top
+}
+.cont_box {
+	POSITION: relative; WIDTH: 100%; CLEAR: both
+}
+.cont_m {
+	BORDER-RIGHT-WIDTH: 1px; MARGIN: auto; ZOOM: 1 !important; BACKGROUND: #fff; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; OVERFLOW: hidden; BORDER-LEFT-WIDTH: 1px
+}
+.cont_box .contSpace {
+	MIN-HEIGHT: 0px; BACKGROUND: none transparent scroll repeat 0% 0%; HEIGHT: 10px; OVERFLOW: hidden
+}
+.float_left {
+	WIDTH: auto; FLOAT: left
+}
+.clear_both {
+	CLEAR: both
+}
+.model_box {
+	POSITION: relative; ZOOM: 1 !important; OVERFLOW: hidden
+}
+.model_box P {
+	MARGIN: 0px
+}
+.model_chartTitle H4 {
+	POSITION: relative
+}
+.model_chartTitle P {
+	POSITION: relative
+}
+.preSize_780 .model_chartTitle {
+	MARGIN: auto; WIDTH: 770px; OVERFLOW: hidden
+}
+.model_text {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.model_photo_text {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+.mod_img {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.model_text H4 {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.model_text P {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.model_text EM {
+	BORDER-BOTTOM: #bbb 1px dotted; DISPLAY: block; MARGIN-BOTTOM: 5px
+}
+.model_text A.more {
+	MARGIN-TOP: 5px; FLOAT: right
+}
+.model_text .list_5 P {
+	PADDING-LEFT: 15px; BACKGROUND: url(images/mod_ico.png) no-repeat 0px 6px
+}
+.mod_nopad {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.model_photo_text .fl {
+	FLOAT: left; MARGIN-RIGHT: 10px
+}
+.model_photo_text .db {
+	DISPLAY: block
+}
+.mod_pt1 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.mod_pt2 {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+.model_photo_text H4 {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.mod_pt1 P {
+	PADDING-BOTTOM: 2px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 2px
+}
+.model_photo_text A.more {
+	MARGIN: 5px 0px 0px; FLOAT: right
+}
+.model_photo_text .list_5 P {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 15px; PADDING-RIGHT: 15px; BACKGROUND: url(images/mod_ico.png) no-repeat 0px 6px; FLOAT: left; PADDING-TOP: 0px
+}
+.model_box A.full-link {
+	MARGIN: 0px; DISPLAY: block; FLOAT: none; COLOR: #333
+}
+.model_box A.full-link:hover {
+	COLOR: #f60
+}
+.model_assist {
+	TEXT-ALIGN: center; DISPLAY: block; CLEAR: both; OVERFLOW: hidden
+}
+.model_assist_1 {
+	BACKGROUND: url(images/mod_ico.png) repeat-x 0px -45px; HEIGHT: 10px; OVERFLOW: hidden
+}
+.model_assist_2 {
+	BACKGROUND: url(images/mod_ico.png) repeat-x 0px -45px; HEIGHT: 10px; OVERFLOW: hidden
+}
+.model_assist_3 {
+	BACKGROUND: url(images/mod_ico.png) repeat-x 0px -45px; HEIGHT: 10px; OVERFLOW: hidden
+}
+.model_assist_4 {
+	BACKGROUND: url(images/mod_ico.png) repeat-x 0px -45px; HEIGHT: 10px; OVERFLOW: hidden
+}
+.model_assist_2 {
+	BACKGROUND: url(images/mod_ico.png) repeat-x 0px -64px
+}
+.model_assist_3 {
+	BACKGROUND: url(images/mod_ico.png) repeat-x 0px -85px
+}
+.model_assist_4 {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.model_assist_5 A {
+	MARGIN: 0px 10px
+}
+.model_assist_6 {
+	HEIGHT: 1px; CLEAR: both; FONT-SIZE: 1px; OVERFLOW: hidden
+}
+.fs_12 {
+	LINE-HEIGHT: 18px; FONT-SIZE: 12px
+}
+.fs_14 {
+	LINE-HEIGHT: 22px; FONT-SIZE: 14px
+}
+.fs_16 {
+	FONT: 700 16px "Î¢ÈíÑÅºÚ","ºÚÌå"
+}
+.fs_18 {
+	FONT: 700 18px "Î¢ÈíÑÅºÚ","ºÚÌå"
+}
+.fs_20 {
+	FONT: 700 20px "Î¢ÈíÑÅºÚ","ºÚÌå"
+}
+.fs_24 {
+	FONT: 700 24px "Î¢ÈíÑÅºÚ","ºÚÌå"
+}
+.fs_30 {
+	FONT: 700 30px "Î¢ÈíÑÅºÚ","ºÚÌå"
+}
+.fs_45 {
+	FONT: 700 45px "Î¢ÈíÑÅºÚ","ºÚÌå"
+}
+.c_fff {
+	COLOR: #fff
+}
+.c_c0c0c0 {
+	COLOR: #c0c0c0
+}
+.c_808080 {
+	COLOR: #808080
+}
+.c_000 {
+	COLOR: #000
+}
+.c_fc0 {
+	COLOR: #fc0
+}
+.c_0f0 {
+	COLOR: #0f0
+}
+.c_808000 {
+	COLOR: #808000
+}
+.c_008000 {
+	COLOR: #008000
+}
+.c_008080 {
+	COLOR: #008080
+}
+.c_0ff {
+	COLOR: #0ff
+}
+.c_00f {
+	COLOR: #00f
+}
+.c_000080 {
+	COLOR: #000080
+}
+.c_f0f {
+	COLOR: #f0f
+}
+.c_f00 {
+	COLOR: #f00
+}
+.c_800080 {
+	COLOR: #800080
+}
+.c_800 {
+	COLOR: #800
+}
+.c_link_fff A {
+	COLOR: #fff
+}
+.c_link_c0c0c0 A {
+	COLOR: #c0c0c0
+}
+.c_link_808080 A {
+	COLOR: #808080
+}
+.c_link_000 A {
+	COLOR: #000
+}
+.c_link_fc0 A {
+	COLOR: #fc0
+}
+.c_link_0f0 A {
+	COLOR: #0f0
+}
+.c_link_808000 A {
+	COLOR: #808000
+}
+.c_link_008000 A {
+	COLOR: #008000
+}
+.c_link_008080 A {
+	COLOR: #008080
+}
+.c_link_0ff A {
+	COLOR: #0ff
+}
+.c_link_00f A {
+	COLOR: #00f
+}
+.c_link_000080 A {
+	COLOR: #000080
+}
+.c_link_f0f A {
+	COLOR: #f0f
+}
+.c_link_f00 A {
+	COLOR: #f00
+}
+.c_link_800080 A {
+	COLOR: #800080
+}
+.c_link_800 A {
+	COLOR: #800
+}
+.ft_w {
+	FONT-WEIGHT: bold
+}
+.ft_i {
+	FONT-STYLE: italic
+}
+.ft_u {
+	TEXT-DECORATION: underline
+}
+.ft_in {
+	TEXT-INDENT: 2em
+}
+.ps_100_80 {
+	WIDTH: 100px; HEIGHT: 80px
+}
+.ps_120_160 {
+	WIDTH: 120px; HEIGHT: 160px
+}
+.ps_160_220 {
+	WIDTH: 160px; HEIGHT: 220px
+}
+.ps_80_80 {
+	WIDTH: 80px; HEIGHT: 80px
+}
+.ps_120_80 {
+	WIDTH: 120px; HEIGHT: 80px
+}
+.ps_80_120 {
+	WIDTH: 80px; HEIGHT: 120px
+}
+.ps_120_120 {
+	WIDTH: 120px; HEIGHT: 120px
+}
+.ps_160_100 {
+	WIDTH: 160px; HEIGHT: 100px
+}
+.ps_100_160 {
+	WIDTH: 100px; HEIGHT: 160px
+}
+.ps_160_160 {
+	WIDTH: 160px; HEIGHT: 160px
+}
+.ps_200_120 {
+	WIDTH: 200px; HEIGHT: 120px
+}
+.ps_120_200 {
+	WIDTH: 120px; HEIGHT: 200px
+}
+.ps_240_240 {
+	WIDTH: 240px; HEIGHT: 240px
+}
+.ps_240_140 {
+	WIDTH: 240px; HEIGHT: 140px
+}
+.ps_140_240 {
+	WIDTH: 140px; HEIGHT: 240px
+}
+.ps_320_320 {
+	WIDTH: 320px; HEIGHT: 320px
+}
+.ps_320_170 {
+	WIDTH: 320px; HEIGHT: 170px
+}
+.ps_170_320 {
+	WIDTH: 170px; HEIGHT: 320px
+}
+.ps_full {
+	WIDTH: 100%
+}
+.t_left {
+	TEXT-ALIGN: left
+}
+.t_center {
+	TEXT-ALIGN: center
+}
+.t_right {
+	TEXT-ALIGN: right
+}
+.cont_border {
+	BORDER-BOTTOM-STYLE: solid; BORDER-BOTTOM-COLOR: #c4c4c4; BORDER-RIGHT-STYLE: solid; BORDER-TOP-COLOR: #c4c4c4; BORDER-TOP-STYLE: solid; BORDER-RIGHT-COLOR: #c4c4c4; BORDER-LEFT-STYLE: solid; BORDER-LEFT-COLOR: #c4c4c4
+}
+.model_title {
+	PADDING-BOTTOM: 0px; LINE-HEIGHT: 28px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; BACKGROUND: url(images/title.png) repeat-x left top; HEIGHT: 28px; FONT-SIZE: 14px; PADDING-TOP: 0px
+}
+.model_title A {
+	FLOAT: right; FONT-WEIGHT: normal
+}

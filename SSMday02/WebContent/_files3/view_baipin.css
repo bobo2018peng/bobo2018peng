@@ -1,0 +1,1047 @@
+#baipin U {
+	COLOR: #0657b2; TEXT-DECORATION: underline
+}
+#baipin B {
+	COLOR: #fc6d02
+}
+#baipin STRONG {
+	COLOR: #fc6d02; FONT-WEIGHT: bold
+}
+#baipin EM {
+	FONT-STYLE: normal; COLOR: #fc6d02
+}
+#baipin {
+	WIDTH: 780px; FONT-FAMILY: "ËÎÌå"; OVERFLOW: hidden
+}
+#baipin UL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#baipin OL {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+#baipin .top {
+	WIDTH: 780px; FONT: 1px/1px Arial; FLOAT: left; HEIGHT: 10px; OVERFLOW: hidden
+}
+#baipin .end {
+	WIDTH: 780px; FONT: 1px/1px Arial; FLOAT: left; HEIGHT: 10px; OVERFLOW: hidden
+}
+#baipin .title {
+	LINE-HEIGHT: 32px; WIDTH: 780px; HEIGHT: 32px; OVERFLOW: hidden
+}
+#baipin .title SAMP {
+	TEXT-INDENT: 10px; WIDTH: 300px; FLOAT: left; FONT-SIZE: 14px; FONT-WEIGHT: bold
+}
+#baipin .title SPAN {
+	TEXT-ALIGN: right; LINE-HEIGHT: 32px; WIDTH: 470px; FLOAT: left; FONT-SIZE: 12px
+}
+#baipin .sort {
+	LINE-HEIGHT: 25px; WIDTH: 778px; HEIGHT: 25px; OVERFLOW: hidden
+}
+#baipin .sort SAMP {
+	TEXT-INDENT: 20px; WIDTH: 300px; FLOAT: left; FONT-SIZE: 12px; FONT-WEIGHT: bold
+}
+#baipin .sort SPAN {
+	TEXT-ALIGN: right; LINE-HEIGHT: 25px; WIDTH: 470px; FLOAT: left; FONT-SIZE: 12px
+}
+#baipin .streamer {
+	WIDTH: 780px; FONT: 1px/1px Arial; BACKGROUND: #ffffff; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .module {
+	WIDTH: 778px; BACKGROUND: #ffffff; OVERFLOW: hidden
+}
+#baipin .text {
+	MARGIN: 0px 0px 0px 10px; WIDTH: 760px; OVERFLOW: hidden; -margin: 0 0 0 5px
+}
+#baipin .text H1 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 60px; FONT-FAMILY: "Î¢ÈíÑÅºÚ","ºÚÌå"; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: #333333; FONT-SIZE: 30px
+}
+#baipin .text DT {
+	BORDER-BOTTOM: #cccccc 1px dashed; TEXT-ALIGN: center; LINE-HEIGHT: 20px; HEIGHT: 20px; COLOR: #666666; FONT-SIZE: 12px
+}
+#baipin .text DD {
+	LINE-HEIGHT: 20px; MARGIN: 20px 0px; COLOR: #333333; FONT-SIZE: 14px
+}
+#baipin .list380x2 {
+	TEXT-ALIGN: left; MARGIN: 5px auto 0px; WIDTH: 760px; FONT-FAMILY: "ËÎÌå"; OVERFLOW: hidden
+}
+#baipin .list380x2 UL {
+	WIDTH: 760px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .list380x2 UL LI {
+	LIST-STYLE-TYPE: none; WIDTH: 373px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .list380x2 UL LI A {
+	LINE-HEIGHT: 22px; WIDTH: 360px; DISPLAY: block; HEIGHT: 22px; MARGIN-LEFT: 7px; CURSOR: hand
+}
+#baipin .list380x2 UL LI A B {
+	WIDTH: auto; FLOAT: left; COLOR: #c0880f; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+#baipin .list380x2 UL LI A SPAN {
+	WIDTH: auto; FLOAT: left; COLOR: #333333; MARGIN-LEFT: 4px; FONT-SIZE: 14px
+}
+#baipin .list380x2 UL LI A SPAN STRONG {
+	COLOR: #ff6600
+}
+#baipin .list380x2 UL LI A STRONG {
+	WIDTH: auto; FLOAT: left; COLOR: #fc6d02; MARGIN-LEFT: 4px; FONT-SIZE: 14px; FONT-WEIGHT: normal
+}
+#baipin .list380x2 UL LI A EM {
+	TEXT-ALIGN: right; FONT-STYLE: normal; WIDTH: auto; FLOAT: right; COLOR: #999999; FONT-SIZE: 12px
+}
+#baipin .list380x2 UL LI A:hover {
+	LINE-HEIGHT: 22px; WIDTH: 360px; HEIGHT: 22px; COLOR: #0557b4; TEXT-DECORATION: none
+}
+#baipin .list380x2 UL LI A:hover B {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 UL LI A:hover SPAN {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 UL LI A:hover STRONG {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 UL LI A:hover EM {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 UL LI A B:hover {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 UL LI A SPAN:hover {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 UL LI A EM:hover {
+	COLOR: #0557b4; TEXT-DECORATION: underline
+}
+#baipin .list380x2 STRONG {
+	COLOR: #333333
+}
+#baipin .list380x2 FONT {
+	COLOR: #333333
+}
+#baipin .list380_type_a {
+	PADDING-LEFT: 10px; WIDTH: 770px
+}
+#baipin .list380_type_a .sort SAMP {
+	TEXT-INDENT: 40px
+}
+#baipin .list380_type_a .sort SPAN {
+	WIDTH: 50px
+}
+#baipin .list380_type_a DL {
+	WIDTH: 380px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .list380_type_a .sort {
+	BORDER-BOTTOM-STYLE: none; BORDER-RIGHT-STYLE: none; WIDTH: 360px; BORDER-TOP-STYLE: none; BORDER-LEFT-STYLE: none; OVERFLOW: hidden
+}
+#baipin .list380_type_a DD {
+	MARGIN: 0px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .list380_type_a UL {
+	MARGIN-TOP: 10px; WIDTH: 360px; FONT-SIZE: 14px
+}
+#baipin .list380_type_a UL LI {
+	MARGIN: 0px; WIDTH: 100%
+}
+#baipin .list380_type_a UL LI A {
+	MARGIN: 0px; WIDTH: 100%
+}
+#baipin .list250x3 {
+	MARGIN: 5px auto 0px; WIDTH: 760px
+}
+#baipin .list250x3 UL {
+	LIST-STYLE-TYPE: none; WIDTH: 760px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .list250x3 UL LI {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 15px; WIDTH: 253px; BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/ico/b00204.gif) no-repeat 8px 8px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+#baipin .list250x3 A:link {
+	MARGIN-LEFT: 2px; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+#baipin .list250x3 A:visited {
+	MARGIN-LEFT: 2px; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+#baipin .list250x3 A:hover {
+	TEXT-DECORATION: underline
+}
+#baipin .list190x4 {
+	MARGIN: 5px auto 0px; WIDTH: 760px
+}
+#baipin .list190x4 UL {
+	LIST-STYLE-TYPE: none; WIDTH: 760px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .list190x4 UL LI {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 15px; WIDTH: 190px; BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/ico/b00204.gif) no-repeat 8px 7px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+#baipin .list190x4 A:link {
+	MARGIN-LEFT: 2px; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#baipin .list190x4 A:visited {
+	MARGIN-LEFT: 2px; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#baipin .list190x4 A:hover {
+	TEXT-DECORATION: underline
+}
+#baipin .list160 {
+	MARGIN: 0px auto; WIDTH: 160px
+}
+#baipin .list160 UL {
+	LIST-STYLE-TYPE: none; WIDTH: 160px; FLOAT: left
+}
+#baipin .list160 UL LI {
+	TEXT-ALIGN: left; LINE-HEIGHT: 16px; MARGIN-TOP: 4px; WIDTH: 160px; FLOAT: left; FONT-WEIGHT: normal
+}
+#baipin .list160 A:link {
+	MARGIN-LEFT: 2px; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#baipin .list160 A:visited {
+	MARGIN-LEFT: 2px; FONT-SIZE: 12px; TEXT-DECORATION: none
+}
+#baipin .list160 A:hover {
+	TEXT-DECORATION: underline
+}
+#baipin .module .A80x80 {
+	TEXT-ALIGN: center; MARGIN: 10px 6px 0px 20px; WIDTH: 82px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 11px 0 13px
+}
+#baipin .module .A80x80 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 80px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 80px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A80x80 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .module .A120x90 {
+	TEXT-ALIGN: center; MARGIN: 10px 9px 0px 20px; WIDTH: 122px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 14px 0 13px
+}
+#baipin .module .A120x90 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 120px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 90px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A120x90 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .module .A160x120 {
+	TEXT-ALIGN: center; MARGIN: 10px 7px 0px 20px; WIDTH: 162px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 12px 0 12px
+}
+#baipin .module .A160x120 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 160px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 120px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A160x120 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .module .A160x100 {
+	TEXT-ALIGN: center; WIDTH: 162px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .module .A160x100 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 160px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 100px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A160x100 A {
+	LINE-HEIGHT: 12px; FONT-SIZE: 12px
+}
+#baipin .module .A160x220 {
+	TEXT-ALIGN: center; MARGIN: 10px 7px 0px 20px; WIDTH: 162px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 12px 0 12px
+}
+#baipin .module .A160x220 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 160px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 220px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A160x220 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .module .A190x260 {
+	TEXT-ALIGN: center; MARGIN: 10px 30px 0px; WIDTH: 192px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 35px 0 20px
+}
+#baipin .module .A190x260 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 190px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 260px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A190x260 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .module .A220x160 {
+	TEXT-ALIGN: center; MARGIN: 10px 10px 0px 20px; WIDTH: 222px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 14px 0 12px
+}
+#baipin .module .A220x160 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 220px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 160px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A220x160 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .module .A320x240 {
+	TEXT-ALIGN: center; MARGIN: 10px 10px 0px 32px; WIDTH: 322px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 14px 0 20px
+}
+#baipin .module .A320x240 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 320px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 240px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .module .A320x240 A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .imgtext380x2 {
+	MARGIN: 0px 0px 0px 10px; WIDTH: 360px; FLOAT: left; HEIGHT: 105px
+}
+#baipin .imgtext380x2 A {
+	MARGIN: 10px 0px 0px 10px; WIDTH: 341px; FLOAT: left; HEIGHT: 90px; FONT-SIZE: 12px; OVERFLOW: hidden; CURSOR: hand
+}
+#baipin .imgtext380x2 A IMG {
+	WIDTH: 120px; FLOAT: left; HEIGHT: 90px
+}
+#baipin .imgtext380x2 A STRONG {
+	LINE-HEIGHT: 22px; MARGIN: 0px 0px 0px 5px; WIDTH: 200px; FLOAT: left; HEIGHT: 22px; COLOR: #333333; FONT-SIZE: 18px; OVERFLOW: hidden
+}
+#baipin .imgtext380x2 A SPAN {
+	LINE-HEIGHT: 17px; MARGIN: 0px 0px 0px 5px; WIDTH: 200px; FLOAT: left; HEIGHT: 70px
+}
+#baipin .imgtext380x2 A:hover {
+	TEXT-DECORATION: underline
+}
+#baipin .imgtext380x2 A:hover STRONG {
+	TEXT-DECORATION: underline
+}
+#baipin .imgtext380x2 A:hover SPAN {
+	TEXT-DECORATION: underline
+}
+#baipin .imgtext780 {
+	PADDING-BOTTOM: 10px; MARGIN: 0px; PADDING-LEFT: 10px; WIDTH: 758px; PADDING-RIGHT: 10px; DISPLAY: block; HEIGHT: auto; CLEAR: both; OVERFLOW: hidden; PADDING-TOP: 10px
+}
+#baipin .imgtext780 DT {
+	WIDTH: 300px; HEIGHT: 100%; OVERFLOW: hidden
+}
+#baipin .img_left DT {
+	FLOAT: left
+}
+#baipin .img_right DT {
+	FLOAT: right
+}
+#baipin .imgtext780 DD {
+	MARGIN: 0px; WIDTH: 440px; HEIGHT: 100%; OVERFLOW: hidden
+}
+#baipin .img_left DD {
+	FLOAT: right
+}
+#baipin .img_right DD {
+	FLOAT: left
+}
+#baipin .imgtext780 DD A {
+	DISPLAY: block
+}
+#baipin .imgtext780 H5 {
+	TEXT-ALIGN: center; LINE-HEIGHT: 60px; FONT-FAMILY: "ºÚÌå"; HEIGHT: 60px; FONT-SIZE: 30px; OVERFLOW: hidden; FONT-WEIGHT: 100
+}
+#baipin .imgtext780 P {
+	LINE-HEIGHT: 20px; FONT-SIZE: 14px
+}
+#baipin .slideplayer {
+	PADDING-BOTTOM: 10px; PADDING-LEFT: 10px; PADDING-RIGHT: 10px; PADDING-TOP: 10px
+}
+#baipin .slideplayer UL {
+	FLOAT: left
+}
+#baipin .slideplayer DIV {
+	FLOAT: left
+}
+#baipin .slideplayer DL {
+	MARGIN: 0px; WIDTH: 430px; FLOAT: right
+}
+#baipin .slideplayer DL A {
+	DISPLAY: block; CURSOR: pointer
+}
+#baipin .slideplayer DT {
+	TEXT-ALIGN: center; LINE-HEIGHT: 60px; FONT-FAMILY: "ºÚÌå"; HEIGHT: 60px; FONT-SIZE: 30px; OVERFLOW: hidden; FONT-WEIGHT: 100
+}
+#baipin .slideplayer DD {
+	LINE-HEIGHT: 150%; MARGIN: 0px; FONT-SIZE: 14px
+}
+#baipin .imgtext760_01 {
+	MARGIN: 0px 0px 0px 10px; WIDTH: 760px; OVERFLOW: hidden; -margin: 0 0 0 5px
+}
+#baipin .imgtext760_01 .image {
+	TEXT-ALIGN: center; MARGIN: 10px 9px 0px 20px; WIDTH: 190px; FLOAT: left; OVERFLOW: hidden; -margin: 10px 14px 0 10px
+}
+#baipin .imgtext760_01 .image IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 190px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 260px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .imgtext760_01 .image A {
+	LINE-HEIGHT: 16px; FONT-SIZE: 12px
+}
+#baipin .imgtext760_01 .image2 {
+	WIDTH: 530px; FLOAT: left
+}
+#baipin .imgtext760_01 .image2 IMG {
+	BORDER-BOTTOM: #e8e8e8 1px solid; BORDER-LEFT: #e8e8e8 1px solid; WIDTH: 160px; DISPLAY: block; MARGIN-BOTTOM: 5px; HEIGHT: 120px; BORDER-TOP: #e8e8e8 1px solid; BORDER-RIGHT: #e8e8e8 1px solid
+}
+#baipin .imgtext760_01 .image2 A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 16px; MARGIN: 10px 5px 0px 10px; WIDTH: 160px; FLOAT: left; FONT-SIZE: 12px; OVERFLOW: hidden; -margin: 10px 5px 0 10px
+}
+#baipin .imgtext760_01 .text {
+	MARGIN: 10px 0px 0px; WIDTH: 530px; FLOAT: left; HEIGHT: 130px; -margin: 10px 0 0 0
+}
+#baipin .imgtext760_01 .text A {
+	TEXT-ALIGN: left; WIDTH: 530px; FLOAT: left; OVERFLOW: hidden; CURSOR: hand
+}
+#baipin .imgtext760_01 .text A STRONG {
+	LINE-HEIGHT: 32px; COLOR: #333333; FONT-SIZE: 22px
+}
+#baipin .imgtext760_01 .text A SPAN {
+	LINE-HEIGHT: 22px; FONT-SIZE: 14px
+}
+#baipin .imgtext760_01 .list530 {
+	WIDTH: 530px
+}
+#baipin .imgtext760_01 .list530 UL {
+	LIST-STYLE-TYPE: none; WIDTH: 530px; FLOAT: left; OVERFLOW: hidden
+}
+#baipin .imgtext760_01 .list530 UL LI {
+	LINE-HEIGHT: 22px; TEXT-INDENT: 8px; WIDTH: 265px; BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/ico/b00204.gif) no-repeat 0px 8px; FLOAT: left; HEIGHT: 22px; OVERFLOW: hidden; FONT-WEIGHT: normal
+}
+#baipin .imgtext760_01 .list530 A:link {
+	MARGIN-LEFT: 2px; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+#baipin .imgtext760_01 .list530 A:visited {
+	MARGIN-LEFT: 2px; FONT-SIZE: 14px; TEXT-DECORATION: none
+}
+#baipin .imgtext760_01 .list530 A:hover {
+	TEXT-DECORATION: underline
+}
+#baipin .module .box160 {
+	TEXT-ALIGN: center; MARGIN: 10px 7px 0px 20px; WIDTH: 162px; FLOAT: left; HEIGHT: 240px; OVERFLOW: hidden; -margin: 10px 12px 0 12px
+}
+#baipin .img_left_textright {
+	CLEAR: both; OVERFLOW: hidden
+}
+#baipin .img_left_textright .img_left {
+	WIDTH: 180px; FLOAT: left
+}
+#baipin .img_left_textright .img_left A {
+	TEXT-ALIGN: center; LINE-HEIGHT: 19px; MARGIN: 0px auto 10px; WIDTH: 160px; DISPLAY: block
+}
+#baipin .img_left_textright .img_left A:hover IMG {
+	TEXT-DECORATION: none
+}
+#baipin .img_left_textright .text_right {
+	WIDTH: 570px; FLOAT: right
+}
+#baipin .img_left_textright DL {
+	MARGIN-BOTTOM: 30px
+}
+#baipin .img_left_textright DL A {
+	DISPLAY: block
+}
+#baipin .img_left_textright DT {
+	TEXT-ALIGN: center; LINE-HEIGHT: 40px; FONT-FAMILY: "ºÚÌå"; HEIGHT: 40px; FONT-SIZE: 26px; OVERFLOW: hidden; CURSOR: pointer; FONT-WEIGHT: 100
+}
+#baipin .img_left_textright DD {
+	LINE-HEIGHT: 150%; MARGIN: 0px; FONT-SIZE: 14px; CURSOR: pointer
+}
+.style_A1 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A1 .title {
+	BACKGROUND-POSITION: -10px -610px
+}
+.style_A1 .sort {
+	BACKGROUND-POSITION: -10px -660px
+}
+.style_A1 .top {
+	BACKGROUND-POSITION: -10px -650px
+}
+.style_A1 .end {
+	BACKGROUND-POSITION: -10px -685px
+}
+.style_A1 .sort {
+	BORDER-LEFT: #dadada 1px solid; BORDER-RIGHT: #dadada 1px solid
+}
+.style_A1 .module {
+	BORDER-LEFT: #dadada 1px solid; BORDER-RIGHT: #dadada 1px solid
+}
+.style_A1 .title SAMP A {
+	COLOR: #333333
+}
+.style_A1 .sort SAMP A {
+	COLOR: #333333
+}
+.style_A1 .title SAMP A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.style_A1 .sort SAMP A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.style_A1 A:hover {
+	COLOR: #333333; TEXT-DECORATION: underline
+}
+.style_A1 A {
+	COLOR: #333333
+}
+.style_A2 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A2 .title {
+	BACKGROUND-POSITION: -10px -510px
+}
+.style_A2 .sort {
+	BACKGROUND-POSITION: -10px -560px
+}
+.style_A2 .top {
+	BACKGROUND-POSITION: -10px -550px
+}
+.style_A2 .end {
+	BACKGROUND-POSITION: -10px -585px
+}
+.style_A2 .sort {
+	BORDER-LEFT: #c5e1f6 1px solid; BORDER-RIGHT: #c5e1f6 1px solid
+}
+.style_A2 .module {
+	BORDER-LEFT: #c5e1f6 1px solid; BORDER-RIGHT: #c5e1f6 1px solid
+}
+.style_A2 .title SAMP A {
+	COLOR: #066296
+}
+.style_A2 .sort SAMP A {
+	COLOR: #066296
+}
+.style_A2 .title SAMP A:hover {
+	COLOR: #066296; TEXT-DECORATION: underline
+}
+.style_A2 .sort SAMP A:hover {
+	COLOR: #066296; TEXT-DECORATION: underline
+}
+.style_A2 A:hover {
+	COLOR: #066296; TEXT-DECORATION: underline
+}
+.style_A2 A {
+	COLOR: #333333
+}
+.style_A3 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A3 .title {
+	BACKGROUND-POSITION: -10px -410px
+}
+.style_A3 .sort {
+	BACKGROUND-POSITION: -10px -460px
+}
+.style_A3 .top {
+	BACKGROUND-POSITION: -10px -450px
+}
+.style_A3 .end {
+	BACKGROUND-POSITION: -10px -485px
+}
+.style_A3 .sort {
+	BORDER-LEFT: #f3d9a6 1px solid; BORDER-RIGHT: #f3d9a6 1px solid
+}
+.style_A3 .module {
+	BORDER-LEFT: #f3d9a6 1px solid; BORDER-RIGHT: #f3d9a6 1px solid
+}
+.style_A3 .title SAMP A {
+	COLOR: #f44d04
+}
+.style_A3 .sort SAMP A {
+	COLOR: #f44d04
+}
+.style_A3 .title SAMP A:hover {
+	COLOR: #f44d04; TEXT-DECORATION: underline
+}
+.style_A3 .sort SAMP A:hover {
+	COLOR: #f44d04; TEXT-DECORATION: underline
+}
+.style_A3 A:hover {
+	COLOR: #f44d04; TEXT-DECORATION: underline
+}
+.style_A3 A {
+	COLOR: #333333
+}
+.style_A4 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A4 .title {
+	BACKGROUND-POSITION: -10px -310px
+}
+.style_A4 .sort {
+	BACKGROUND-POSITION: -10px -360px
+}
+.style_A4 .top {
+	BACKGROUND-POSITION: -10px -350px
+}
+.style_A4 .end {
+	BACKGROUND-POSITION: -10px -385px
+}
+.style_A4 .sort {
+	BORDER-LEFT: #c3eaea 1px solid; BORDER-RIGHT: #c3eaea 1px solid
+}
+.style_A4 .module {
+	BORDER-LEFT: #c3eaea 1px solid; BORDER-RIGHT: #c3eaea 1px solid
+}
+.style_A4 .title SAMP A {
+	COLOR: #0099a3
+}
+.style_A4 .sort SAMP A {
+	COLOR: #0099a3
+}
+.style_A4 .title SAMP A:hover {
+	COLOR: #0099a3; TEXT-DECORATION: underline
+}
+.style_A4 .sort SAMP A:hover {
+	COLOR: #0099a3; TEXT-DECORATION: underline
+}
+.style_A4 A:hover {
+	COLOR: #0099a3; TEXT-DECORATION: underline
+}
+.style_A4 A {
+	COLOR: #333333
+}
+.style_A5 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A5 .title {
+	BACKGROUND-POSITION: -10px -210px
+}
+.style_A5 .sort {
+	BACKGROUND-POSITION: -10px -260px
+}
+.style_A5 .top {
+	BACKGROUND-POSITION: -10px -250px
+}
+.style_A5 .end {
+	BACKGROUND-POSITION: -10px -285px
+}
+.style_A5 .sort {
+	BORDER-LEFT: #efd1c6 1px solid; BORDER-RIGHT: #efd1c6 1px solid
+}
+.style_A5 .module {
+	BORDER-LEFT: #efd1c6 1px solid; BORDER-RIGHT: #efd1c6 1px solid
+}
+.style_A5 .title SAMP A {
+	COLOR: #e5213d
+}
+.style_A5 .sort SAMP A {
+	COLOR: #e5213d
+}
+.style_A5 .title SAMP A:hover {
+	COLOR: #e5213d; TEXT-DECORATION: underline
+}
+.style_A5 .sort SAMP A:hover {
+	COLOR: #e5213d; TEXT-DECORATION: underline
+}
+.style_A5 A:hover {
+	COLOR: #e5213d; TEXT-DECORATION: underline
+}
+.style_A5 A {
+	COLOR: #333333
+}
+.style_A6 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A6 .title {
+	BACKGROUND-POSITION: -10px -110px
+}
+.style_A6 .sort {
+	BACKGROUND-POSITION: -10px -160px
+}
+.style_A6 .top {
+	BACKGROUND-POSITION: -10px -150px
+}
+.style_A6 .end {
+	BACKGROUND-POSITION: -10px -185px
+}
+.style_A6 .sort {
+	BORDER-LEFT: #e8dcb6 1px solid; BORDER-RIGHT: #e8dcb6 1px solid
+}
+.style_A6 .module {
+	BORDER-LEFT: #e8dcb6 1px solid; BORDER-RIGHT: #e8dcb6 1px solid
+}
+.style_A6 .title SAMP A {
+	COLOR: #964609
+}
+.style_A6 .sort SAMP A {
+	COLOR: #964609
+}
+.style_A6 .title SAMP A:hover {
+	COLOR: #964609; TEXT-DECORATION: underline
+}
+.style_A6 .sort SAMP A:hover {
+	COLOR: #964609; TEXT-DECORATION: underline
+}
+.style_A6 A:hover {
+	COLOR: #964609; TEXT-DECORATION: underline
+}
+.style_A6 A {
+	COLOR: #333333
+}
+.style_A7 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_A.gif) no-repeat
+}
+.style_A7 .title {
+	BACKGROUND-POSITION: -10px -10px
+}
+.style_A7 .sort {
+	BACKGROUND-POSITION: -10px -60px
+}
+.style_A7 .top {
+	BACKGROUND-POSITION: -10px -50px
+}
+.style_A7 .end {
+	BACKGROUND-POSITION: -10px -85px
+}
+.style_A7 .sort {
+	BORDER-LEFT: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid
+}
+.style_A7 .module {
+	BORDER-LEFT: #d9e6bb 1px solid; BORDER-RIGHT: #d9e6bb 1px solid
+}
+.style_A7 .title SAMP A {
+	COLOR: #517a25
+}
+.style_A7 .sort SAMP A {
+	COLOR: #517a25
+}
+.style_A7 .title SAMP A:hover {
+	COLOR: #517a25; TEXT-DECORATION: underline
+}
+.style_A7 .sort SAMP A:hover {
+	COLOR: #517a25; TEXT-DECORATION: underline
+}
+.style_A7 A:hover {
+	COLOR: #517a25; TEXT-DECORATION: underline
+}
+.style_A7 A {
+	COLOR: #333333
+}
+.style_B1 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B1 .title {
+	BACKGROUND-POSITION: -10px -10px
+}
+.style_B1 .sort {
+	BACKGROUND-POSITION: -10px -60px
+}
+.style_B1 .top {
+	BACKGROUND-POSITION: -10px -50px
+}
+.style_B1 .end {
+	BACKGROUND-POSITION: -10px -85px
+}
+.style_B1 .sort {
+	BORDER-LEFT: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.style_B1 .module {
+	BORDER-LEFT: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.style_B1 .title SAMP A {
+	COLOR: #ffffff
+}
+.style_B1 .title SPAN A {
+	COLOR: #ffffff
+}
+.style_B1 .title SAMP A:hover {
+	COLOR: #ffffff
+}
+.style_B1 .title SPAN A:hover {
+	COLOR: #ffffff
+}
+.style_B1 .sort SAMP A {
+	TEXT-INDENT: 40px; COLOR: #e53a06
+}
+.style_B1 .sort SAMP A:hover {
+	COLOR: #e53a06; TEXT-DECORATION: underline
+}
+.style_B1 A:hover {
+	COLOR: #e53a06; TEXT-DECORATION: underline
+}
+.style_B1 A {
+	COLOR: #333333
+}
+.style_B2 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B2 .title {
+	BACKGROUND-POSITION: -10px -110px
+}
+.style_B2 .sort {
+	BACKGROUND-POSITION: -10px -160px
+}
+.style_B2 .top {
+	BACKGROUND-POSITION: -10px -150px
+}
+.style_B2 .end {
+	BACKGROUND-POSITION: -10px -185px
+}
+.style_B2 .sort {
+	BORDER-LEFT: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.style_B2 .module {
+	BORDER-LEFT: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.style_B2 .title SAMP A {
+	COLOR: #ffffff
+}
+.style_B2 .title SPAN A {
+	COLOR: #ffffff
+}
+.style_B2 .title SAMP A:hover {
+	COLOR: #ffffff
+}
+.style_B2 .title SPAN A:hover {
+	COLOR: #ffffff
+}
+.style_B2 .sort SAMP A {
+	TEXT-INDENT: 40px; COLOR: #0070a7
+}
+.style_B2 .sort SAMP A:hover {
+	COLOR: #0070a7; TEXT-DECORATION: underline
+}
+.style_B2 A:hover {
+	COLOR: #0070a7; TEXT-DECORATION: underline
+}
+.style_B2 A {
+	COLOR: #333333
+}
+.style_B3 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .title {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .sort {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .top {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .end {
+	BACKGROUND: url(http://image.dukuai.com/dukuai/upload/ui/08/baipin/baipin_style_B.gif) no-repeat
+}
+.style_B3 .title {
+	BACKGROUND-POSITION: -10px -210px
+}
+.style_B3 .sort {
+	BACKGROUND-POSITION: -10px -260px
+}
+.style_B3 .top {
+	BACKGROUND-POSITION: -10px -250px
+}
+.style_B3 .end {
+	BACKGROUND-POSITION: -10px -285px
+}
+.style_B3 .sort {
+	BORDER-LEFT: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.style_B3 .module {
+	BORDER-LEFT: #dbdbdb 1px solid; BORDER-RIGHT: #dbdbdb 1px solid
+}
+.style_B3 .title SAMP A {
+	COLOR: #ffffff
+}
+.style_B3 .title SPAN A {
+	COLOR: #ffffff
+}
+.style_B3 .title SAMP A:hover {
+	COLOR: #ffffff
+}
+.style_B3 .title SPAN A:hover {
+	COLOR: #ffffff
+}
+.style_B3 .sort SAMP A {
+	TEXT-INDENT: 40px; COLOR: #06810b
+}
+.style_B3 .sort SAMP A:hover {
+	COLOR: #06810b; TEXT-DECORATION: underline
+}
+.style_B3 A:hover {
+	COLOR: #06810b; TEXT-DECORATION: underline
+}
+.style_B3 A {
+	COLOR: #333333
+}
